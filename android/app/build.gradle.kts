@@ -51,10 +51,13 @@ android {
 
       signingConfigs {
         create("release") {
-            keyAlias = keystoreProperties["keyAlias"] as String
-            keyPassword = keystoreProperties["keyPassword"] as String
-            storeFile = keystoreProperties["storeFile"]?.let { file(it) }
-            storePassword = keystoreProperties["storePassword"] as String
+            keyAlias = keystoreProperties["keyAlias"] as String? ?: System.getenv("KEY_ALIAS")
+            keyPassword = keystoreProperties["keyPassword"] as String? ?: System.getenv("KEY_PASSWORD")
+            storePassword = keystoreProperties["storePassword"] as String? ?: System.getenv("KEYSTORE_PASSWORD")
+            val keystorePath = keystoreProperties["storeFile"] as String? ?: System.getenv("KEYSTORE_PATH") ?: "upload-keystore.jks"
+            val fileInApp = file(keystorePath)
+            val fileInRoot = rootProject.file(keystorePath)
+            storeFile = if (fileInApp.exists()) fileInApp else fileInRoot
         }
     }
     buildTypes {
