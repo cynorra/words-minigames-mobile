@@ -1,0 +1,1177 @@
+{
+  "@@locale": "pt_BR",
+  "appName": "Quicko",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  
+  "blindSort": "Ordenação Cega",
+  "@blindSort": {
+    "description": "Title for the Blind Sort game"
+  },
+  "blindSortDescription": "Ordene 10 números de 1-50. Você perde se o novo número não couber em lugar nenhum!",
+  "@blindSortDescription": {
+    "description": "Description for the Blind Sort game"
+  },
+  "nextNumber": "Próximo Número",
+  "@nextNumber": {
+    "description": "Label for the next number in Blind Sort"
+  },
+  "newNumberComing": "Novo Número Chegando...",
+  "@newNumberComing": {
+    "description": "Message when a new number is about to appear"
+  },
+  
+  "start": "Iniciar",
+  "@start": {
+    "description": "Start button text"
+  },
+  "restart": "Reiniciar",
+  "@restart": {
+    "description": "Restart button text"
+  },
+  "home": "Início",
+  "@home": {
+    "description": "Home navigation label"
+  },
+  "games": "Jogos",
+  "@games": {
+    "description": "Games navigation label"
+  },
+  "score": "Pontuação",
+  "@score": {
+    "description": "Score label"
+  },
+  "gameOver": "Fim de Jogo",
+  "@gameOver": {
+    "description": "Game over message"
+  },
+  "tryAgain": "Tentar Novamente",
+  "@tryAgain": {
+    "description": "Try again button text"
+  },
+  "share": "Compartilhar",
+  "@share": {
+    "description": "Share button text"
+  },
+  "confirm": "Confirmar",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+  "fullscreen": "Tela Cheia",
+  "@fullscreen": {
+    "description": "Fullscreen button text"
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "stay": "Ficar",
+  "@stay": {
+    "description": "Stay button text"
+  },
+  "reset": "Redefinir",
+  "@reset": {
+    "description": "Reset button text"
+  },
+  
+  "higherLower": "Maior ou Menor",
+  "@higherLower": {
+    "description": "Title for the Higher or Lower game"
+  },
+  "higherLowerDescription": "Adivinhe se o próximo número será maior ou menor! Os números estão entre 1-50.",
+  "@higherLowerDescription": {
+    "description": "Description for the Higher or Lower game"
+  },
+  "higher": "Maior",
+  "@higher": {
+    "description": "Higher button text"
+  },
+  "lower": "Menor",
+  "@lower": {
+    "description": "Lower button text"
+  },
+  "lastNumber": "Último Número",
+  "@lastNumber": {
+    "description": "Label for the last number"
+  },
+  "completedAllTargets": "Completou todos os objetivos!",
+  "@completedAllTargets": {
+    "description": "Message when all targets are completed"
+  },
+  "targets": "Objetivos",
+  "@targets": {
+    "description": "Label for targets"
+  },
+  "andMore": "e mais...",
+  "@andMore": {
+    "description": "Text shown when there are more items to display"
+  },
+  "missionFailed": "Missão Falhou!",
+  "@missionFailed": {
+    "description": "Mission failed message"
+  },
+  "greenTargetHit": "Objetivo verde atingido!",
+  "@greenTargetHit": {
+    "description": "Green target hit message"
+  },
+  "youHitAllTargets": "Você atingiu todos os objetivos!",
+  "@youHitAllTargets": {
+    "description": "All targets hit message"
+  },
+  "timeRanOut": "O tempo acabou!",
+  "@timeRanOut": {
+    "description": "Time ran out message"
+  },
+  "targetsHit": "Objetivos Atingidos",
+  "@targetsHit": {
+    "description": "Targets hit label"
+  },
+  "mistake": "Erro",
+  "@mistake": {
+    "description": "Mistake label"
+  },
+  "civilianHit": "Civil Atingido",
+  "@civilianHit": {
+    "description": "Civilian hit message"
+  },
+  "youFoundAllColors": "Você encontrou todas as cores!",
+  "@youFoundAllColors": {
+    "description": "All colors found message"
+  },
+  "colorsFound": "Cores Encontradas",
+  "@colorsFound": {
+    "description": "Colors found label"
+  },
+  "lastMistake": "Último Erro",
+  "@lastMistake": {
+    "description": "Last mistake label"
+  },
+  "wrongColor": "Cor Incorreta",
+  "@wrongColor": {
+    "description": "Wrong color message"
+  },
+  "currentNumber": "Número Atual",
+  "@currentNumber": {
+    "description": "Label for the current number"
+  },
+  "close": "Fechar",
+  "@close": {
+    "description": "Close button text"
+  },
+  "betterLuckNextTime": "Melhor sorte na próxima vez!",
+  "@betterLuckNextTime": {
+    "description": "Message shown when player loses"
+  },
+  "losingNumbers": "Números Que Causaram a Perda",
+  "@losingNumbers": {
+    "description": "Title for losing numbers section"
+  },
+  "losingNumber": "Número Que Causou a Perda",
+  "@losingNumber": {
+    "description": "Label for the number that caused loss"
+  },
+  
+  "colorHunt": "Caça às Cores",
+  "@colorHunt": {
+    "description": "Title for the Color Hunt game"
+  },
+  "colorHuntDescription": "Encontre a cor objetivo! A cor do texto pode te enganar!",
+  "@colorHuntDescription": {
+    "description": "Description for the Color Hunt game"
+  },
+  "target": "Objetivo",
+  "@target": {
+    "description": "Target label"
+  },
+  "time": "Tempo",
+  "@time": {
+    "description": "Time label"
+  },
+  "wrongColorSelected": "Cor Incorreta Selecionada",
+  "@wrongColorSelected": {
+    "description": "Message when wrong color is selected"
+  },
+  "wrongColorSelection": "Seleção de Cor Incorreta",
+  "@wrongColorSelection": {
+    "description": "Message when player loses due to wrong color selection"
+  },
+  
+  "favorites": "Favoritos",
+  "@favorites": {
+    "description": "Favorites navigation label"
+  },
+  "loadingFavorites": "Carregando Favoritos...",
+  "@loadingFavorites": {
+    "description": "Message when loading favorites"
+  },
+  "noFavoritesYet": "Ainda Não Há Favoritos",
+  "@noFavoritesYet": {
+    "description": "Message when no favorites exist"
+  },
+  "addGamesToFavorites": "Adicione jogos aos favoritos para acesso rápido",
+  "@addGamesToFavorites": {
+    "description": "Instruction to add games to favorites"
+  },
+  "browseGames": "Explorar Jogos",
+  "@browseGames": {
+    "description": "Browse games button text"
+  },
+  
+  "aimTrainer": "Treinador de Mira",
+  "@aimTrainer": {
+    "description": "Title for the Aim Trainer game"
+  },
+  "aimTrainerDescription": "Tente atirar nos objetivos vermelhos que aparecem aleatoriamente por 20 segundos. Cada acerto vale 1 ponto!",
+  "@aimTrainerDescription": {
+    "description": "Description for the Aim Trainer game"
+  },
+  
+  "numberMemory": "Memória de Números",
+  "@numberMemory": {
+    "description": "Title for the Number Memory game"
+  },
+  "numberMemoryDescription": "Memorize a sequência de números e digite corretamente usando o teclado. Quantos dígitos você consegue lembrar?",
+  "@numberMemoryDescription": {
+    "description": "Description for the Number Memory game"
+  },
+  
+  "findDifference": "Encontre a Diferença",
+  "@findDifference": {
+    "description": "Title for the Find the Difference game"
+  },
+  "findDifferenceDescription": "Encontre o quadrado com uma cor diferente. Fica mais difícil a cada rodada!",
+  "@findDifferenceDescription": {
+    "description": "Description for the Find the Difference game"
+  },
+  
+  "rockPaperScissors": "Pedra-Papel-Tesoura",
+  "@rockPaperScissors": {
+    "description": "Title for the Rock-Paper-Scissors game"
+  },
+  "rockPaperScissorsDescription": "Jogue contra o computador. O primeiro a chegar a 5 pontos vence.",
+  "@rockPaperScissorsDescription": {
+    "description": "Description for the Rock-Paper-Scissors game"
+  },
+  
+  "twentyOne": "21 (Vinte e Um)",
+  "@twentyOne": {
+    "description": "Title for the 21 (Blackjack) game"
+  },
+  "twentyOneDescription": "Vence o crupiê até 21! Chegue o mais perto possível sem ultrapassar.",
+  "@twentyOneDescription": {
+    "description": "Description for the 21 (Blackjack) game"
+  },
+  
+  "ticTacToe": "Jogo da Velha",
+  "@ticTacToe": {
+    "description": "Title for the Jogo da Velha game"
+  },
+  "ticTacToeDescription": "Jogue contra o computador! Faça três seguidas para ganhar.",
+  "@ticTacToeDescription": {
+    "description": "Description for the Jogo da Velha game"
+  },
+  
+  "nowYourTurn": "Agora é sua vez!",
+  "@nowYourTurn": {
+    "description": "Message indicating it's the player's turn"
+  },
+  "correct": "Correto!",
+  "@correct": {
+    "description": "Message when answer is correct"
+  },
+  "playing": "Jogando",
+  "@playing": {
+    "description": "Playing status label"
+  },
+
+  "tapToStartGuessing": "Toque em Maior ou Menor para começar a adivinhar! Os números estão entre 1-50.",
+  "@tapToStartGuessing": {
+    "description": "Instruction to start guessing in Higher or Lower"
+  },
+  "numbersBetween1And50": "Os números estão entre 1-50",
+  "@numbersBetween1And50": {
+    "description": "Information about number range"
+  },
+  
+  "leaderboard": "Tabela de Classificação",
+  "@leaderboard": {
+    "description": "Leaderboard navigation label"
+  },
+  "noLeaderboardData": "Sem Dados da Tabela de Classificação",
+  "@noLeaderboardData": {
+    "description": "Message when no leaderboard data exists"
+  },
+  "playGamesToSeeScores": "Jogue para ver suas pontuações mais altas aqui!",
+  "@playGamesToSeeScores": {
+    "description": "Instruction to play games to see scores"
+  },
+  "playGames": "Jogar",
+  "@playGames": {
+    "description": "Play games button text"
+  },
+  "swipeToDeleteHint": "Deslize para a esquerda para excluir pontuações altas",
+  "@swipeToDeleteHint": {
+    "description": "Hint text for swipe to delete functionality"
+  },
+  "removeAds": "Remover Anúncios",
+  "@removeAds": {
+    "description": "Opção de assinatura para remover anúncios"
+  },
+  "removeAdsDescription": "Desfrute de uma experiência sem anúncios com pagamento único",
+  "@removeAdsDescription": {
+    "description": "Descrição da assinatura para remover anúncios"
+  },
+  "monthlySubscription": "Assinatura Mensal",
+  "@monthlySubscription": {
+    "description": "Rótulo de assinatura mensal"
+  },
+  "buyNow": "Comprar",
+  "@subscribeNow": {
+    "description": "Texto do botão Assinar agora"
+  },
+  "restorePurchases": "Restaurar Compras",
+  "@restorePurchases": {
+    "description": "Texto do botão Restaurar compras"
+  },
+  "subscriptionActive": "Assinatura Ativa",
+  "@subscriptionActive": {
+    "description": "Status de assinatura ativa"
+  },
+  "subscriptionExpired": "Assinatura Expirada",
+  "@subscriptionExpired": {
+    "description": "Status de assinatura expirada"
+  },
+  "purchasedOn": "Comprado em: {date}",
+  "@daysRemaining": {
+    "description": "Dias restantes na assinatura",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "purchaseSuccess": "Compra Bem-sucedida!",
+  "@purchaseSuccess": {
+    "description": "Mensagem de sucesso da compra"
+  },
+  "purchaseError": "Falha na Compra",
+  "@purchaseError": {
+    "description": "Mensagem de erro da compra"
+  },
+  "restoreSuccess": "Compras Restauradas!",
+  "@restoreSuccess": {
+    "description": "Mensagem de sucesso da restauração"
+  },
+  "restoreError": "Falha na Restauração",
+  "@restoreError": {
+    "description": "Mensagem de erro da restauração"
+  },
+  "noBannerAds": "Sem anúncios de banner",
+  "@noBannerAds": {
+    "description": "Descrição de recurso para sem anúncios de banner"
+  },
+  "noInterstitialAds": "Sem anúncios intersticiais",
+  "@noInterstitialAds": {
+    "description": "Descrição de recurso para sem anúncios intersticiais"
+  },
+  "noRewardedAds": "Sem anúncios recompensados",
+  "@noRewardedAds": {
+    "description": "Descrição de recurso para sem anúncios recompensados"
+  },
+  "cleanExperience": "Experiência limpa e sem distrações",
+  "@cleanExperience": {
+    "description": "Descrição de recurso para experiência limpa"
+  },
+  "cancelAnytime": "Cancele a qualquer momento",
+  "cancelSubscriptionWarning": "Cancelar sua assinatura removerá o acesso sem anúncios e você verá anúncios novamente.",
+  "@cancelAnytime": {
+    "description": "Descrição de recurso para cancelar a qualquer momento"
+  },
+  "subscriptionPrice": "$2.99",
+  "@subscriptionPrice": {
+    "description": "Subscription price display"
+  },
+  "oneTimePayment": "Pagamento único",
+  "@usdPerMonth": {
+    "description": "Rótulo USD por mês"
+  },
+  "bestValue": "MELHOR VALOR",
+  "@bestValue": {
+    "description": "Rótulo melhor valor"
+  },
+  "lifetimeAccess": "ACESSO VITALÍCIO",
+  "@fiftyPercentOff": {
+    "description": "Rótulo 50% de desconto"
+  },
+  "importantNotice": "Aviso Importante",
+  "@importantNotice": {
+    "description": "Título de aviso importante para avisos"
+  },
+  "gotIt": "Entendi",
+  "@gotIt": {
+    "description": "Got it button text"
+  },
+  "totalGames": "Total de Jogos",
+  "@totalGames": {
+    "description": "Total games label"
+  },
+  "highestScore": "Pontuação Mais Alta",
+  "@highestScore": {
+    "description": "Highest score label"
+  },
+  "averageScore": "Pontuação Média",
+  "@averageScore": {
+    "description": "Average score label"
+  },
+  "highScore": "Pontuação Alta: {score}",
+  "@highScore": {
+    "description": "High score display with score value",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "lastPlayed": "Último Jogo: {date}",
+  "@lastPlayed": {
+    "description": "Last played date display",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "22.03.25"
+      }
+    }
+  },
+  "sortBy": "Ordenar Por",
+  "@sortBy": {
+    "description": "Sort by label"
+  },
+  "sortByScore": "Ordenar por Pontuação",
+  "@sortByScore": {
+    "description": "Sort by score option"
+  },
+  "sortByLastPlayed": "Ordenar por Último Jogo",
+  "@sortByLastPlayed": {
+    "description": "Sort by last played option"
+  },
+  "shareAchievements": "Compartilhar Conquistas",
+  "@shareAchievements": {
+    "description": "Share achievements button text"
+  },
+  "previewImage": "Visualizar Imagem",
+  "@previewImage": {
+    "description": "Preview image button text"
+  },
+  "shareImage": "Compartilhar Imagem",
+  "@shareImage": {
+    "description": "Share image button text"
+  },
+  "shareNoData": "Ainda não há dados para compartilhar. Jogue primeiro!",
+  "@shareNoData": {
+    "description": "Message when no data is available to share"
+  },
+  "shareError": "Erro ao compartilhar conquistas. Tente novamente.",
+  "@shareError": {
+    "description": "Error message when sharing fails"
+  },
+  
+  "timeUp": "Tempo Esgotado",
+  "@timeUp": {
+    "description": "Time up message"
+  },
+  "timeUpMessage": "Seu tempo acabou!",
+  "@timeUpMessage": {
+    "description": "Message when time runs out"
+  },
+  
+  "finalScore": "Pontuação Final",
+  "@finalScore": {
+    "description": "Final score label"
+  },
+  "youWon": "Você Venceu!",
+  "rateQuicko": "Avaliar Quicko",
+  "rateQuickoDescription": "Seu feedback nos ajuda a melhorar e alcançar mais usuários!",
+  "howWouldYouRate": "Como você avaliaria o Quicko?",
+  "rateOnStore": "Avaliar na Loja",
+  "openingStore": "Abrindo Loja...",
+  "ratingPoor": "Ruim",
+  "ratingFair": "Regular",
+  "ratingGood": "Bom",
+  "ratingVeryGood": "Muito Bom",
+  "ratingExcellent": "Excelente!",
+  "thankYouForRating": "Obrigado por avaliar o Quicko!",
+  "couldNotOpenStore": "Não foi possível abrir a loja. Tente novamente.",
+  "@youWon": {
+    "description": "You won message"
+  },
+  "congratulationsMessage": "Parabéns! Você completou o desafio!",
+  "@congratulationsMessage": {
+    "description": "Congratulations message for winning"
+  },
+  "excellentPerformance": "Excelente desempenho!",
+  "@excellentPerformance": {
+    "description": "Message for excellent performance"
+  },
+  "playAgain": "Jogar Novamente",
+  "@playAgain": {
+    "description": "Play again button text"
+  },
+  "deleteHighScore": "Excluir Pontuação Alta",
+  "@deleteHighScore": {
+    "description": "Delete high score dialog title"
+  },
+  "deleteHighScoreMessage": "Tem certeza de que deseja excluir a pontuação alta deste jogo?",
+  "@deleteHighScoreMessage": {
+    "description": "Delete high score confirmation message"
+  },
+  "delete": "Excluir",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "language": "Idioma",
+  "@language": {
+    "description": "Language settings title"
+  },
+  "selectLanguage": "Selecionar Idioma",
+  "@selectLanguage": {
+    "description": "Select language prompt"
+  },
+  "languageChangeInfo": "As mudanças de idioma serão aplicadas imediatamente. O aplicativo será reiniciado para aplicar o novo idioma.",
+  "@languageChangeInfo": {
+    "description": "Information about language change"
+  },
+  "choosePreferredLanguage": "Escolha seu idioma preferido",
+  "@choosePreferredLanguage": {
+    "description": "Text for language selection prompt"
+  },
+  
+  "sort_by_date": "Ordenar por Data",
+  "@sort_by_date": {
+    "description": "Sort by date option"
+  },
+  
+  "sort_by_game": "Ordenar por Jogo",
+  "@sort_by_game": {
+    "description": "Sort by game option"
+  },
+  
+  "theme": "Tema",
+  "@theme": {
+    "description": "Theme settings title"
+  },
+  
+  "selectTheme": "Selecionar Tema",
+  "@selectTheme": {
+    "description": "Select theme prompt"
+  },
+  
+  "lightTheme": "Claro",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  
+  "darkTheme": "Escuro",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  
+  "systemTheme": "Sistema",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  
+  "lightThemeDescription": "Tema claro para ambientes iluminados",
+  "@lightThemeDescription": {
+    "description": "Light theme description"
+  },
+  
+  "darkThemeDescription": "Tema escuro para ambientes com pouca luz",
+  "@darkThemeDescription": {
+    "description": "Dark theme description"
+  },
+  
+  "systemThemeDescription": "Segue a configuração de tema do seu dispositivo",
+  "@systemThemeDescription": {
+    "description": "System theme description"
+  },
+  
+  "themeChangeInfo": "As mudanças de tema serão aplicadas imediatamente em todo o aplicativo.",
+  "@themeChangeInfo": {
+    "description": "Information about theme changes"
+  },
+  "choosePreferredTheme": "Escolha seu tema preferido",
+  "@choosePreferredTheme": {
+    "description": "Text for theme selection prompt"
+  },
+  
+  "startGame": "Iniciar Jogo",
+  "@startGame": {
+    "description": "Start game button text"
+  },
+  "restartGame": "Reiniciar Jogo",
+  "@restartGame": {
+    "description": "Restart game button text"
+  },
+  "you": "Você",
+  "@you": {
+    "description": "Player label"
+  },
+  "cpu": "CPU",
+  "@cpu": {
+    "description": "Computer opponent label"
+  },
+  "dealer": "Crupiê",
+  "@dealer": {
+    "description": "Dealer label for card games"
+  },
+  "youWin": "Você Venceu!",
+  "@youWin": {
+    "description": "Win message"
+  },
+  "youLose": "Você Perdeu!",
+  "@youLose": {
+    "description": "Lose message"
+  },
+  "tie": "Empate!",
+  "@tie": {
+    "description": "Tie message"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total score label"
+  },
+  
+  "red": "Vermelho",
+  "@red": {
+    "description": "Red color name"
+  },
+  "green": "Verde",
+  "@green": {
+    "description": "Green color name"
+  },
+  "blue": "Azul",
+  "@blue": {
+    "description": "Blue color name"
+  },
+  "purple": "Roxo",
+  "@purple": {
+    "description": "Purple color name"
+  },
+  "orange": "Laranja",
+  "@orange": {
+    "description": "Orange color name"
+  },
+  "yellow": "Amarelo",
+  "@yellow": {
+    "description": "Yellow color name"
+  },
+  "pink": "Rosa",
+  "@pink": {
+    "description": "Pink color name"
+  },
+  "brown": "Marrom",
+  "@brown": {
+    "description": "Brown color name"
+  },
+  "cyan": "Ciano",
+  "@cyan": {
+    "description": "Cyan color name"
+  },
+  "lime": "Lima",
+  "@lime": {
+    "description": "Lime color name"
+  },
+  "magenta": "Magenta",
+  "@magenta": {
+    "description": "Magenta color name"
+  },
+  "teal": "Verde-azulado",
+  "@teal": {
+    "description": "Teal color name"
+  },
+  "indigo": "Índigo",
+  "@indigo": {
+    "description": "Indigo color name"
+  },
+  "amber": "Âmbar",
+  "@amber": {
+    "description": "Amber color name"
+  },
+  "deep_purple": "Roxo Escuro",
+  "@deep_purple": {
+    "description": "Deep purple color name"
+  },
+  "light_blue": "Azul Claro",
+  "@light_blue": {
+    "description": "Light blue color name"
+  },
+  
+  "play": "Jogar",
+  "@play": {
+    "description": "Play button text"
+  },
+  
+  "appSettings": "Configurações do App",
+  "@appSettings": {
+    "description": "App settings title"
+  },
+  "customizeAppExperience": "Personalize sua experiência no aplicativo",
+  "@customizeAppExperience": {
+    "description": "App settings description"
+  },
+  
+  "settings": "Configurações",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  
+  "hit": "Comprar",
+  "@hit": {
+    "description": "Hit button text for 21 game"
+  },
+  "stand": "Parar",
+  "@stand": {
+    "description": "Stand button text for 21 game"
+  },
+  
+  "reactionTime": "Tempo de Reação",
+  "@reactionTime": {
+    "description": "Title for the Reaction Time game"
+  },
+  "reactionTimeDescription": "Clique nos números de 1 a 12 na ordem correta o mais rápido possível. Seu tempo será medido (menor é melhor).",
+  "@reactionTimeDescription": {
+    "description": "Description for the Reaction Time game"
+  },
+  "wrongSequence": "Sequência incorreta!",
+  "@wrongSequence": {
+    "description": "Wrong sequence message for reaction time game"
+  },
+  "congratulations": "Parabéns!",
+  "@congratulations": {
+    "description": "Congratulations message for winning games"
+  },
+  "next": "Próximo",
+  "@next": {
+    "description": "Next label"
+  },
+  
+  "numbersSorted": "Números Ordenados",
+  "@numbersSorted": {
+    "description": "Label for numbers sorted in Blind Sort game"
+  },
+  "numbersRemembered": "Números Lembrados",
+  "@numbersRemembered": {
+    "description": "Label for numbers remembered in Number Memory game"
+  },
+  "correctGuesses": "Palpites Corretos",
+  "@correctGuesses": {
+    "description": "Label for correct guesses in Higher Lower game"
+  },
+  "yourScore": "Sua Pontuação",
+  "@yourScore": {
+    "description": "Label for player score in RPS game"
+  },
+  "cpuScore": "Pontuação CPU",
+  "@cpuScore": {
+    "description": "Label for CPU score in RPS game"
+  },
+  "result": "Resultado",
+  "@result": {
+    "description": "Label for result in 21 game"
+  },
+  "bust": "Estourou!",
+  "@bust": {
+    "description": "Message when player goes over 21"
+  },
+  "wrongNumber": "Número Incorreto",
+  "@wrongNumber": {
+    "description": "Message for wrong number in Number Memory"
+  },
+  "youSuccessfullySortedAllNumbers": "Você ordenou com sucesso todos os números!",
+  "@youSuccessfullySortedAllNumbers": {
+    "description": "Success message for Blind Sort game"
+  },
+  "youRememberedAllNumbers": "Você lembrou todos os números!",
+  "@youRememberedAllNumbers": {
+    "description": "Success message for Number Memory game"
+  },
+  "youGuessedCorrectly": "Você adivinhou corretamente!",
+  "@youGuessedCorrectly": {
+    "description": "Success message for Higher Lower game"
+  },
+  "youWonTheGame": "Você venceu o jogo!",
+  "@youWonTheGame": {
+    "description": "Success message for RPS game"
+  },
+  "youReached21": "Você chegou a 21!",
+  "@youReached21": {
+    "description": "Success message for 21 game"
+  },
+  "youWentOver21": "Você ultrapassou 21!",
+  "@youWentOver21": {
+    "description": "Failure message for 21 game"
+  },
+  "whyYouLost": "Por que você perdeu",
+  "@whyYouLost": {
+    "description": "Label for loss reason section"
+  },
+  "sortLeaderboard": "Ordenar Tabela de Classificação",
+  "@sortLeaderboard": {
+    "description": "Title for sort leaderboard dialog"
+  },
+  "sortByName": "Ordenar por Nome",
+  "@sortByName": {
+    "description": "Sort by name option"
+  },
+  "sortByDate": "Ordenar por Data",
+  "@sortByDate": {
+    "description": "Sort by date option"
+  },
+  "perfectTime": "Tempo Perfeito!",
+  "@perfectTime": {
+    "description": "Message for perfect completion time"
+  },
+  "goodTime": "Bom Tempo!",
+  "@goodTime": {
+    "description": "Message for good completion time"
+  },
+  "averageTime": "Tempo Médio",
+  "@averageTime": {
+    "description": "Message for average completion time"
+  },
+  "slowTime": "Tempo Lento",
+  "@slowTime": {
+    "description": "Message for slow completion time"
+  },
+  "verySlowTime": "Tempo Muito Lento",
+  "@verySlowTime": {
+    "description": "Message for very slow completion time"
+  },
+  "patternMemory": "Memória de Padrões",
+  "@patternMemory": {
+    "description": "Title for the Pattern Memory game"
+  },
+  "patternMemoryDescription": "Memorize o padrão na tela e replique-o. O padrão fica mais complexo a cada nível.",
+  "@patternMemoryDescription": {
+    "description": "Description for the Pattern Memory game"
+  },
+  "patternMemoryInstructions": "Memorize o padrão na tela e replique-o. O padrão fica mais complexo a cada nível.",
+  "@patternMemoryInstructions": {
+    "description": "Instructions for the Pattern Memory game"
+  },
+  "wrongPattern": "Padrão Incorreto",
+  "@wrongPattern": {
+    "description": "Message when wrong pattern is selected"
+  },
+
+  "wrong": "Incorreto",
+  "@wrong": {
+    "description": "Wrong message"
+  },
+  "row": "linha",
+  "@row": {
+    "description": "Row label for accessibility"
+  },
+  "column": "coluna",
+  "@column": {
+    "description": "Column label for accessibility"
+  },
+  
+  "continueGame": "Continuar Jogo",
+  "@continueGame": {
+    "description": "Continue game dialog title"
+  },
+  "watchAdToContinue": "Assistir anúncio para continuar",
+  "@watchAdToContinue": {
+    "description": "Watch ad to continue button text"
+  },
+  "oneTimeContinue": "Continuar 1 Vez",
+  "@oneTimeContinue": {
+    "description": "Button text for ad-free users to continue game once"
+  },
+  "continueGameDescription": "Continue seu jogo de onde parou.",
+  "@continueGameDescription": {
+    "description": "Description for continue game option"
+  },
+  "watchAdToContinueDescription": "Assista a um anúncio curto para continuar seu jogo de onde parou.",
+  "@watchAdToContinueDescription": {
+    "description": "Description for watching ad to continue game"
+  },
+  "cancelSubscription": "Cancelar Assinatura",
+  "@cancelSubscription": {
+    "description": "Title for cancel subscription screen"
+  },
+  "cancelSubscriptionDescription": "Cancele sua assinatura sem anúncios e volte aos anúncios",
+  "@cancelSubscriptionDescription": {
+    "description": "Description for cancel subscription screen"
+  },
+  "adNotAvailable": "Anúncio não disponível",
+  "@adNotAvailable": {
+    "description": "Ad not available dialog title"
+  },
+  "adNotAvailableMessage": "Nenhum anúncio está disponível no momento. Tente novamente mais tarde.",
+  "@adNotAvailableMessage": {
+    "description": "Ad not available message"
+  },
+  "adFailed": "Anúncio falhou",
+  "@adFailed": {
+    "description": "Ad failed dialog title"
+  },
+  "adFailedMessage": "Falha ao mostrar anúncio. Tente novamente.",
+  "@adFailedMessage": {
+    "description": "Ad failed message"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "exit": "Sair",
+  "@exit": {
+    "description": "Exit button text"
+  },
+  "soundSettings": "Configurações de som",
+  "soundSettingsMenuSubtitle": "Sons do app e nível de efeitos",
+  "appSounds": "Sons do aplicativo",
+  "appSoundsDescription": "Ativar/desativar sons e ajustar o nível dos efeitos",
+  "sounds": "Sons",
+  "soundsOn": "Ativado",
+  "soundsOff": "Desativado",
+  "effectsVolume": "Volume dos efeitos",
+  "soundTest": "Teste de som",
+  "playSampleSound": "Reproduzir som de exemplo",
+  "purchaseErrorDescription": "Não conseguimos completar sua compra. Tente novamente ou verifique seu método de pagamento.",
+  "restoreErrorDescription": "Não conseguimos restaurar suas compras. Tente novamente.",
+  "noPurchasesFound": "Nenhuma Compra Anterior Encontrada",
+  "noPurchasesFoundDescription": "Não conseguimos encontrar compras anteriores para restaurar. Certifique-se de estar conectado com o mesmo Apple ID que você usou para a compra original.",
+
+  "feedback": "Feedback",
+  "feedbackAndSuggestions": "Feedback e Sugestões",
+  "feedbackAndSuggestionsSubtitle": "Compartilhe suas ideias e nos ajude a melhorar",
+  "directContact": "Contato Direto",
+  "directContactDescription": "Se o formulário de feedback não funcionar, você pode nos contatar diretamente em:",
+  "sendFeedback": "Enviar Feedback",
+  "sending": "Enviando...",
+  "feedbackSentSuccess": "✅ Feedback enviado com sucesso! Obrigado pela sua contribuição.",
+  "feedbackSuccessDescription": "Obrigado pelo seu feedback! Apreciamos sua contribuição e a revisaremos cuidadosamente.",
+  "feedbackSuccessGotIt": "Entendi!",
+  "feedbackErrorTitle": "E-mail não pôde ser enviado",
+  "feedbackErrorDescription": "Não conseguimos enviar seu feedback neste momento. Por favor, tente novamente mais tarde ou entre em contato conosco diretamente em quickogamehelp@gmail.com",
+  "feedbackSentError": "❌ {errorMessage}. Tente novamente ou use a opção de email direto acima.",
+  "feedbackCategoryBug": "Relatório de Bug",
+  "feedbackCategoryFeature": "Solicitação de Funcionalidade",
+  "feedbackCategoryImprovement": "Sugestão de Melhoria",
+  "feedbackCategoryGeneral": "Feedback Geral",
+  "feedbackCategory": "Categoria",
+  "feedbackTitle": "Título",
+  "feedbackTitleHint": "Breve descrição do seu feedback",
+  "feedbackDescription": "Descrição",
+  "feedbackDescriptionHint": "Por favor, forneça informações detalhadas sobre seu feedback...",
+  "feedbackEmail": "Email (Opcional)",
+  "feedbackEmailHint": "seu.email@exemplo.com",
+  "feedbackEmailDescription": "Usaremos para entrar em contato sobre seu feedback se necessário.",
+  "feedbackFrom": "Feedback de {title}",
+  "emailLaunchError": "Não foi possível abrir o aplicativo de email. Tente novamente manualmente.",
+  "invalidFeedbackData": "Dados de feedback inválidos",
+  "failedToSendFeedback": "Não foi possível enviar o feedback. Tente novamente.",
+  "errorSendingFeedback": "Erro ao enviar feedback: {error}",
+  "maybeLater": "Mais tarde",
+  "noEntriesYet": "Ainda não há entradas",
+  "@noEntriesYet": {
+    "description": "Message when there are no leaderboard entries"
+  },
+  "yourRanking": "Sua Classificação",
+  "@yourRanking": {
+    "description": "Label for user's ranking in leaderboard"
+  },
+  "thisIsYourScore": "Este é Seu Score!",
+  "@thisIsYourScore": {
+    "description": "Message shown when user's score appears in leaderboard"
+  },
+  "loadingUserData": "Carregando dados do usuário...",
+  "@loadingUserData": {
+    "description": "Message shown when loading user data for leaderboard"
+  },
+  "leaderboardProfile": "Perfil da Classificação",
+  "@leaderboardProfile": {
+    "description": "Title for leaderboard profile settings"
+  },
+  "leaderboardProfileSubtitle": "Edite seu nome e bandeira do país",
+  "@leaderboardProfileSubtitle": {
+    "description": "Subtitle for leaderboard profile settings"
+  },
+  "name": "Nome",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameRequired": "Nome é obrigatório",
+  "@nameRequired": {
+    "description": "Validation message for required name"
+  },
+  "minimumTwoCharacters": "Pelo menos 2 caracteres",
+  "@minimumTwoCharacters": {
+    "description": "Validation message for minimum name length"
+  },
+  "country": "País",
+  "@country": {
+    "description": "Country field label"
+  },
+  "searchCountry": "Buscar País",
+  "@searchCountry": {
+    "description": "Country search field label"
+  },
+  "areYouSure": "Tem certeza?",
+  "@areYouSure": {
+    "description": "Confirmation dialog title"
+  },
+  "profileChangeWarning": "Seu progresso até agora continuará com um nome diferente.",
+  "@profileChangeWarning": {
+    "description": "Warning message about profile change"
+  },
+  "profileChangeDescription": "Você está prestes a alterar as informações do seu perfil (nome e país).",
+  "@profileChangeDescription": {
+    "description": "Description of profile change action"
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "save": "Salvar",
+  "@save": {
+    "description": "Save button text"
+  },
+  "congratulations": "Parabéns!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "yourScore": "sua pontuação:",
+  "@yourScore": {
+    "description": "Label for user's score"
+  },
+  "registerForLeaderboard": "Registre-se na tabela de classificação",
+  "@registerForLeaderboard": {
+    "description": "Title for leaderboard registration"
+  },
+  "enterInfoForGlobalRanking": "Digite suas informações para adicionar sua pontuação ao ranking global.",
+  "@enterInfoForGlobalRanking": {
+    "description": "Description for leaderboard registration"
+  },
+  "enterYourName": "Digite seu nome",
+  "@enterYourName": {
+    "description": "Hint text for name field"
+  },
+  "writeCountryName": "Digite o nome do país...",
+  "@writeCountryName": {
+    "description": "Hint text for country search"
+  },
+  "selectYourCountry": "Selecione seu país",
+  "@selectYourCountry": {
+    "description": "Hint text for country field"
+  },
+  "giveUp": "Desistir",
+  "@giveUp": {
+    "description": "Give up button text"
+  },
+  "addToLeaderboard": "Adicionar à tabela de classificação?",
+  "@addToLeaderboard": {
+    "description": "Title for leaderboard opt-in dialog"
+  },
+  "addToLeaderboardDescription": "Adicione sua pontuação ao ranking global para competir com outros jogadores.",
+  "@addToLeaderboardDescription": {
+    "description": "Description for leaderboard opt-in dialog"
+  },
+  "yesAdd": "Sim, Adicionar",
+  "@yesAdd": {
+    "description": "Yes button for adding to leaderboard"
+  },
+  "generatingNumber": "Gerando número...",
+  "@generatingNumber": {
+    "description": "Message shown while generating a random number"
+  },
+  "calculatingResult": "Calculando resultado...",
+  "@calculatingResult": {
+    "description": "Message shown while calculating game result"
+  },
+  "premiumFeatures": "Recursos Premium",
+  "@premiumFeatures": {
+    "description": "Title for premium features section"
+  },
+  "getCleanExperience": "Tenha uma experiência limpa e sem anúncios com recursos premium.",
+  "@getCleanExperience": {
+    "description": "Description for premium features"
+  },
+  "monthlySubscription": "Assinatura mensal",
+  "@monthlySubscription": {
+    "description": "Monthly subscription text"
+  },
+  "gameInProgress": "Jogo em Andamento",
+  "@gameInProgress": {
+    "description": "Game in progress dialog title"
+  },
+  "gameInProgressSubtitle": "Você tem uma sessão de jogo ativa",
+  "@gameInProgressSubtitle": {
+    "description": "Subtitle for game in progress dialog"
+  },
+  "gameInProgressTitle": "Sessão de Jogo Ativa",
+  "@gameInProgressTitle": {
+    "description": "Title for game in progress dialog content"
+  },
+  "gameCompleted": "Jogo Concluído!",
+  "@gameCompleted": {
+    "description": "Title for game completed dialog content"
+  },
+  "gameCompletedMessage": "Parabéns por completar o jogo! Você pode reiniciar para jogar novamente ou sair para voltar ao menu principal.",
+  "@gameCompletedMessage": {
+    "description": "Message for game completed dialog"
+  },
+  "uninstallWarningTitle": "Aviso Importante",
+  "@uninstallWarningTitle": {
+    "description": "Title for uninstall warning dialog"
+  },
+  "uninstallWarningMessage": "Se você desinstalar o aplicativo, todas as suas pontuações de jogo e direitos de assinatura serão permanentemente excluídos.",
+  "@uninstallWarningMessage": {
+    "description": "Message for uninstall warning dialog"
+  },
+  
+  "connectionProblem": "Problema de Conexão",
+  "@connectionProblem": {"description": "Título para erros de conexão de rede"},
+  "connectionProblemDescription": "Verifique sua conexão com a internet e tente novamente. Uma conexão estável é necessária para compras.",
+  "@connectionProblemDescription": {"description": "Descrição para erros de conexão de rede"},
+  
+  "paymentMethodIssue": "Problema com Método de Pagamento",
+  "@paymentMethodIssue": {"description": "Título para erros de método de pagamento"},
+  "paymentMethodIssueDescription": "Há um problema com seu método de pagamento. Verifique os detalhes do seu cartão ou tente um método de pagamento diferente.",
+  "@paymentMethodIssueDescription": {"description": "Descrição para erros de método de pagamento"},
+  
+  "insufficientFunds": "Fundos Insuficientes",
+  "@insufficientFunds": {"description": "Título para erros de fundos insuficientes"},
+  "insufficientFundsDescription": "Seu método de pagamento não tem fundos suficientes. Adicione dinheiro à sua conta ou use um método de pagamento diferente.",
+  "@insufficientFundsDescription": {"description": "Descrição para erros de fundos insuficientes"},
+  
+  "purchaseCancelled": "Compra Cancelada",
+  "@purchaseCancelled": {"description": "Título para compras canceladas"},
+  "purchaseCancelledDescription": "Você cancelou a compra. Pode tentar novamente a qualquer momento.",
+  "@purchaseCancelledDescription": {"description": "Descrição para compras canceladas"},
+  
+  "productNotAvailable": "Produto Não Disponível",
+  "@productNotAvailable": {"description": "Título para erros de produto não encontrado"},
+  "productNotAvailableDescription": "Este produto não está temporariamente disponível. Tente novamente mais tarde ou entre em contato com o suporte se o problema persistir.",
+  "@productNotAvailableDescription": {"description": "Descrição para erros de produto não encontrado"},
+  
+  "alreadyPurchased": "Já Comprado",
+  "@alreadyPurchased": {"description": "Título para erros de produto já possuído"},
+  "alreadyPurchasedDescription": "Você já possui este produto. Tente restaurar suas compras se não estiver vendo os benefícios.",
+  "@alreadyPurchasedDescription": {"description": "Descrição para erros de produto já possuído"},
+  
+  "storeUnavailable": "Loja Indisponível",
+  "@storeUnavailable": {"description": "Título para erros de loja não disponível"},
+  "storeUnavailableDescription": "A loja de aplicativos está temporariamente indisponível. Tente novamente em alguns minutos.",
+  "@storeUnavailableDescription": {"description": "Descrição para erros de loja não disponível"},
+  
+  "restoreFailed": "Restauração Falhou",
+  "@restoreFailed": {"description": "Título para falhas de restauração"},
+  "restoreFailedDescription": "Não conseguimos restaurar suas compras. Verifique sua conexão com a internet e tente novamente.",
+  "@restoreFailedDescription": {"description": "Descrição para falhas de restauração"}
+}

@@ -1,0 +1,942 @@
+{
+  "@@locale": "tr",
+  "appName": "Kelime & Zeka Mini Oyunları",
+  
+  "blindSort": "Kör Sıralama",
+  "blindSortDescription": "1-50 arası 10 sayıyı sıralayın. Yeni sayı hiçbir yere sığmazsa kaybedersiniz!",
+  "nextNumber": "Sonraki Sayı",
+  "newNumberComing": "Yeni Sayı Geliyor...",
+  
+  "start": "Başla",
+  "restart": "Yeniden Başla",
+  "home": "Ana Sayfa",
+  "games": "Oyunlar",
+  "score": "Puan",
+  "gameOver": "Oyun Bitti",
+  "tryAgain": "Tekrar Dene",
+  "share": "Paylaş",
+  "confirm": "Onayla",
+  "fullscreen": "Tam Ekran",
+  "cancel": "İptal",
+  "stay": "Kal",
+  "@stay": {
+    "description": "Stay button text"
+  },
+  "reset": "Sıfırla",
+  
+  "higherLower": "Yüksek mi Düşük mü",
+  "higherLowerDescription": "Sonraki sayının yüksek mi yoksa düşük mü olacağını tahmin edin! Sayılar 1-50 arasındadır.",
+  "higher": "Yüksek",
+  "lower": "Düşük",
+  "lastNumber": "Son Sayı",
+  "completedAllTargets": "Tüm hedefleri tamamladın!",
+  "targets": "Hedefler",
+  "andMore": "ve daha fazlası...",
+  "missionFailed": "Görev Başarısız!",
+  "greenTargetHit": "Yeşil hedef vuruldu!",
+  "youHitAllTargets": "Tüm hedefleri vurdun!",
+  "timeRanOut": "Süre doldu!",
+  "targetsHit": "Vurulan Hedefler",
+  "mistake": "Hata",
+  "civilianHit": "Sivil Vuruldu",
+  "youFoundAllColors": "Tüm renkleri buldun!",
+  "colorsFound": "Bulunan Renkler",
+  "lastMistake": "Son Hata",
+  "wrongColor": "Yanlış Renk",
+  "currentNumber": "Mevcut Sayı",
+  "close": "Kapat",
+  "betterLuckNextTime": "Bir dahaki sefere daha şanslı olacaksın!",
+  "losingNumbers": "Kaybetmemize Neden Olan Sayılar",
+  "losingNumber": "Kaybetmemize Neden Olan Sayı",
+  
+  "colorHunt": "Renk Avı",
+  "colorHuntDescription": "Hedef rengi bulun! Metnin rengi sizi kandırmaya çalışabilir!",
+  "target": "Hedef",
+  "time": "Süre",
+  "wrongColorSelected": "Yanlış Renk Seçildi",
+  "wrongColorSelection": "Yanlış Renk Seçimi",
+  
+  "favorites": "Favoriler",
+  "@favorites": {
+    "description": "Favorites navigation label"
+  },
+  "loadingFavorites": "Favoriler Yükleniyor...",
+  "@loadingFavorites": {
+    "description": "Message when loading favorites"
+  },
+  "noFavoritesYet": "Henüz Favori Yok",
+  "@noFavoritesYet": {
+    "description": "Message when no favorites exist"
+  },
+  "addGamesToFavorites": "Oyunları favorilere ekleyerek hızlı erişim sağlayın",
+  "browseGames": "Oyunları Keşfet",
+  
+  "aimTrainer": "Nişan Antrenmanı",
+  "aimTrainerDescription": "20 saniye boyunca rastgele beliren kırmızı hedefleri vurmaya çalışın. Her vuruş 1 puan!",
+  
+  "numberMemory": "Sayı Hafızası",
+  "numberMemoryDescription": "Sayı dizisini ezberleyin ve tuş takımını kullanarak doğru şekilde girin. Kaç basamak hatırlayabilirsiniz?",
+  
+  "findDifference": "Farklı Rengi Bul",
+  "findDifferenceDescription": "Farklı renkte olan tek kareyi bulun. Her turda daha zorlaşır!",
+  
+  "rockPaperScissors": "Taş-Kağıt-Makas",
+  "rockPaperScissorsDescription": "Bilgisayara karşı oyna. 5 puana ilk ulaşan kazanır.",
+  
+  "twentyOne": "21 (Yirmi Bir)",
+  "twentyOneDescription": "Krupiyeyi 21'e kadar yenin! Aşmadan mümkün olduğunca yaklaşın.",
+  
+  "ticTacToe": "X-O-X",
+  "ticTacToeDescription": "Bilgisayara karşı oyna! Üçlü sıra yaparak kazan.",
+  
+  "nowYourTurn": "Şimdi sıra sizde!",
+  "correct": "Doğru!",
+  "playing": "Oynanıyor",
+
+  "tapToStartGuessing": "Tahmin etmeye başlamak için Yüksek veya Düşük'e dokunun! Sayılar 1-50 arasındadır.",
+  "numbersBetween1And50": "Sayılar 1-50 arasındadır",
+  
+  "leaderboard": "Liderlik Tablosu",
+  "noLeaderboardData": "Liderlik Tablosu Verisi Yok",
+  "playGamesToSeeScores": "Yüksek skorlarınızı görmek için oyun oynayın!",
+  "playGames": "Oyun Oyna",
+  "swipeToDeleteHint": "Yüksek skorları silmek için sola kaydırın",
+  "removeAds": "Reklamları Kaldır",
+  "removeAdsDescription": "Tek seferlik ödeme ile reklamsız deneyim yaşayın",
+  "monthlySubscription": "Aylık Abonelik",
+  "buyNow": "Satın Al",
+  "restorePurchases": "Satın Alımları Geri Yükle",
+  "subscriptionActive": "Abonelik Aktif",
+  "subscriptionExpired": "Abonelik Süresi Doldu",
+  "purchasedOn": "Satın alınma tarihi: {date}",
+  "monthlySubscriptionPrice": "Aylık abonelik - $2.49",
+  "uninstallWarning": "Önemli: Abonelik yerel olarak saklanır. Uygulamayı kaldırırsanız, aboneliğiniz kaybolacak ve tekrar satın almanız gerekecektir.",
+  "importantNotice": "Önemli Uyarı",
+  "gotIt": "Anladım",
+  "purchaseSuccess": "Satın Alma Başarılı!",
+  "purchaseError": "Satın Alma Başarısız",
+  "restoreSuccess": "Satın Alımlar Geri Yüklendi!",
+  "restoreError": "Geri Yükleme Başarısız",
+  "noBannerAds": "Banner reklamları yok",
+  "noInterstitialAds": "Geçiş reklamları yok",
+  "noRewardedAds": "Ödüllü reklamlar yok",
+  "cleanExperience": "Temiz, dikkat dağıtmayan deneyim",
+  "cancelAnytime": "İstediğiniz zaman iptal edin",
+  "cancelSubscriptionWarning": "Aboneliğinizi iptal etmek reklamsız erişimi kaldıracak ve tekrar reklamları görmeye başlayacaksınız.",
+  "subscriptionPrice": "99 TL",
+  "@subscriptionPrice": {
+    "description": "One-time payment price display"
+  },
+  "oneTimePayment": "Tek seferlik ödeme",
+  "@oneTimePayment": {
+    "description": "One-time payment label"
+  },
+  "bestValue": "EN İYİ DEĞER",
+  "lifetimeAccess": "ÖMÜR BOYU ERİŞİM",
+  "totalGames": "Toplam Oyun",
+  "highestScore": "En Yüksek Skor",
+  "averageScore": "Ortalama Skor",
+  "highScore": "Yüksek Skor: {score}",
+  "lastPlayed": "Son Oynama: {date}",
+  "sortBy": "Sırala",
+  "sortByScore": "Skora Göre Sırala",
+  "sortByLastPlayed": "Son Oynama Tarihine Göre Sırala",
+  "shareAchievements": "Başarıları Paylaş",
+  "previewImage": "Görseli Önizle",
+  "shareImage": "Görseli Paylaş",
+  "shareNoData": "Henüz paylaşılacak veri yok. Önce biraz oyun oynayın!",
+  "shareError": "Başarılar paylaşılırken hata oluştu. Lütfen tekrar deneyin.",
+  
+  "timeUp": "Süre Doldu",
+  "timeUpMessage": "Süreniz bitti!",
+  
+  "finalScore": "Final Skor",
+  "timeRanOut": "Süre bitti!",
+  "youWon": "Kazandınız!",
+  "computerWon": "Bilgisayar Kazandı!",
+  "itsADraw": "Berabere!",
+  "goodGame": "İyi Oyun!",
+  "tapToStart": "Başlamak için Dokunun",
+  "computerThinking": "Bilgisayar düşünüyor...",
+  "yourTurn": "Sizin Sıranız",
+  "computerTurn": "Bilgisayarın Sırası",
+  "rateQuicko": "Quicko'yu Değerlendir",
+  "rateQuickoDescription": "Geri bildiriminiz bize gelişmemize ve daha fazla kullanıcıya ulaşmamıza yardımcı olur!",
+  "howWouldYouRate": "Quicko'yu nasıl değerlendirirsiniz?",
+  "rateOnStore": "Mağazada Değerlendir",
+  "openingStore": "Mağaza Açılıyor...",
+  "ratingPoor": "Kötü",
+  "ratingFair": "Orta",
+  "ratingGood": "İyi",
+  "ratingVeryGood": "Çok İyi",
+  "ratingExcellent": "Mükemmel!",
+  "thankYouForRating": "Quicko'yu değerlendirdiğiniz için teşekkürler!",
+  "couldNotOpenStore": "Mağaza açılamadı. Lütfen tekrar deneyin.",
+  "congratulationsMessage": "Tebrikler! Görevi tamamladınız!",
+  "excellentPerformance": "Mükemmel performans!",
+  "playAgain": "Tekrar Oyna",
+  "deleteHighScore": "Yüksek Skoru Sil",
+  "deleteHighScoreMessage": "Bu oyun için yüksek skoru silmek istediğinizden emin misiniz?",
+  "delete": "Sil",
+  "language": "Dil",
+  "selectLanguage": "Dil Seçin",
+  "languageChangeInfo": "Dil değişiklikleri hemen uygulanacak. Yeni dil uygulamak için uygulama yeniden başlatılacak.",
+  "@languageChangeInfo": {
+    "description": "Information about language change"
+  },
+  "choosePreferredLanguage": "Tercih ettiğiniz dili seçin",
+  "@choosePreferredLanguage": {
+    "description": "Text for language selection prompt"
+  },
+  
+  "sort_by_date": "Tarihe Göre Sırala",
+  "@sort_by_date": {
+    "description": "Sort by date option"
+  },
+  
+  "sort_by_game": "Oyuna Göre Sırala",
+  "@sort_by_game": {
+    "description": "Sort by game option"
+  },
+  
+  "theme": "Tema",
+  "@theme": {
+    "description": "Theme settings title"
+  },
+  
+  "selectTheme": "Tema Seçin",
+  "@selectTheme": {
+    "description": "Select theme prompt"
+  },
+  
+  "lightTheme": "Açık",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  
+  "darkTheme": "Koyu",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  
+  "systemTheme": "Sistem",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  
+  "lightThemeDescription": "Aydınlık ortamlar için açık tema",
+  "@lightThemeDescription": {
+    "description": "Light theme description"
+  },
+  
+  "darkThemeDescription": "Az ışıklı ortamlar için koyu tema",
+  "@darkThemeDescription": {
+    "description": "Dark theme description"
+  },
+  
+  "systemThemeDescription": "Cihazınızın tema ayarını takip eder",
+  "@systemThemeDescription": {
+    "description": "System theme description"
+  },
+  
+  "themeChangeInfo": "Tema değişiklikleri uygulama genelinde hemen uygulanacaktır.",
+  "@themeChangeInfo": {
+    "description": "Information about theme changes"
+  },
+  "choosePreferredTheme": "Tercih ettiğiniz temayı seçin",
+  "@choosePreferredTheme": {
+    "description": "Text for theme selection prompt"
+  },
+  
+  "startGame": "Oyunu Başlat",
+  "@startGame": {
+    "description": "Start game button text"
+  },
+  "restartGame": "Oyunu Yeniden Başlat",
+  "@restartGame": {
+    "description": "Restart game button text"
+  },
+  "you": "Sen",
+  "@you": {
+    "description": "Player label"
+  },
+  "cpu": "PC",
+  "@cpu": {
+    "description": "Computer opponent label"
+  },
+  "dealer": "Krupiye",
+  "@dealer": {
+    "description": "Dealer label for card games"
+  },
+  "youWin": "Kazandın!",
+  "@youWin": {
+    "description": "Win message"
+  },
+  "youLose": "Kaybettin!",
+  "@youLose": {
+    "description": "Lose message"
+  },
+  "tie": "Berabere!",
+  "@tie": {
+    "description": "Tie message"
+  },
+  "total": "Toplam",
+  "@total": {
+    "description": "Total score label"
+  },
+  
+  "red": "Kırmızı",
+  "@red": {
+    "description": "Red color name"
+  },
+  "green": "Yeşil",
+  "@green": {
+    "description": "Green color name"
+  },
+  "blue": "Mavi",
+  "@blue": {
+    "description": "Blue color name"
+  },
+  "purple": "Mor",
+  "@purple": {
+    "description": "Purple color name"
+  },
+  "orange": "Turuncu",
+  "@orange": {
+    "description": "Orange color name"
+  },
+  "yellow": "Sarı",
+  "@yellow": {
+    "description": "Yellow color name"
+  },
+  "pink": "Pembe",
+  "@pink": {
+    "description": "Pink color name"
+  },
+  "brown": "Kahverengi",
+  "@brown": {
+    "description": "Brown color name"
+  },
+  "cyan": "Camgöbeği",
+  "@cyan": {
+    "description": "Cyan color name"
+  },
+  "lime": "Limon Yeşili",
+  "@lime": {
+    "description": "Lime color name"
+  },
+  "magenta": "Eflatun",
+  "@magenta": {
+    "description": "Magenta color name"
+  },
+  "teal": "Teal",
+  "@teal": {
+    "description": "Teal color name"
+  },
+  "indigo": "Çivit Mavisi",
+  "@indigo": {
+    "description": "Indigo color name"
+  },
+  "amber": "Kehribar",
+  "@amber": {
+    "description": "Amber color name"
+  },
+  "deep_purple": "Koyu Mor",
+  "@deep_purple": {
+    "description": "Deep purple color name"
+  },
+  "light_blue": "Açık Mavi",
+  "@light_blue": {
+    "description": "Light blue color name"
+  },
+  
+  "play": "Oyna",
+  "@play": {
+    "description": "Play button text"
+  },
+  
+  "appSettings": "Uygulama Ayarları",
+  "@appSettings": {
+    "description": "App settings title"
+  },
+  "customizeAppExperience": "Uygulama deneyiminizi özelleştirin",
+  "@customizeAppExperience": {
+    "description": "App settings description"
+  },
+  
+  "settings": "Ayarlar",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  
+  "hit": "Kart Çek",
+  "@hit": {
+    "description": "Hit button text for 21 game"
+  },
+  "stand": "Kal",
+  "@stand": {
+    "description": "Stand button text for 21 game"
+  },
+  
+  "reactionTime": "Reaksiyon Süresi",
+  "@reactionTime": {
+    "description": "Title for the Reaction Time game"
+  },
+  "reactionTimeDescription": "1'den 12'ye kadar sayıları doğru sırayla mümkün olduğunca hızlı tıklayın. Süreniz ölçülecek (düşük olan daha iyi).",
+  "@reactionTimeDescription": {
+    "description": "Description for the Reaction Time game"
+  },
+  "time": "Süre",
+  "@time": {
+    "description": "Time label"
+  },
+  "wrongSequence": "Yanlış sıra!",
+  "@wrongSequence": {
+    "description": "Wrong sequence message for reaction time game"
+  },
+  "congratulations": "Tebrikler!",
+  "@congratulations": {
+    "description": "Congratulations message for winning games"
+  },
+  "next": "Sıradaki",
+  "@next": {
+    "description": "Next label"
+  },
+  
+  "numbersSorted": "Sıralanan Sayılar",
+  "@numbersSorted": {
+    "description": "Label for numbers sorted in Blind Sort game"
+  },
+  "numbersRemembered": "Hatırlanan Sayılar",
+  "@numbersRemembered": {
+    "description": "Label for numbers remembered in Number Memory game"
+  },
+  "correctGuesses": "Doğru Tahminler",
+  "@correctGuesses": {
+    "description": "Label for correct guesses in Higher Lower game"
+  },
+  "yourScore": "Senin Skorun",
+  "@yourScore": {
+    "description": "Label for player score in RPS game"
+  },
+  "cpuScore": "PC Skoru",
+  "@cpuScore": {
+    "description": "Label for CPU score in RPS game"
+  },
+  "finalScore": "Final Skor",
+  "@finalScore": {
+    "description": "Label for final score in 21 game"
+  },
+  "result": "Sonuç",
+  "@result": {
+    "description": "Label for result in 21 game"
+  },
+  "bust": "Patladın!",
+  "@bust": {
+    "description": "Message when player goes over 21"
+  },
+  "wrongNumber": "Yanlış Sayı",
+  "@wrongNumber": {
+    "description": "Message for wrong number in Number Memory"
+  },
+  "youSuccessfullySortedAllNumbers": "Tüm sayıları başarıyla sıraladın!",
+  "@youSuccessfullySortedAllNumbers": {
+    "description": "Success message for Blind Sort game"
+  },
+  "youRememberedAllNumbers": "Tüm sayıları hatırladın!",
+  "@youRememberedAllNumbers": {
+    "description": "Success message for Number Memory game"
+  },
+  "youGuessedCorrectly": "Doğru tahmin ettin!",
+  "@youGuessedCorrectly": {
+    "description": "Success message for Higher Lower game"
+  },
+  "youWonTheGame": "Oyunu kazandın!",
+  "@youWonTheGame": {
+    "description": "Success message for RPS game"
+  },
+  "youReached21": "21'e ulaştın!",
+  "@youReached21": {
+    "description": "Success message for 21 game"
+  },
+  "youWentOver21": "21'i aştın!",
+  "@youWentOver21": {
+    "description": "Failure message for 21 game"
+  },
+  "whyYouLost": "Neden kaybettin",
+  "@whyYouLost": {
+    "description": "Label for loss reason section"
+  },
+  "sortLeaderboard": "Liderlik Tablosunu Sırala",
+  "@sortLeaderboard": {
+    "description": "Title for sort leaderboard dialog"
+  },
+  "sortByName": "İsme Göre Sırala",
+  "@sortByName": {
+    "description": "Sort by name option"
+  },
+  "sortByScore": "Skora Göre Sırala",
+  "@sortByScore": {
+    "description": "Sort by score option"
+  },
+  "sortByDate": "Tarihe Göre Sırala",
+  "@sortByDate": {
+    "description": "Sort by date option"
+  },
+  "perfectTime": "Mükemmel Süre!",
+  "@perfectTime": {
+    "description": "Message for perfect completion time"
+  },
+  "goodTime": "İyi Süre!",
+  "@goodTime": {
+    "description": "Message for good completion time"
+  },
+  "averageTime": "Ortalama Süre",
+  "@averageTime": {
+    "description": "Message for average completion time"
+  },
+  "slowTime": "Yavaş Süre",
+  "@slowTime": {
+    "description": "Message for slow completion time"
+  },
+  "verySlowTime": "Çok Yavaş Süre",
+  "@verySlowTime": {
+    "description": "Message for very slow completion time"
+  },
+  "patternMemory": "Desen Hafızası",
+  "@patternMemory": {
+    "description": "Title for the Pattern Memory game"
+  },
+  "patternMemoryDescription": "Ekrandaki deseni ezberle ve tekrarla. Desen her seviyede daha karmaşık hale gelir.",
+  "@patternMemoryDescription": {
+    "description": "Description for the Pattern Memory game"
+  },
+  "patternMemoryInstructions": "Ekrandaki deseni ezberle ve tekrarla. Desen her seviyede daha karmaşık hale gelir.",
+  "@patternMemoryInstructions": {
+    "description": "Instructions for the Pattern Memory game"
+  },
+  "wrongPattern": "Yanlış Desen",
+  "@wrongPattern": {
+    "description": "Message when wrong pattern is selected"
+  },
+
+  "wrong": "Yanlış",
+  "@wrong": {
+    "description": "Wrong message"
+  },
+  "row": "satır",
+  "@row": {
+    "description": "Row label for accessibility"
+  },
+  "column": "sütun",
+  "@column": {
+    "description": "Column label for accessibility"
+  },
+  
+  "continueGame": "Oyunu Devam Ettir",
+  "@continueGame": {
+    "description": "Continue game dialog title"
+  },
+  "watchAdToContinue": "Devam Etmek İçin Reklam İzle",
+  "@watchAdToContinue": {
+    "description": "Watch ad to continue button text"
+  },
+  "oneTimeContinue": "1 Kerelik Devam Et",
+  "@oneTimeContinue": {
+    "description": "Button text for ad-free users to continue game once"
+  },
+  "continueGameDescription": "Oyununuza kaldığınız yerden devam edin.",
+  "@continueGameDescription": {
+    "description": "Description for continue game option"
+  },
+  "oneTimeContinueUsed": "Bu oyun session'ında zaten devam hakkınızı kullandınız.",
+  "@oneTimeContinueUsed": {
+    "description": "Message shown when ad-free user has already used their one-time continue"
+  },
+  "watchAdToContinueDescription": "Kısa bir reklam izleyerek oyununuza kaldığınız yerden devam edin.",
+  "@watchAdToContinueDescription": {
+    "description": "Description for watching ad to continue game"
+  },
+  "cancelSubscription": "Aboneliği İptal Et",
+  "@cancelSubscription": {
+    "description": "Title for cancel subscription screen"
+  },
+  "cancelSubscriptionDescription": "Reklamsız aboneliğinizi iptal edin ve reklamlara geri dönün",
+  "@cancelSubscriptionDescription": {
+    "description": "Description for cancel subscription screen"
+  },
+  "cancelSubscriptionError": "Abonelik İptal Hatası",
+  "@cancelSubscriptionError": {
+    "description": "Title for cancel subscription error"
+  },
+  "cancelSubscriptionErrorDescription": "Aboneliğinizi iptal edemedik. Lütfen tekrar deneyin veya destek ile iletişime geçin.",
+  "@cancelSubscriptionErrorDescription": {
+    "description": "Description for cancel subscription error"
+  },
+  "adNotAvailable": "Reklam Mevcut Değil",
+  "@adNotAvailable": {
+    "description": "Ad not available dialog title"
+  },
+  "adNotAvailableMessage": "Şu anda reklam mevcut değil. Lütfen daha sonra tekrar deneyin.",
+  "@adNotAvailableMessage": {
+    "description": "Ad not available message"
+  },
+  "adFailed": "Reklam Başarısız",
+  "@adFailed": {
+    "description": "Ad failed dialog title"
+  },
+  "adFailedMessage": "Reklam gösterilemedi. Lütfen tekrar deneyin.",
+  "@adFailedMessage": {
+    "description": "Ad failed message"
+  },
+  "ok": "Tamam",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "exit": "Çıkış",
+  "@exit": {
+    "description": "Exit button text"
+  },
+  
+  "gameInProgress": "Oyun Devam Ediyor",
+  "@gameInProgress": {
+    "description": "Game in progress dialog title"
+  },
+  "gameInProgressMessage": "Bir oyun şu anda devam ediyor. Çıkmak istediğinizden emin misiniz? İlerlemeniz kaybolacak.",
+  "@gameInProgressMessage": {
+    "description": "Game in progress confirmation message"
+  },
+  "stayInGame": "Oyunda Kal",
+  "@stayInGame": {
+    "description": "Stay in game button text"
+  },
+  "exitGame": "Oyundan Çık",
+  "@exitGame": {
+    "description": "Exit game button text"
+  },
+
+  "soundSettings": "Ses Ayarları",
+  "soundSettingsMenuSubtitle": "Uygulama sesleri ve efekt seviyesi",
+  "appSounds": "Uygulama Sesleri",
+  "appSoundsDescription": "Sesleri aç/kapat ve efekt seviyesini ayarla",
+  "sounds": "Sesler",
+  "soundsOn": "Açık",
+  "soundsOff": "Kapalı",
+  "effectsVolume": "Efekt Ses Seviyesi",
+  "soundTest": "Ses Testi",
+  "playSampleSound": "Örnek Sesi Çal",
+  "purchaseErrorDescription": "Satın alma tamamlanamadı. Lütfen tekrar deneyin veya ödeme yöntemini kontrol edin.",
+  "restoreErrorDescription": "Satın alımlar geri yüklenemedi. Lütfen tekrar deneyin.",
+  "noPurchasesFound": "Önceki Satın Alım Bulunamadı",
+  "noPurchasesFoundDescription": "Geri yüklenecek önceki satın alım bulunamadı. Orijinal satın alım için kullandığınız aynı Apple ID ile giriş yaptığınızdan emin olun.",
+
+  "feedback": "Geri Bildirim",
+  "feedbackAndSuggestions": "Geri Bildirim & Öneriler",
+  "feedbackAndSuggestionsSubtitle": "Düşüncelerinizi paylaşın ve gelişmemize yardımcı olun",
+  "directContact": "Doğrudan İletişim",
+  "directContactDescription": "Geri bildirim formu çalışmazsa, doğrudan şu adresten bize ulaşabilirsiniz:",
+  "sendFeedback": "Geri Bildirim Gönder",
+  "sending": "Gönderiliyor...",
+  "feedbackSentSuccess": "✅ Geri bildirim başarıyla gönderildi! Görüşleriniz için teşekkürler.",
+  "feedbackSuccessDescription": "Geri bildiriminiz için teşekkürler! Görüşlerinizi değerlendiriyoruz ve dikkatle inceleyeceğiz.",
+  "feedbackSuccessGotIt": "Anladım!",
+  "feedbackErrorTitle": "E-posta Gönderilemedi",
+  "feedbackErrorDescription": "Geri bildiriminizi şu anda gönderemedik. Lütfen daha sonra tekrar deneyin veya doğrudan quickogamehelp@gmail.com adresinden bize ulaşın.",
+  "feedbackSentError": "❌ {errorMessage}. Lütfen tekrar deneyin veya yukarıdaki doğrudan e-posta seçeneğini kullanın.",
+  "feedbackCategoryBug": "Hata Bildirimi",
+  "feedbackCategoryFeature": "Özellik İsteği",
+  "feedbackCategoryImprovement": "İyileştirme Önerisi",
+  "feedbackCategoryGeneral": "Genel Geri Bildirim",
+  "feedbackCategory": "Kategori",
+  "feedbackTitle": "Başlık",
+  "feedbackTitleHint": "Geri bildiriminizin kısa açıklaması",
+  "feedbackDescription": "Açıklama",
+  "feedbackDescriptionHint": "Lütfen geri bildiriminiz hakkında detaylı bilgi verin...",
+  "feedbackEmail": "E-posta (İsteğe Bağlı)",
+  "feedbackEmailHint": "ornek@email.com",
+  "feedbackEmailDescription": "Gerekirse geri bildiriminizle ilgili size ulaşmak için kullanacağız.",
+  "feedbackFrom": "{title} - Geri Bildirim",
+  "emailLaunchError": "E-posta uygulaması açılamadı. Lütfen manuel olarak tekrar deneyin.",
+  "invalidFeedbackData": "Geçersiz geri bildirim verisi",
+  "failedToSendFeedback": "Geri bildirim gönderilemedi. Lütfen tekrar deneyin.",
+  "errorSendingFeedback": "Geri bildirim gönderme hatası: {error}",
+  "maybeLater": "Daha Sonra",
+  
+  "noInternetTitle": "İnternet Bağlantısı Yok",
+  "noInternetDescription": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
+  "noEntriesYet": "Henüz giriş yok",
+  "@noEntriesYet": {
+    "description": "Message when there are no leaderboard entries"
+  },
+  "yourRanking": "Senin Sıralaman",
+  "@yourRanking": {
+    "description": "Label for user's ranking in leaderboard"
+  },
+  "thisIsYourScore": "Bu Senin Skorun!",
+  "@thisIsYourScore": {
+    "description": "Message shown when user's score appears in leaderboard"
+  },
+  "loadingUserData": "Kullanıcı verileri yükleniyor...",
+  "@loadingUserData": {
+    "description": "Message shown when loading user data for leaderboard"
+  },
+  "leaderboardProfile": "Leaderboard Profili",
+  "@leaderboardProfile": {
+    "description": "Title for leaderboard profile settings"
+  },
+  "leaderboardProfileSubtitle": "İsim ve ülke bayrağınızı düzenleyin",
+  "@leaderboardProfileSubtitle": {
+    "description": "Subtitle for leaderboard profile settings"
+  },
+  "name": "İsim",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameRequired": "İsim gerekli",
+  "@nameRequired": {
+    "description": "Validation message for required name"
+  },
+  "minimumTwoCharacters": "En az 2 karakter",
+  "@minimumTwoCharacters": {
+    "description": "Validation message for minimum name length"
+  },
+  "country": "Ülke",
+  "@country": {
+    "description": "Country field label"
+  },
+  "searchCountry": "Ülke Ara",
+  "@searchCountry": {
+    "description": "Country search field label"
+  },
+  "areYouSure": "Emin misiniz?",
+  "@areYouSure": {
+    "description": "Confirmation dialog title"
+  },
+  "profileChangeWarning": "Şu ana kadarki ilerlemeniz farklı isimle devam edecek.",
+  "@profileChangeWarning": {
+    "description": "Warning message about profile change"
+  },
+  "profileChangeDescription": "Profil bilgilerinizi (isim ve ülke) değiştirmek üzeresiniz.",
+  "@profileChangeDescription": {
+    "description": "Description of profile change action"
+  },
+  "cancel": "İptal",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "save": "Kaydet",
+  "@save": {
+    "description": "Save button text"
+  },
+  "congratulations": "Tebrikler!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "yourScore": "skorunuz:",
+  "@yourScore": {
+    "description": "Label for user's score"
+  },
+  "registerForLeaderboard": "Lider tablosuna kayıt olun",
+  "@registerForLeaderboard": {
+    "description": "Title for leaderboard registration"
+  },
+  "enterInfoForGlobalRanking": "Skorunuzu global sıralamaya eklemek için bilgilerinizi girin.",
+  "@enterInfoForGlobalRanking": {
+    "description": "Description for leaderboard registration"
+  },
+  "enterYourName": "İsminizi girin",
+  "@enterYourName": {
+    "description": "Hint text for name field"
+  },
+  "writeCountryName": "Ülke adı yazın...",
+  "@writeCountryName": {
+    "description": "Hint text for country search"
+  },
+  "selectYourCountry": "Ülkenizi seçin",
+  "@selectYourCountry": {
+    "description": "Hint text for country field"
+  },
+  "giveUp": "Vazgeç",
+  "@giveUp": {
+    "description": "Give up button text"
+  },
+  "addToLeaderboard": "Lider tablosuna eklemek ister misiniz?",
+  "@addToLeaderboard": {
+    "description": "Title for leaderboard opt-in dialog"
+  },
+  "addToLeaderboardDescription": "Skorunuzu global sıralamaya ekleyerek diğer oyuncularla yarışabilirsiniz.",
+  "@addToLeaderboardDescription": {
+    "description": "Description for leaderboard opt-in dialog"
+  },
+  "yesAdd": "Evet, Ekle",
+  "@yesAdd": {
+    "description": "Yes button for adding to leaderboard"
+  },
+  "generatingNumber": "Sayı üretiliyor...",
+  "@generatingNumber": {
+    "description": "Message shown while generating a random number"
+  },
+  "calculatingResult": "Sonuç hesaplanıyor...",
+  "@calculatingResult": {
+    "description": "Message shown while calculating game result"
+  },
+  "premiumFeatures": "Premium Özellikler",
+  "@premiumFeatures": {
+    "description": "Title for premium features section"
+  },
+  "getCleanExperience": "Premium özelliklerle temiz, reklamsız bir deneyim yaşayın.",
+  "@getCleanExperience": {
+    "description": "Description for premium features"
+  },
+  "monthlySubscription": "Aylık abonelik",
+  "@monthlySubscription": {
+    "description": "Monthly subscription text"
+  },
+  "gameInProgressSubtitle": "Aktif bir oyun oturumunuz var",
+  "@gameInProgressSubtitle": {
+    "description": "Subtitle for game in progress dialog"
+  },
+  "gameInProgressTitle": "Oyun Oturumu Aktif",
+  "@gameInProgressTitle": {
+    "description": "Title for game in progress dialog content"
+  },
+  "gameCompleted": "Oyun Tamamlandı!",
+  "@gameCompleted": {
+    "description": "Title for game completed dialog content"
+  },
+  "gameCompletedMessage": "Oyunu tamamladığınız için tebrikler! Tekrar oynamak için yeniden başlatabilir veya ana menüye dönmek için çıkabilirsiniz.",
+  "@gameCompletedMessage": {
+    "description": "Message for game completed dialog"
+  },
+  "unlockedBenefits": "Açılan Faydalar",
+  "@unlockedBenefits": {
+    "description": "Title for unlocked benefits section in ad-free screen"
+  },
+  "noBannerAdvertisements": "Banner reklamları yok",
+  "@noBannerAdvertisements": {
+    "description": "Description for no banner ads benefit"
+  },
+  "noFullScreenAds": "Tam ekran reklamları yok",
+  "@noFullScreenAds": {
+    "description": "Description for no interstitial ads benefit"
+  },
+  "noVideoAds": "Video reklamları yok",
+  "@noVideoAds": {
+    "description": "Description for no rewarded ads benefit"
+  },
+  "distractionFreeGaming": "Dikkat dağıtmayan oyun deneyimi",
+  "@distractionFreeGaming": {
+    "description": "Description for clean experience benefit"
+  },
+  "oneTimePaymentForeverAccess": "Tek seferlik ödeme, sonsuz erişim",
+  "@oneTimePaymentForeverAccess": {
+    "description": "Description for lifetime access benefit"
+  },
+  "skip": "Atla",
+  "@skip": {
+    "description": "Skip button text for onboarding"
+  },
+  "getStarted": "Başla",
+  "@getStarted": {
+    "description": "Get started button text for onboarding"
+  },
+  "onboardingTitle1": "Beyninizi Eğitin",
+  "@onboardingTitle1": {
+    "description": "First onboarding page title"
+  },
+  "onboardingDescription1": "Hafıza, odaklanma ve bilişsel becerileri geliştirmek için tasarlanmış beyin eğitimi oyunlarımızla zihninizi zorlayın.",
+  "@onboardingDescription1": {
+    "description": "First onboarding page description"
+  },
+  "onboardingTitle2": "İlerlemenizi Takip Edin",
+  "@onboardingTitle2": {
+    "description": "Second onboarding page title"
+  },
+  "onboardingDescription2": "Performansınızı detaylı istatistiklerle izleyin ve küresel sıralama listelerimizde dünya çapındaki oyuncularla yarışın.",
+  "@onboardingTitle2": {
+    "description": "Second onboarding page description"
+  },
+  "onboardingTitle3": "Başarılar Kazanın",
+  "@onboardingTitle3": {
+    "description": "Third onboarding page title"
+  },
+  "onboardingDescription3": "Becerilerinizi geliştirdikçe başarılar ve ödüller açın. İlerlemenizi paylaşın ve arkadaşlarınızı skorlarınızı geçmeye davet edin.",
+  "@onboardingDescription3": {
+    "description": "Third onboarding page description"
+  },
+  "uninstallWarningTitle": "Önemli Uyarı",
+  "@uninstallWarningTitle": {
+    "description": "Title for uninstall warning dialog"
+  },
+  "uninstallWarningMessage": "Uygulamayı kaldırırsanız, tüm oyun skorlarınız ve abonelik haklarınız kalıcı olarak silinecektir.",
+  "@uninstallWarningMessage": {
+    "description": "Message for uninstall warning dialog"
+  },
+  
+  "connectionProblem": "Bağlantı Sorunu",
+  "@connectionProblem": {"description": "Title for network connection errors"},
+  "connectionProblemDescription": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin. Satın alma işlemleri için kararlı bir bağlantı gereklidir.",
+  "@connectionProblemDescription": {"description": "Description for network connection errors"},
+  
+  "paymentMethodIssue": "Ödeme Yöntemi Sorunu",
+  "@paymentMethodIssue": {"description": "Title for payment method errors"},
+  "paymentMethodIssueDescription": "Ödeme yönteminizle ilgili bir sorun var. Lütfen kart bilgilerinizi kontrol edin veya farklı bir ödeme yöntemi deneyin.",
+  "@paymentMethodIssueDescription": {"description": "Description for payment method errors"},
+  
+  "insufficientFunds": "Yetersiz Bakiye",
+  "@insufficientFunds": {"description": "Title for insufficient funds errors"},
+  "insufficientFundsDescription": "Ödeme yönteminizde yeterli bakiye bulunmuyor. Lütfen hesabınıza para ekleyin veya farklı bir ödeme yöntemi kullanın.",
+  "@insufficientFundsDescription": {"description": "Description for insufficient funds errors"},
+  
+  "purchaseCancelled": "Satın Alma İptal Edildi",
+  "@purchaseCancelled": {"description": "Title for cancelled purchases"},
+  "purchaseCancelledDescription": "Satın alma işlemini iptal ettiniz. İstediğiniz zaman tekrar deneyebilirsiniz.",
+  "@purchaseCancelledDescription": {"description": "Description for cancelled purchases"},
+  
+  "productNotAvailable": "Ürün Mevcut Değil",
+  "@productNotAvailable": {"description": "Title for product not found errors"},
+  "productNotAvailableDescription": "Bu ürün geçici olarak mevcut değil. Lütfen daha sonra tekrar deneyin veya sorun devam ederse destek ekibiyle iletişime geçin.",
+  "@productNotAvailableDescription": {"description": "Description for product not found errors"},
+  
+  "alreadyPurchased": "Zaten Satın Alındı",
+  "@alreadyPurchased": {"description": "Title for already owned product errors"},
+  "alreadyPurchasedDescription": "Bu ürünü zaten satın aldınız. Faydaları göremiyorsanız satın alma işlemlerinizi geri yüklemeyi deneyin.",
+  "@alreadyPurchasedDescription": {"description": "Description for already owned product errors"},
+  
+  "storeUnavailable": "Mağaza Kullanılamıyor",
+  "@storeUnavailable": {"description": "Title for store not available errors"},
+  "storeUnavailableDescription": "Uygulama mağazası geçici olarak kullanılamıyor. Lütfen birkaç dakika sonra tekrar deneyin.",
+  "@storeUnavailableDescription": {"description": "Description for store not available errors"},
+  
+  "restoreFailed": "Geri Yükleme Başarısız",
+  "@restoreFailed": {"description": "Title for restore failures"},
+  "restoreFailedDescription": "Satın alma işlemlerinizi geri yükleyemedik. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
+  "@restoreFailedDescription": {"description": "Description for restore failures"},
+  
+  "guessTheFlag": "Bayrak Tahmin Et",
+  "@guessTheFlag": {"description": "Title for the Guess the Flag game"},
+  "guessTheFlagDescription": "Dünya bayrakları bilginizi test edin! Bayrak emojisini doğru ülke adıyla eşleştirin.",
+  "@guessTheFlagDescription": {"description": "Description for the Guess the Flag game"},
+  "whichCountry": "Bu bayrak hangi ülkeye ait?",
+  "@whichCountry": {"description": "Question asking which country the flag belongs to"},
+  "timeUp": "Süre Doldu!",
+  "@timeUp": {"description": "Message when time runs out"},
+  "timeUpDescription": "Süreniz doldu! Bir dahaki sefere daha hızlı olmaya çalışın.",
+  "@timeUpDescription": {"description": "Description when time runs out"},
+  "wrongAnswer": "Yanlış Cevap!",
+  "@wrongAnswer": {"description": "Message when answer is wrong"},
+  "wrongAnswerDescription": "Bu doğru ülke değil. Bir dahaki sefere daha şanslısınız!",
+  "@wrongAnswerDescription": {"description": "Description when answer is wrong"},
+  "round": "Tur",
+  "@round": {"description": "Round label"},
+  "readyToStart": "Başlamaya Hazır mısınız?",
+  "@readyToStart": {"description": "Message when ready to start the game"},
+  "lives": "Can",
+  "@lives": {"description": "Label for lives in the game"},
+  "yourScore": "Senin Puanın",
+  "@yourScore": {"description": "Label for player's score in TicTacToe game"},
+  "currentRound": "Mevcut Tur",
+  "@currentRound": {"description": "Label for current round in TicTacToe game"},
+  "computerWon": "Bilgisayar Kazandı!",
+  "@computerWon": {"description": "Message when computer wins in TicTacToe game"}
+}

@@ -1,0 +1,1199 @@
+{
+  "@@locale": "ar",
+  "appName": "كويكو",
+  "@appName": {
+    "description": "اسم التطبيق"
+  },
+  
+  "blindSort": "الترتيب الأعمى",
+  "@blindSort": {
+    "description": "عنوان لعبة الترتيب الأعمى"
+  },
+  "blindSortDescription": "رتب 10 أرقام من 1-50. ستخسر إذا لم يتناسب الرقم الجديد في أي مكان!",
+  "@blindSortDescription": {
+    "description": "وصف لعبة الترتيب الأعمى"
+  },
+  "nextNumber": "الرقم التالي",
+  "@nextNumber": {
+    "description": "تسمية للرقم التالي في الترتيب الأعمى"
+  },
+  "newNumberComing": "رقم جديد قادم...",
+  "@newNumberComing": {
+    "description": "رسالة عندما يكون رقم جديد على وشك الظهور"
+  },
+  
+  "start": "ابدأ",
+  "@start": {
+    "description": "نص زر البدء"
+  },
+  "restart": "إعادة تشغيل",
+  "@restart": {
+    "description": "نص زر إعادة التشغيل"
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "description": "تسمية التنقل الرئيسي"
+  },
+  "games": "الألعاب",
+  "@games": {
+    "description": "تسمية تنقل الألعاب"
+  },
+  "score": "النقاط",
+  "@score": {
+    "description": "تسمية النقاط"
+  },
+  "gameOver": "انتهت اللعبة",
+  "@gameOver": {
+    "description": "رسالة انتهاء اللعبة"
+  },
+  "tryAgain": "حاول مرة أخرى",
+  "@tryAgain": {
+    "description": "نص زر المحاولة مرة أخرى"
+  },
+  "share": "مشاركة",
+  "@share": {
+    "description": "نص زر المشاركة"
+  },
+  "confirm": "تأكيد",
+  "@confirm": {
+    "description": "نص زر التأكيد"
+  },
+  "fullscreen": "ملء الشاشة",
+  "@fullscreen": {
+    "description": "نص زر ملء الشاشة"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "نص زر الإلغاء"
+  },
+  "stay": "البقاء",
+  "@stay": {
+    "description": "نص زر البقاء"
+  },
+  "reset": "إعادة تعيين",
+  "@reset": {
+    "description": "نص زر إعادة التعيين"
+  },
+  
+  "higherLower": "أعلى أو أقل",
+  "@higherLower": {
+    "description": "عنوان لعبة أعلى أو أقل"
+  },
+  "higherLowerDescription": "خمن ما إذا كان الرقم التالي أعلى أم أقل! الأرقام بين 1-50.",
+  "@higherLowerDescription": {
+    "description": "وصف لعبة أعلى أو أقل"
+  },
+  "higher": "أعلى",
+  "@higher": {
+    "description": "نص زر أعلى"
+  },
+  "lower": "أقل",
+  "@lower": {
+    "description": "نص زر أقل"
+  },
+  "lastNumber": "الرقم الأخير",
+  "@lastNumber": {
+    "description": "تسمية الرقم الأخير"
+  },
+  "completedAllTargets": "أكملت جميع الأهداف!",
+  "@completedAllTargets": {
+    "description": "رسالة عند إكمال جميع الأهداف"
+  },
+  "targets": "الأهداف",
+  "@targets": {
+    "description": "تسمية الأهداف"
+  },
+  "andMore": "والمزيد...",
+  "@andMore": {
+    "description": "نص للمزيد من العناصر"
+  },
+  "missionFailed": "فشلت المهمة!",
+  "@missionFailed": {
+    "description": "رسالة فشل المهمة"
+  },
+  "greenTargetHit": "تم إصابة الهدف الأخضر!",
+  "@greenTargetHit": {
+    "description": "رسالة إصابة الهدف الأخضر"
+  },
+  "youHitAllTargets": "لقد أصبت جميع الأهداف!",
+  "@youHitAllTargets": {
+    "description": "رسالة إصابة جميع الأهداف"
+  },
+  "timeRanOut": "انتهى الوقت!",
+  "@timeRanOut": {
+    "description": "رسالة انتهاء الوقت"
+  },
+  "targetsHit": "الأهداف المصابة",
+  "@targetsHit": {
+    "description": "تسمية الأهداف المصابة"
+  },
+  "mistake": "خطأ",
+  "@mistake": {
+    "description": "تسمية الخطأ"
+  },
+  "civilianHit": "تم إصابة مدني",
+  "@civilianHit": {
+    "description": "رسالة إصابة مدني"
+  },
+  "youFoundAllColors": "لقد وجدت جميع الألوان!",
+  "@youFoundAllColors": {
+    "description": "رسالة إيجاد جميع الألوان"
+  },
+  "colorsFound": "الألوان الموجودة",
+  "@colorsFound": {
+    "description": "تسمية الألوان الموجودة"
+  },
+  "lastMistake": "الخطأ الأخير",
+  "@lastMistake": {
+    "description": "تسمية الخطأ الأخير"
+  },
+  "wrongColor": "لون خاطئ",
+  "@wrongColor": {
+    "description": "رسالة اللون الخاطئ"
+  },
+  "currentNumber": "الرقم الحالي",
+  "@currentNumber": {
+    "description": "تسمية الرقم الحالي"
+  },
+  "close": "إغلاق",
+  "@close": {
+    "description": "نص زر الإغلاق"
+  },
+  "betterLuckNextTime": "حظ أوفر في المرة القادمة!",
+  "@betterLuckNextTime": {
+    "description": "رسالة تشجيعية"
+  },
+  "losingNumbers": "الأرقام التي تسببت في الخسارة",
+  "@losingNumbers": {
+    "description": "تسمية الأرقام الخاسرة"
+  },
+  "losingNumber": "الرقم الذي تسبب في الخسارة",
+  "@losingNumber": {
+    "description": "تسمية الرقم الخاسر"
+  },
+  "colorHunt": "مطاردة الألوان",
+  "@colorHunt": {
+    "description": "عنوان لعبة مطاردة الألوان"
+  },
+  "colorHuntDescription": "ابحث عن اللون المستهدف! لون النص قد يخدعك!",
+  "@colorHuntDescription": {
+    "description": "وصف لعبة مطاردة الألوان"
+  },
+  "target": "الهدف",
+  "@target": {
+    "description": "تسمية الهدف"
+  },
+  "time": "الوقت",
+  "@time": {
+    "description": "تسمية الوقت"
+  },
+  "wrongColorSelected": "تم اختيار لون خاطئ",
+  "@wrongColorSelected": {
+    "description": "رسالة اختيار لون خاطئ"
+  },
+  "wrongColorSelection": "اختيار لون خاطئ",
+  "@wrongColorSelection": {
+    "description": "تسمية اختيار لون خاطئ"
+  },
+  "favorites": "المفضلة",
+  "@favorites": {
+    "description": "عنوان شاشة المفضلة"
+  },
+  "loadingFavorites": "جاري تحميل المفضلة...",
+  "@loadingFavorites": {
+    "description": "رسالة تحميل المفضلة"
+  },
+  "noFavoritesYet": "لا توجد مفضلة بعد",
+  "@noFavoritesYet": {
+    "description": "رسالة عدم وجود مفضلة"
+  },
+  "addGamesToFavorites": "أضف ألعاب إلى المفضلة للوصول السريع",
+  "@addGamesToFavorites": {
+    "description": "رسالة إضافة ألعاب للمفضلة"
+  },
+  "browseGames": "تصفح الألعاب",
+  "@browseGames": {
+    "description": "تسمية تصفح الألعاب"
+  },
+  "aimTrainer": "مدرب التصويب",
+  "@aimTrainer": {
+    "description": "عنوان لعبة مدرب التصويب"
+  },
+  "aimTrainerDescription": "حاول إصابة الأهداف الحمراء التي تظهر عشوائياً لمدة 20 ثانية. كل إصابة تساوي نقطة واحدة!",
+  "@aimTrainerDescription": {
+    "description": "وصف لعبة مدرب التصويب"
+  },
+  "numberMemory": "ذاكرة الأرقام",
+  "@numberMemory": {
+    "description": "عنوان لعبة ذاكرة الأرقام"
+  },
+  "numberMemoryDescription": "احفظ تسلسل الأرقام واكتبها بشكل صحيح باستخدام لوحة المفاتيح. كم رقم يمكنك تذكره؟",
+  "@numberMemoryDescription": {
+    "description": "وصف لعبة ذاكرة الأرقام"
+  },
+  "findDifference": "ابحث عن الاختلاف",
+  "@findDifference": {
+    "description": "عنوان لعبة البحث عن الاختلاف"
+  },
+  "findDifferenceDescription": "ابحث عن المربع بلون مختلف. يصبح أصعب في كل جولة!",
+  "@findDifferenceDescription": {
+    "description": "وصف لعبة البحث عن الاختلاف"
+  },
+  "rockPaperScissors": "حجر ورق مقص",
+  "@rockPaperScissors": {
+    "description": "عنوان لعبة حجر ورق مقص"
+  },
+  "rockPaperScissorsDescription": "العب ضد الكمبيوتر. أول من يصل إلى 5 نقاط يفوز.",
+  "@rockPaperScissorsDescription": {
+    "description": "وصف لعبة حجر ورق مقص"
+  },
+  "twentyOne": "21 (بلاك جاك)",
+  "@twentyOne": {
+    "description": "عنوان لعبة 21"
+  },
+  "twentyOneDescription": "اهزم الموزع حتى 21! اقترب قدر الإمكان دون تجاوز.",
+  "@twentyOneDescription": {
+    "description": "وصف لعبة 21"
+  },
+  
+  "ticTacToe": "تيك تاك تو",
+  "@ticTacToe": {
+    "description": "عنوان لعبة تيك تاك تو"
+  },
+  "ticTacToeDescription": "العب ضد الكمبيوتر! اجمع ثلاثة متتالية للفوز.",
+  "@ticTacToeDescription": {
+    "description": "وصف لعبة تيك تاك تو"
+  },
+  "nowYourTurn": "دورك الآن!",
+  "@nowYourTurn": {
+    "description": "رسالة دور اللاعب"
+  },
+  "correct": "صحيح!",
+  "@correct": {
+    "description": "رسالة الإجابة الصحيحة"
+  },
+  "playing": "يلعب",
+  "@playing": {
+    "description": "تسمية حالة اللعب"
+  },
+
+  "tapToStartGuessing": "اضغط على أعلى أو أقل لبدء التخمين! الأرقام بين 1-50.",
+  "@tapToStartGuessing": {
+    "description": "تعليمات بدء التخمين"
+  },
+  "numbersBetween1And50": "الأرقام بين 1-50",
+  "@numbersBetween1And50": {
+    "description": "تسمية نطاق الأرقام"
+  },
+  "leaderboard": "قائمة المتصدرين",
+  "@leaderboard": {
+    "description": "عنوان قائمة المتصدرين"
+  },
+  "noLeaderboardData": "لا توجد بيانات لقائمة المتصدرين",
+  "@noLeaderboardData": {
+    "description": "رسالة عدم وجود بيانات"
+  },
+  "playGamesToSeeScores": "العب لترى أعلى نقاطك هنا!",
+  "@playGamesToSeeScores": {
+    "description": "رسالة تشجيعية للعب"
+  },
+  "playGames": "العب",
+  "@playGames": {
+    "description": "تسمية زر اللعب"
+  },
+  "swipeToDeleteHint": "اسحب لليسار لحذف النقاط العالية",
+  "@swipeToDeleteHint": {
+    "description": "نص تلميح لوظيفة السحب للحذف"
+  },
+  "removeAds": "إزالة الإعلانات",
+  "@removeAds": {
+    "description": "خيار الاشتراك لإزالة الإعلانات"
+  },
+  "removeAdsDescription": "استمتع بتجربة خالية من الإعلانات مع دفعة واحدة",
+  "@removeAdsDescription": {
+    "description": "وصف الاشتراك لإزالة الإعلانات"
+  },
+  "monthlySubscription": "الاشتراك الشهري",
+  "@monthlySubscription": {
+    "description": "تسمية الاشتراك الشهري"
+  },
+  "buyNow": "اشتر",
+  "@subscribeNow": {
+    "description": "نص زر الاشتراك الآن"
+  },
+  "restorePurchases": "استعادة المشتريات",
+  "@restorePurchases": {
+    "description": "نص زر استعادة المشتريات"
+  },
+  "subscriptionActive": "الاشتراك نشط",
+  "@subscriptionActive": {
+    "description": "حالة الاشتراك النشط"
+  },
+  "subscriptionExpired": "الاشتراك منتهي الصلاحية",
+  "@subscriptionExpired": {
+    "description": "حالة الاشتراك المنتهي الصلاحية"
+  },
+  "purchasedOn": "تم الشراء في: {date}",
+  "@daysRemaining": {
+    "description": "الأيام المتبقية في الاشتراك",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "purchaseSuccess": "تم الشراء بنجاح!",
+  "@purchaseSuccess": {
+    "description": "رسالة نجاح الشراء"
+  },
+  "purchaseError": "فشل الشراء",
+  "@purchaseError": {
+    "description": "رسالة خطأ الشراء"
+  },
+  "restoreSuccess": "تمت استعادة المشتريات!",
+  "@restoreSuccess": {
+    "description": "رسالة نجاح الاستعادة"
+  },
+  "restoreError": "فشلت الاستعادة",
+  "@restoreError": {
+    "description": "رسالة خطأ الاستعادة"
+  },
+  "noBannerAds": "لا إعلانات بانر",
+  "@noBannerAds": {
+    "description": "وصف الميزة لعدم وجود إعلانات بانر"
+  },
+  "noInterstitialAds": "لا إعلانات وسيطة",
+  "@noInterstitialAds": {
+    "description": "وصف الميزة لعدم وجود إعلانات وسيطة"
+  },
+  "noRewardedAds": "لا إعلانات مكافأة",
+  "@noRewardedAds": {
+    "description": "وصف الميزة لعدم وجود إعلانات مكافأة"
+  },
+  "cleanExperience": "تجربة نظيفة وخالية من التشتيت",
+  "@cleanExperience": {
+    "description": "وصف الميزة للتجربة النظيفة"
+  },
+  "cancelAnytime": "إلغاء في أي وقت",
+  "cancelSubscriptionWarning": "إلغاء اشتراكك سيزيل الوصول بدون إعلانات وسترى الإعلانات مرة أخرى.",
+  "@cancelAnytime": {
+    "description": "وصف الميزة للإلغاء في أي وقت"
+  },
+  "subscriptionPrice": "$2.99",
+  "@subscriptionPrice": {
+    "description": "Subscription price display"
+  },
+  "oneTimePayment": "دفعة واحدة",
+  "@usdPerMonth": {
+    "description": "تسمية الدولار شهرياً"
+  },
+  "bestValue": "أفضل قيمة",
+  "@bestValue": {
+    "description": "تسمية أفضل قيمة"
+  },
+  "lifetimeAccess": "وصول مدى الحياة",
+  "@fiftyPercentOff": {
+    "description": "تسمية خصم 50%"
+  },
+  "importantNotice": "إشعار مهم",
+  "@importantNotice": {
+    "description": "عنوان الإشعار المهم للتحذيرات"
+  },
+  "gotIt": "فهمت",
+  "@gotIt": {
+    "description": "Got it button text"
+  },
+  "totalGames": "إجمالي الألعاب",
+  "@totalGames": {
+    "description": "تسمية إجمالي الألعاب"
+  },
+  "highestScore": "أعلى نقاط",
+  "@highestScore": {
+    "description": "تسمية أعلى نقاط"
+  },
+  "averageScore": "متوسط النقاط",
+  "@averageScore": {
+    "description": "تسمية متوسط النقاط"
+  },
+  "highScore": "أعلى نقاط: {score}",
+  "@highScore": {
+    "description": "تسمية أعلى نقاط مع القيمة",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "lastPlayed": "آخر لعب: {date}",
+  "@lastPlayed": {
+    "description": "تسمية آخر لعب مع التاريخ",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "2024-01-01"
+      }
+    }
+  },
+  "sortBy": "ترتيب حسب",
+  "@sortBy": {
+    "description": "تسمية خيارات الترتيب"
+  },
+  "sortByScore": "ترتيب حسب النقاط",
+  "@sortByScore": {
+    "description": "خيار الترتيب حسب النقاط"
+  },
+  "sortByLastPlayed": "ترتيب حسب آخر لعب",
+  "@sortByLastPlayed": {
+    "description": "خيار الترتيب حسب آخر لعب"
+  },
+  "shareAchievements": "مشاركة الإنجازات",
+  "@shareAchievements": {
+    "description": "عنوان مشاركة الإنجازات"
+  },
+  "previewImage": "معاينة الصورة",
+  "@previewImage": {
+    "description": "تسمية معاينة الصورة"
+  },
+  "shareImage": "مشاركة الصورة",
+  "@shareImage": {
+    "description": "تسمية مشاركة الصورة"
+  },
+  "shareNoData": "لا توجد بيانات للمشاركة بعد. العب أولاً!",
+  "@shareNoData": {
+    "description": "رسالة عدم وجود بيانات للمشاركة"
+  },
+  "shareError": "خطأ في مشاركة الإنجازات. حاول مرة أخرى.",
+  "@shareError": {
+    "description": "رسالة خطأ المشاركة"
+  },
+  "timeUp": "انتهى الوقت",
+  "@timeUp": {
+    "description": "عنوان انتهاء الوقت"
+  },
+  "timeUpMessage": "انتهى وقتك!",
+  "@timeUpMessage": {
+    "description": "رسالة انتهاء الوقت"
+  },
+  "finalScore": "النقاط النهائية",
+  "@finalScore": {
+    "description": "تسمية النقاط النهائية"
+  },
+  "youWon": "لقد فزت!",
+  "rateQuicko": "قيّم Quicko",
+  "rateQuickoDescription": "ملاحظاتك تساعدنا على التحسن والوصول إلى المزيد من المستخدمين!",
+  "howWouldYouRate": "كيف تقيّم Quicko؟",
+  "rateOnStore": "قيّم في المتجر",
+  "openingStore": "جاري فتح المتجر...",
+  "ratingPoor": "سيء",
+  "ratingFair": "مقبول",
+  "ratingGood": "جيد",
+  "ratingVeryGood": "جيد جداً",
+  "ratingExcellent": "ممتاز!",
+  "thankYouForRating": "شكراً لك على تقييم Quicko!",
+  "couldNotOpenStore": "لا يمكن فتح المتجر. يرجى المحاولة مرة أخرى.",
+  "@youWon": {
+    "description": "رسالة الفوز"
+  },
+  "congratulationsMessage": "تهانينا! لقد أكملت التحدي!",
+  "@congratulationsMessage": {
+    "description": "رسالة التهنئة"
+  },
+  "excellentPerformance": "أداء ممتاز!",
+  "@excellentPerformance": {
+    "description": "رسالة الأداء الممتاز"
+  },
+  "playAgain": "العب مرة أخرى",
+  "@playAgain": {
+    "description": "نص زر اللعب مرة أخرى"
+  },
+  "deleteHighScore": "حذف أعلى نقاط",
+  "@deleteHighScore": {
+    "description": "عنوان حذف أعلى نقاط"
+  },
+  "deleteHighScoreMessage": "هل أنت متأكد من أنك تريد حذف أعلى نقاط لهذه اللعبة؟",
+  "@deleteHighScoreMessage": {
+    "description": "رسالة تأكيد حذف أعلى نقاط"
+  },
+  "delete": "حذف",
+  "@delete": {
+    "description": "نص زر الحذف"
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "عنوان إعدادات اللغة"
+  },
+  "selectLanguage": "اختر اللغة",
+  "@selectLanguage": {
+    "description": "عنوان اختيار اللغة"
+  },
+  "languageChangeInfo": "سيتم تطبيق تغييرات اللغة فوراً. سيتم إعادة تشغيل التطبيق لتطبيق اللغة الجديدة.",
+  "@languageChangeInfo": {
+    "description": "معلومات تغيير اللغة"
+  },
+  "choosePreferredLanguage": "اختر لغتك المفضلة",
+  "@choosePreferredLanguage": {
+    "description": "رسالة اختيار اللغة المفضلة"
+  },
+  "sort_by_date": "ترتيب حسب التاريخ",
+  "@sort_by_date": {
+    "description": "خيار الترتيب حسب التاريخ"
+  },
+  "sort_by_game": "ترتيب حسب اللعبة",
+  "@sort_by_game": {
+    "description": "خيار الترتيب حسب اللعبة"
+  },
+  "theme": "المظهر",
+  "@theme": {
+    "description": "عنوان إعدادات المظهر"
+  },
+  "selectTheme": "اختر المظهر",
+  "@selectTheme": {
+    "description": "عنوان اختيار المظهر"
+  },
+  "lightTheme": "فاتح",
+  "@lightTheme": {
+    "description": "تسمية المظهر الفاتح"
+  },
+  "darkTheme": "داكن",
+  "@darkTheme": {
+    "description": "تسمية المظهر الداكن"
+  },
+  "systemTheme": "النظام",
+  "@systemTheme": {
+    "description": "تسمية مظهر النظام"
+  },
+  "lightThemeDescription": "مظهر فاتح للبيئات المضيئة",
+  "@lightThemeDescription": {
+    "description": "وصف المظهر الفاتح"
+  },
+  "darkThemeDescription": "مظهر داكن للبيئات منخفضة الإضاءة",
+  "@darkThemeDescription": {
+    "description": "وصف المظهر الداكن"
+  },
+  "systemThemeDescription": "يتبع إعدادات مظهر جهازك",
+  "@systemThemeDescription": {
+    "description": "وصف مظهر النظام"
+  },
+  "themeChangeInfo": "سيتم تطبيق تغييرات المظهر فوراً في جميع أنحاء التطبيق.",
+  "@themeChangeInfo": {
+    "description": "معلومات تغيير المظهر"
+  },
+  "choosePreferredTheme": "اختر مظهرك المفضل",
+  "@choosePreferredTheme": {
+    "description": "رسالة اختيار المظهر المفضل"
+  },
+  "startGame": "ابدأ اللعبة",
+  "@startGame": {
+    "description": "نص زر بدء اللعبة"
+  },
+  "restartGame": "إعادة تشغيل اللعبة",
+  "@restartGame": {
+    "description": "نص زر إعادة تشغيل اللعبة"
+  },
+  "you": "أنت",
+  "@you": {
+    "description": "تسمية اللاعب"
+  },
+  "cpu": "المعالج",
+  "@cpu": {
+    "description": "تسمية المعالج"
+  },
+  "dealer": "الموزع",
+  "@dealer": {
+    "description": "تسمية الموزع"
+  },
+  "youWin": "لقد فزت!",
+  "@youWin": {
+    "description": "رسالة الفوز"
+  },
+  "youLose": "لقد خسرت!",
+  "@youLose": {
+    "description": "رسالة الخسارة"
+  },
+  "tie": "تعادل!",
+  "@tie": {
+    "description": "رسالة التعادل"
+  },
+  "total": "المجموع",
+  "@total": {
+    "description": "تسمية المجموع"
+  },
+  "red": "أحمر",
+  "@red": {
+    "description": "اسم اللون الأحمر"
+  },
+  "green": "أخضر",
+  "@green": {
+    "description": "اسم اللون الأخضر"
+  },
+  "blue": "أزرق",
+  "@blue": {
+    "description": "اسم اللون الأزرق"
+  },
+  "purple": "بنفسجي",
+  "@purple": {
+    "description": "اسم اللون البنفسجي"
+  },
+  "orange": "برتقالي",
+  "@orange": {
+    "description": "اسم اللون البرتقالي"
+  },
+  "yellow": "أصفر",
+  "@yellow": {
+    "description": "اسم اللون الأصفر"
+  },
+  "pink": "وردي",
+  "@pink": {
+    "description": "اسم اللون الوردي"
+  },
+  "brown": "بني",
+  "@brown": {
+    "description": "اسم اللون البني"
+  },
+  "cyan": "سماوي",
+  "@cyan": {
+    "description": "اسم اللون السماوي"
+  },
+  "lime": "ليموني",
+  "@lime": {
+    "description": "اسم اللون الليموني"
+  },
+  "magenta": "أرجواني",
+  "@magenta": {
+    "description": "اسم اللون الأرجواني"
+  },
+  "teal": "فيروزي",
+  "@teal": {
+    "description": "اسم اللون الفيروزي"
+  },
+  "indigo": "نيلي",
+  "@indigo": {
+    "description": "اسم اللون النيلي"
+  },
+  "amber": "كهرماني",
+  "@amber": {
+    "description": "اسم اللون الكهرماني"
+  },
+  "deep_purple": "بنفسجي داكن",
+  "@deep_purple": {
+    "description": "اسم اللون البنفسجي الداكن"
+  },
+  "light_blue": "أزرق فاتح",
+  "@light_blue": {
+    "description": "اسم اللون الأزرق الفاتح"
+  },
+  "play": "العب",
+  "@play": {
+    "description": "نص زر اللعب"
+  },
+  "appSettings": "إعدادات التطبيق",
+  "@appSettings": {
+    "description": "عنوان إعدادات التطبيق"
+  },
+  "customizeAppExperience": "خصص تجربتك في التطبيق",
+  "@customizeAppExperience": {
+    "description": "وصف تخصيص التطبيق"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "عنوان الإعدادات"
+  },
+  "hit": "اسحب",
+  "@hit": {
+    "description": "نص زر السحب في لعبة 21"
+  },
+  "stand": "قف",
+  "@stand": {
+    "description": "نص زر الوقوف في لعبة 21"
+  },
+  "reactionTime": "وقت رد الفعل",
+  "@reactionTime": {
+    "description": "عنوان لعبة وقت رد الفعل"
+  },
+  "reactionTimeDescription": "اضغط على الأرقام من 1 إلى 12 بالترتيب الصحيح بأسرع ما يمكن. سيتم قياس وقتك (الأقل أفضل).",
+  "@reactionTimeDescription": {
+    "description": "وصف لعبة وقت رد الفعل"
+  },
+  "wrongSequence": "تسلسل خاطئ!",
+  "@wrongSequence": {
+    "description": "رسالة التسلسل الخاطئ"
+  },
+  "congratulations": "تهانينا!",
+  "@congratulations": {
+    "description": "رسالة التهنئة"
+  },
+  "next": "التالي",
+  "@next": {
+    "description": "نص زر التالي"
+  },
+  "numbersSorted": "الأرقام المرتبة",
+  "@numbersSorted": {
+    "description": "تسمية الأرقام المرتبة"
+  },
+  "numbersRemembered": "الأرقام المحفوظة",
+  "@numbersRemembered": {
+    "description": "تسمية الأرقام المحفوظة"
+  },
+  "correctGuesses": "التخمينات الصحيحة",
+  "@correctGuesses": {
+    "description": "تسمية التخمينات الصحيحة"
+  },
+  "yourScore": "نقاطك",
+  "@yourScore": {
+    "description": "تسمية نقاط اللاعب"
+  },
+  "cpuScore": "نقاط المعالج",
+  "@cpuScore": {
+    "description": "تسمية نقاط المعالج"
+  },
+  "result": "النتيجة",
+  "@result": {
+    "description": "تسمية النتيجة"
+  },
+  "bust": "انفجر!",
+  "@bust": {
+    "description": "رسالة تجاوز 21"
+  },
+  "wrongNumber": "رقم خاطئ",
+  "@wrongNumber": {
+    "description": "رسالة الرقم الخاطئ في ذاكرة الأرقام"
+  },
+  "youSuccessfullySortedAllNumbers": "لقد رتبت جميع الأرقام بنجاح!",
+  "@youSuccessfullySortedAllNumbers": {
+    "description": "رسالة نجاح لعبة الترتيب الأعمى"
+  },
+  "youRememberedAllNumbers": "لقد تذكرت جميع الأرقام!",
+  "@youRememberedAllNumbers": {
+    "description": "رسالة نجاح لعبة ذاكرة الأرقام"
+  },
+  "youGuessedCorrectly": "لقد خمنت بشكل صحيح!",
+  "@youGuessedCorrectly": {
+    "description": "رسالة نجاح لعبة أعلى أو أقل"
+  },
+  "youWonTheGame": "لقد فزت باللعبة!",
+  "@youWonTheGame": {
+    "description": "رسالة نجاح لعبة حجر ورق مقص"
+  },
+  "youReached21": "لقد وصلت إلى 21!",
+  "@youReached21": {
+    "description": "رسالة نجاح لعبة 21"
+  },
+  "youWentOver21": "لقد تجاوزت 21!",
+  "@youWentOver21": {
+    "description": "رسالة فشل لعبة 21"
+  },
+  "whyYouLost": "لماذا خسرت",
+  "@whyYouLost": {
+    "description": "تسمية سبب الخسارة"
+  },
+  "sortLeaderboard": "ترتيب قائمة المتصدرين",
+  "@sortLeaderboard": {
+    "description": "عنوان ترتيب قائمة المتصدرين"
+  },
+  "sortByName": "ترتيب حسب الاسم",
+  "@sortByName": {
+    "description": "خيار الترتيب حسب الاسم"
+  },
+  "sortByDate": "ترتيب حسب التاريخ",
+  "@sortByDate": {
+    "description": "خيار الترتيب حسب التاريخ"
+  },
+  "perfectTime": "وقت مثالي!",
+  "@perfectTime": {
+    "description": "رسالة الوقت المثالي"
+  },
+  "goodTime": "وقت جيد!",
+  "@goodTime": {
+    "description": "رسالة الوقت الجيد"
+  },
+  "averageTime": "وقت متوسط",
+  "@averageTime": {
+    "description": "رسالة الوقت المتوسط"
+  },
+  "slowTime": "وقت بطيء",
+  "@slowTime": {
+    "description": "رسالة الوقت البطيء"
+  },
+  "verySlowTime": "وقت بطيء جداً",
+  "@verySlowTime": {
+    "description": "رسالة الوقت البطيء جداً"
+  },
+  "patternMemory": "ذاكرة الأنماط",
+  "@patternMemory": {
+    "description": "عنوان لعبة ذاكرة الأنماط"
+  },
+  "patternMemoryDescription": "احفظ النمط على الشاشة وكرره. يصبح النمط أكثر تعقيداً في كل مستوى.",
+  "@patternMemoryDescription": {
+    "description": "وصف لعبة ذاكرة الأنماط"
+  },
+  "patternMemoryInstructions": "احفظ النمط على الشاشة وكرره. يصبح النمط أكثر تعقيداً في كل مستوى.",
+  "@patternMemoryInstructions": {
+    "description": "تعليمات لعبة ذاكرة الأنماط"
+  },
+  "wrongPattern": "نمط خاطئ",
+  "@wrongPattern": {
+    "description": "رسالة النمط الخاطئ"
+  },
+
+  "wrong": "خاطئ",
+  "@wrong": {
+    "description": "رسالة الخطأ"
+  },
+  "row": "صف",
+  "@row": {
+    "description": "تسمية الصف للوصول"
+  },
+  "column": "عمود",
+  "@column": {
+    "description": "تسمية العمود للوصول"
+  },
+  
+  "continueGame": "استمر في اللعبة",
+  "@continueGame": {
+    "description": "عنوان حوار استمر في اللعبة"
+  },
+  "watchAdToContinue": "شاهد الإعلان للمتابعة",
+  "@watchAdToContinue": {
+    "description": "Watch ad to continue button text"
+  },
+  "oneTimeContinue": "استمر مرة واحدة",
+  "@oneTimeContinue": {
+    "description": "Button text for ad-free users to continue game once"
+  },
+  "continueGameDescription": "استمر في لعبتك من حيث توقفت.",
+  "@continueGameDescription": {
+    "description": "Description for continue game option"
+  },
+  "watchAdToContinueDescription": "شاهد إعلانًا قصيرًا للاستمرار في لعبتك من حيث توقفت.",
+  "@watchAdToContinueDescription": {
+    "description": "Description for watching ad to continue game"
+  },
+  "cancelSubscription": "إلغاء الاشتراك",
+  "@cancelSubscription": {
+    "description": "Title for cancel subscription screen"
+  },
+  "cancelSubscriptionDescription": "ألغِ اشتراكك الخالي من الإعلانات وعد إلى الإعلانات",
+  "@cancelSubscriptionDescription": {
+    "description": "Description for cancel subscription screen"
+  },
+  "adNotAvailable": "الإعلان غير متاح",
+  "@adNotAvailable": {
+    "description": "عنوان حوار الإعلان غير متاح"
+  },
+  "adNotAvailableMessage": "لا توجد إعلانات متاحة حالياً. يرجى المحاولة مرة أخرى لاحقاً.",
+  "@adNotAvailableMessage": {
+    "description": "رسالة الإعلان غير متاح"
+  },
+  "adFailed": "فشل الإعلان",
+  "@adFailed": {
+    "description": "عنوان حوار فشل الإعلان"
+  },
+  "adFailedMessage": "فشل في عرض الإعلان. يرجى المحاولة مرة أخرى.",
+  "@adFailedMessage": {
+    "description": "رسالة فشل الإعلان"
+  },
+  "ok": "موافق",
+  "@ok": {
+    "description": "نص زر موافق"
+  },
+  "exit": "خروج",
+  "@exit": {
+    "description": "نص زر الخروج"
+  },
+  "soundSettings": "إعدادات الصوت",
+  "soundSettingsMenuSubtitle": "أصوات التطبيق ومستوى التأثيرات",
+  "appSounds": "أصوات التطبيق",
+  "appSoundsDescription": "قم بتفعيل/إيقاف الأصوات واضبط مستوى التأثيرات",
+  "sounds": "الأصوات",
+  "soundsOn": "مفعّل",
+  "soundsOff": "معطّل",
+  "effectsVolume": "مستوى صوت التأثيرات",
+  "soundTest": "اختبار الصوت",
+  "playSampleSound": "تشغيل صوت تجريبي",
+  "purchaseErrorDescription": "لم نتمكن من إكمال عملية الشراء. يرجى المحاولة مرة أخرى أو التحقق من طريقة الدفع.",
+  "restoreErrorDescription": "لم نتمكن من استعادة مشترياتك. يرجى المحاولة مرة أخرى.",
+  "noPurchasesFound": "لم يتم العثور على مشتريات سابقة",
+  "noPurchasesFoundDescription": "لم نتمكن من العثور على مشتريات سابقة لاستعادتها. تأكد من تسجيل الدخول بنفس Apple ID الذي استخدمته للشراء الأصلي.",
+
+  "feedback": "التعليقات",
+  "feedbackAndSuggestions": "التعليقات والاقتراحات",
+  "feedbackAndSuggestionsSubtitle": "شارك أفكارك وساعدنا في التحسن",
+  "directContact": "التواصل المباشر",
+  "directContactDescription": "إذا لم يعمل نموذج التعليقات، يمكنك التواصل معنا مباشرة على:",
+  "sendFeedback": "إرسال التعليقات",
+  "sending": "جاري الإرسال...",
+  "feedbackSentSuccess": "✅ تم إرسال التعليقات بنجاح! شكراً لمساهمتك.",
+  "feedbackSentError": "❌ {errorMessage}. يرجى المحاولة مرة أخرى أو استخدام خيار البريد الإلكتروني المباشر أعلاه.",
+  "feedbackCategoryBug": "تقرير خطأ",
+  "feedbackCategoryFeature": "طلب ميزة",
+  "feedbackCategoryImprovement": "اقتراح تحسين",
+  "feedbackCategoryGeneral": "تعليقات عامة",
+  "feedbackCategory": "الفئة",
+  "feedbackTitle": "العنوان",
+  "feedbackTitleHint": "وصف مختصر لتعليقاتك",
+  "feedbackDescription": "الوصف",
+  "feedbackDescriptionHint": "يرجى تقديم معلومات مفصلة حول تعليقاتك...",
+  "feedbackEmail": "البريد الإلكتروني (اختياري)",
+  "feedbackEmailHint": "بريدك.الإلكتروني@مثال.com",
+  "feedbackEmailDescription": "سنستخدمه للتواصل معك بخصوص تعليقاتك إذا لزم الأمر.",
+  "feedbackFrom": "تعليقات من {title}",
+  "emailLaunchError": "تعذر فتح تطبيق البريد الإلكتروني. يرجى المحاولة يدوياً.",
+  "invalidFeedbackData": "بيانات التعليقات غير صالحة",
+  "failedToSendFeedback": "تعذر إرسال التعليقات. يرجى المحاولة مرة أخرى.",
+  "errorSendingFeedback": "خطأ في إرسال التعليقات: {error}",
+  "maybeLater": "لاحقاً",
+  
+  "noInternetTitle": "لا يوجد اتصال بالإنترنت",
+  "noInternetDescription": "يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى.",
+  "noEntriesYet": "لا توجد إدخالات بعد",
+  "@noEntriesYet": {
+    "description": "Message when there are no leaderboard entries"
+  },
+  "yourRanking": "تصنيفك",
+  "@yourRanking": {
+    "description": "Label for user's ranking in leaderboard"
+  },
+  "thisIsYourScore": "هذه نتيجتك!",
+  "@thisIsYourScore": {
+    "description": "Message shown when user's score appears in leaderboard"
+  },
+  "loadingUserData": "جاري تحميل بيانات المستخدم...",
+  "@loadingUserData": {
+    "description": "Message shown when loading user data for leaderboard"
+  },
+  "leaderboardProfile": "ملف التعريف للقائمة",
+  "@leaderboardProfile": {
+    "description": "Title for leaderboard profile settings"
+  },
+  "leaderboardProfileSubtitle": "تحرير اسمك وعلم بلدك",
+  "@leaderboardProfileSubtitle": {
+    "description": "Subtitle for leaderboard profile settings"
+  },
+  "name": "الاسم",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameRequired": "الاسم مطلوب",
+  "@nameRequired": {
+    "description": "Validation message for required name"
+  },
+  "minimumTwoCharacters": "حرفان على الأقل",
+  "@minimumTwoCharacters": {
+    "description": "Validation message for minimum name length"
+  },
+  "country": "البلد",
+  "@country": {
+    "description": "Country field label"
+  },
+  "searchCountry": "البحث عن بلد",
+  "@searchCountry": {
+    "description": "Country search field label"
+  },
+  "areYouSure": "هل أنت متأكد؟",
+  "@areYouSure": {
+    "description": "Confirmation dialog title"
+  },
+  "profileChangeWarning": "تقدمك حتى الآن سيستمر باسم مختلف.",
+  "@profileChangeWarning": {
+    "description": "Warning message about profile change"
+  },
+  "profileChangeDescription": "أنت على وشك تغيير معلومات ملف التعريف الخاص بك (الاسم والبلد).",
+  "@profileChangeDescription": {
+    "description": "Description of profile change action"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "Save button text"
+  },
+  "congratulations": "تهانينا!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "yourScore": "نتيجتك:",
+  "@yourScore": {
+    "description": "Label for user's score"
+  },
+  "registerForLeaderboard": "سجل في قائمة المتصدرين",
+  "@registerForLeaderboard": {
+    "description": "Title for leaderboard registration"
+  },
+  "enterInfoForGlobalRanking": "أدخل معلوماتك لإضافة نتيجتك إلى التصنيف العالمي.",
+  "@enterInfoForGlobalRanking": {
+    "description": "Description for leaderboard registration"
+  },
+  "enterYourName": "أدخل اسمك",
+  "@enterYourName": {
+    "description": "Hint text for name field"
+  },
+  "writeCountryName": "اكتب اسم البلد...",
+  "@writeCountryName": {
+    "description": "Hint text for country search"
+  },
+  "selectYourCountry": "اختر بلدك",
+  "@selectYourCountry": {
+    "description": "Hint text for country field"
+  },
+  "giveUp": "استسلم",
+  "@giveUp": {
+    "description": "Give up button text"
+  },
+  "addToLeaderboard": "إضافة إلى قائمة المتصدرين؟",
+  "@addToLeaderboard": {
+    "description": "Title for leaderboard opt-in dialog"
+  },
+  "addToLeaderboardDescription": "أضف نتيجتك إلى التصنيف العالمي للمنافسة مع لاعبين آخرين.",
+  "@addToLeaderboardDescription": {
+    "description": "Description for leaderboard opt-in dialog"
+  },
+  "yesAdd": "نعم، أضف",
+  "@yesAdd": {
+    "description": "Yes button for adding to leaderboard"
+  },
+  "generatingNumber": "جاري إنشاء الرقم...",
+  "@generatingNumber": {
+    "description": "Message shown while generating a random number"
+  },
+  "calculatingResult": "جاري حساب النتيجة...",
+  "@calculatingResult": {
+    "description": "Message shown while calculating game result"
+  },
+  "premiumFeatures": "الميزات المميزة",
+  "@premiumFeatures": {
+    "description": "Title for premium features section"
+  },
+  "getCleanExperience": "احصل على تجربة نظيفة وخالية من الإعلانات مع الميزات المميزة.",
+  "@getCleanExperience": {
+    "description": "Description for premium features"
+  },
+  "monthlySubscription": "اشتراك شهري",
+  "@monthlySubscription": {
+    "description": "Monthly subscription text"
+  },
+  "gameInProgress": "اللعبة قيد التقدم",
+  "@gameInProgress": {
+    "description": "Game in progress dialog title"
+  },
+  "gameInProgressSubtitle": "لديك جلسة لعب نشطة",
+  "@gameInProgressSubtitle": {
+    "description": "Subtitle for game in progress dialog"
+  },
+  "gameInProgressTitle": "جلسة اللعب نشطة",
+  "@gameInProgressTitle": {
+    "description": "Title for game in progress dialog content"
+  },
+  "gameCompleted": "تم إكمال اللعبة!",
+  "@gameCompleted": {
+    "description": "Title for game completed dialog content"
+  },
+  "gameCompletedMessage": "تهانينا على إكمال اللعبة! يمكنك إعادة التشغيل للعب مرة أخرى أو الخروج للعودة إلى القائمة الرئيسية.",
+  "@gameCompletedMessage": {
+    "description": "Message for game completed dialog"
+  },
+  "uninstallWarningTitle": "تنبيه مهم",
+  "@uninstallWarningTitle": {
+    "description": "Title for uninstall warning dialog"
+  },
+  "uninstallWarningMessage": "إذا قمت بإلغاء تثبيت التطبيق، فسيتم حذف جميع نقاط اللعب وحقوق الاشتراك بشكل دائم.",
+  "@uninstallWarningMessage": {
+    "description": "Message for uninstall warning dialog"
+  },
+  
+  "connectionProblem": "مشكلة في الاتصال",
+  "@connectionProblem": {"description": "عنوان لأخطاء اتصال الشبكة"},
+  "connectionProblemDescription": "يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى. مطلوب اتصال مستقر للمشتريات.",
+  "@connectionProblemDescription": {"description": "وصف لأخطاء اتصال الشبكة"},
+  
+  "paymentMethodIssue": "مشكلة في طريقة الدفع",
+  "@paymentMethodIssue": {"description": "عنوان لأخطاء طريقة الدفع"},
+  "paymentMethodIssueDescription": "هناك مشكلة في طريقة الدفع الخاصة بك. يرجى التحقق من تفاصيل البطاقة أو تجربة طريقة دفع أخرى.",
+  "@paymentMethodIssueDescription": {"description": "وصف لأخطاء طريقة الدفع"},
+  
+  "insufficientFunds": "رصيد غير كافٍ",
+  "@insufficientFunds": {"description": "عنوان لأخطاء الرصيد غير الكافي"},
+  "insufficientFundsDescription": "طريقة الدفع الخاصة بك لا تحتوي على رصيد كافٍ. يرجى إضافة المال إلى حسابك أو استخدام طريقة دفع أخرى.",
+  "@insufficientFundsDescription": {"description": "وصف لأخطاء الرصيد غير الكافي"},
+  
+  "purchaseCancelled": "تم إلغاء الشراء",
+  "@purchaseCancelled": {"description": "عنوان للعمليات المشتراة الملغاة"},
+  "purchaseCancelledDescription": "لقد ألغيت عملية الشراء. يمكنك المحاولة مرة أخرى في أي وقت.",
+  "@purchaseCancelledDescription": {"description": "وصف للعمليات المشتراة الملغاة"},
+  
+  "productNotAvailable": "المنتج غير متوفر",
+  "@productNotAvailable": {"description": "عنوان لأخطاء المنتج غير الموجود"},
+  "productNotAvailableDescription": "هذا المنتج غير متوفر مؤقتاً. يرجى المحاولة لاحقاً أو الاتصال بالدعم إذا استمرت المشكلة.",
+  "@productNotAvailableDescription": {"description": "وصف لأخطاء المنتج غير الموجود"},
+  
+  "alreadyPurchased": "تم الشراء مسبقاً",
+  "@alreadyPurchased": {"description": "عنوان لأخطاء المنتج المملوك مسبقاً"},
+  "alreadyPurchasedDescription": "لديك هذا المنتج بالفعل. حاول استعادة مشترياتك إذا لم تر الفوائد.",
+  "@alreadyPurchasedDescription": {"description": "وصف لأخطاء المنتج المملوك مسبقاً"},
+  
+  "storeUnavailable": "المتجر غير متوفر",
+  "@storeUnavailable": {"description": "عنوان لأخطاء المتجر غير المتوفر"},
+  "storeUnavailableDescription": "متجر التطبيقات غير متوفر مؤقتاً. يرجى المحاولة خلال بضع دقائق.",
+  "@storeUnavailableDescription": {"description": "وصف لأخطاء المتجر غير المتوفر"},
+  
+  "restoreFailed": "فشل الاستعادة",
+  "@restoreFailed": {"description": "عنوان لأخطاء الاستعادة"},
+  "restoreFailedDescription": "لم نتمكن من استعادة مشترياتك. يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى.",
+  "@restoreFailedDescription": {"description": "وصف لأخطاء الاستعادة"},
+  
+  "guessTheFlag": "خمن العلم",
+  "@guessTheFlag": {
+    "description": "عنوان لعبة خمن العلم"
+  },
+  "guessTheFlagDescription": "اختبر معرفتك بأعلام العالم! اطابق إيموجي العلم مع اسم البلد الصحيح.",
+  "@guessTheFlagDescription": {
+    "description": "وصف لعبة خمن العلم"
+  },
+  "whichCountry": "أي بلد ينتمي إليه هذا العلم؟",
+  "@whichCountry": {
+    "description": "سؤال عن البلد الذي ينتمي إليه العلم"
+  },
+  "timeUp": "انتهى الوقت!",
+  "@timeUp": {
+    "description": "رسالة عندما ينتهي الوقت"
+  },
+  "timeUpDescription": "انتهى وقتك! حاول أن تكون أسرع في المرة القادمة.",
+  "@timeUpDescription": {
+    "description": "وصف عندما ينتهي الوقت"
+  },
+  "wrongAnswer": "إجابة خاطئة!",
+  "@wrongAnswer": {
+    "description": "رسالة عندما تكون الإجابة خاطئة"
+  },
+  "wrongAnswerDescription": "هذا ليس البلد الصحيح. حظ أوفر في المرة القادمة!",
+  "@wrongAnswerDescription": {
+    "description": "وصف عندما تكون الإجابة خاطئة"
+  },
+  "round": "جولة",
+  "@round": {
+    "description": "تسمية الجولة"
+  },
+  "readyToStart": "مستعد للبدء؟",
+  "@readyToStart": {
+    "description": "رسالة عندما تكون مستعداً لبدء اللعبة"
+  },
+  "lives": "الأرواح",
+  "@lives": {
+    "description": "تسمية للأرواح في اللعبة"
+  },
+  "yourScore": "نقاطك",
+  "@yourScore": {
+    "description": "Label for player's score in TicTacToe game"
+  },
+  "currentRound": "الجولة الحالية",
+  "@currentRound": {
+    "description": "Label for current round in TicTacToe game"
+  },
+  "computerWon": "فاز الكمبيوتر!",
+  "@computerWon": {
+    "description": "Message when computer wins in TicTacToe game"
+  }
+}

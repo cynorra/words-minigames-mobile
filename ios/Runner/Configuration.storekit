@@ -1,0 +1,41 @@
+{
+  "identifier" : "Configuration",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "6751838600",
+      "localizations" : [
+        {
+          "description" : "Remove all ads from the app permanently",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "remove_ads_one_time",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "com.furkanages.quickoApp",
+    "_developerTeamID" : "4NZ23FB632",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 1234567890.0,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,230 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+**/build/
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/GeneratedPluginRegistrant.*
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Environment files and sensitive configuration
+.env
+.env.local
+.env.production
+.env.development
+.env.staging
+.env.test
+.env.example
+*.env
+
+# Configuration files with sensitive data
+config/secrets.json
+config/keys.json
+config/api_keys.json
+config/firebase_config.json
+lib/core/config/app_config.dart
+lib/core/config/secrets.dart
+lib/core/config/api_keys.dart
+**/lib/core/config/*.dart
+
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+firebase_config.json
+firebase.json
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase.json
+**/firebase_options.dart
+
+# API Keys and Secrets
+**/api_keys.dart
+**/secrets.dart
+**/app_config.dart
+**/firebase_config.dart
+
+# AdMob configuration
+**/admob_config.dart
+**/ad_config.dart
+
+# Payment and subscription keys
+**/payment_keys.dart
+**/subscription_config.dart
+
+# Analytics and tracking keys
+**/analytics_config.dart
+**/tracking_keys.dart
+
+# Database credentials
+**/database_config.dart
+**/db_credentials.dart
+
+# Email service configuration
+**/email_config.dart
+**/smtp_config.dart
+
+# Third-party service keys
+**/third_party_keys.dart
+**/service_config.dart
+
+# User data and preferences (if stored locally)
+**/user_data/
+**/preferences/
+**/local_storage/
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Log files
+*.log
+logs/
+log/
+
+# Cache directories
+.cache/
+cache/
+**/cache/
+
+# Temporary files
+temp/
+tmp/
+**/temp/
+**/tmp/
+
+# Build artifacts
+build/
+dist/
+**/build/
+**/dist/
+
+# Coverage reports
+coverage/
+**/coverage/
+
+# Test results
+test_results/
+**/test_results/
+
+# IDE specific files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.idea/workspace.xml
+.idea/tasks.xml
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux specific
+*~
+
+# Flutter specific additional
+**/ios/Runner/GoogleService-Info.plist
+**/android/app/google-services.json
+**/ios/Runner/Info.plist.bak
+**/android/app/src/main/AndroidManifest.xml.bak
+
+# Generated files that might contain sensitive data
+**/generated/
+**/auto_generated/
+**/codegen/
+
+# Local development files
+local_config.dart
+dev_config.dart
+debug_config.dart
+
+# Backup configuration files
+*.config.bak
+*.json.bak
+*.plist.bak
+*.xml.bak
+
+# Flutter generated files
+**/ios/Flutter/GeneratedPluginRegistrant.swift
+**/ios/Flutter/GeneratedPluginRegistrant.h
+**/ios/Flutter/GeneratedPluginRegistrant.m
+
+# Pods directory for iOS
+**/ios/Pods/
+**/ios/Podfile.lock
+
+# Gradle files
+**/android/.gradle/
+**/android/gradle/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+
+# Keystore files
+**/android/app/debug.keystore
+**/android/app/release.keystore
+**/*.keystore
+**/*.jks
+
+# FVM (Flutter Version Management)
+.fvm/
+
+# Flutter coverage
+coverage/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+**/generated_plugin_registrant.dart
+
+# Project docs to ignore
+game_standarts.md
+

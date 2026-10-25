@@ -1,0 +1,1556 @@
+{
+  "@@locale": "ru",
+  "appName": "Quicko",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  
+  "blindSort": "Слепая Сортировка",
+  "@blindSort": {
+    "description": "Title for the Blind Sort game"
+  },
+  "blindSortDescription": "Отсортируйте 10 чисел от 1 до 50. Вы проигрываете, если новое число не подходит никуда!",
+  "@blindSortDescription": {
+    "description": "Description for the Blind Sort game"
+  },
+  "nextNumber": "Следующее Число",
+  "@nextNumber": {
+    "description": "Label for the next number in Blind Sort"
+  },
+  "newNumberComing": "Приходит Новое Число...",
+  "@newNumberComing": {
+    "description": "Message when a new number is about to appear"
+  },
+  
+  "start": "Начать",
+  "@start": {
+    "description": "Start button text"
+  },
+  "restart": "Перезапустить",
+  "@restart": {
+    "description": "Restart button text"
+  },
+  "home": "Главная",
+  "@home": {
+    "description": "Home navigation label"
+  },
+  "games": "Игры",
+  "@games": {
+    "description": "Games navigation label"
+  },
+  "score": "Счёт",
+  "@score": {
+    "description": "Score label"
+  },
+  "gameOver": "Игра Окончена",
+  "@gameOver": {
+    "description": "Game over message"
+  },
+  "tryAgain": "Попробовать Снова",
+  "@tryAgain": {
+    "description": "Try again button text"
+  },
+  "share": "Поделиться",
+  "@share": {
+    "description": "Share button text"
+  },
+  "confirm": "Подтвердить",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+  "fullscreen": "Полный Экран",
+  "@fullscreen": {
+    "description": "Fullscreen button text"
+  },
+  "cancel": "Отмена",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "reset": "Сброс",
+  "@reset": {
+    "description": "Reset button text"
+  },
+  
+  "higherLower": "Выше или Ниже",
+  "@higherLower": {
+    "description": "Title for the Higher or Lower game"
+  },
+  "higherLowerDescription": "Угадайте, будет ли следующее число выше или ниже! Числа от 1 до 50.",
+  "@higherLowerDescription": {
+    "description": "Description for the Higher or Lower game"
+  },
+  "higher": "Выше",
+  "@higher": {
+    "description": "Higher button text"
+  },
+  "lower": "Ниже",
+  "@lower": {
+    "description": "Lower button text"
+  },
+  "lastNumber": "Последнее Число",
+  "@lastNumber": {
+    "description": "Label for the last number"
+  },
+  "completedAllTargets": "Все цели выполнены!",
+  "@completedAllTargets": {
+    "description": "Message when all targets are completed"
+  },
+  "targets": "Цели",
+  "@targets": {
+    "description": "Label for targets"
+  },
+  
+  "continueGame": "Продолжить Игру",
+  "@continueGame": {
+    "description": "Continue game dialog title"
+  },
+  "watchAdToContinue": "Смотреть Рекламу для Продолжения",
+  "@watchAdToContinue": {
+    "description": "Watch ad to continue button text"
+  },
+  "oneTimeContinue": "Однократное Продолжение",
+  "@oneTimeContinue": {
+    "description": "Button text for ad-free users to continue game once"
+  },
+  "continueGameDescription": "Продолжите игру с того места, где остановились.",
+  "@continueGameDescription": {
+    "description": "Description for continue game option"
+  },
+  "oneTimeContinueUsed": "Вы уже использовали однократное продолжение для этой игровой сессии.",
+  "@oneTimeContinueUsed": {
+    "description": "Message shown when ad-free user has already used their one-time continue"
+  },
+  "watchAdToContinueDescription": "Посмотрите короткую рекламу, чтобы продолжить игру с того места, где остановились.",
+  "@watchAdToContinueDescription": {
+    "description": "Description for watching ad to continue game"
+  },
+  "cancelSubscription": "Отменить Подписку",
+  "@cancelSubscription": {
+    "description": "Title for cancel subscription screen"
+  },
+  "cancelSubscriptionDescription": "Отмените подписку без рекламы и вернитесь к рекламе",
+  "@cancelSubscriptionDescription": {
+    "description": "Description for cancel subscription screen"
+  },
+  "cancelSubscriptionError": "Ошибка Отмены Подписки",
+  "@cancelSubscriptionError": {
+    "description": "Title for cancel subscription error"
+  },
+  "cancelSubscriptionErrorDescription": "Не удалось отменить подписку. Попробуйте снова или обратитесь в службу поддержки.",
+  "@cancelSubscriptionErrorDescription": {
+    "description": "Description for cancel subscription error"
+  },
+  "adNotAvailable": "Реклама Недоступна",
+  "@adNotAvailable": {
+    "description": "Ad not available dialog title"
+  },
+  "adNotAvailableMessage": "Реклама в настоящее время недоступна. Попробуйте позже.",
+  "@adNotAvailableMessage": {
+    "description": "Ad not available message"
+  },
+  "adFailed": "Реклама Не Загрузилась",
+  "@adFailed": {
+    "description": "Ad failed dialog title"
+  },
+  "adFailedMessage": "Не удалось показать рекламу. Попробуйте снова.",
+  "@adFailedMessage": {
+    "description": "Ad failed message"
+  },
+  "ok": "ОК",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "exit": "Выход",
+  "@exit": {
+    "description": "Exit button text"
+  },
+  "stay": "Остаться",
+  "@stay": {
+    "description": "Stay button text"
+  },
+  "andMore": "и ещё...",
+  "@andMore": {
+    "description": "Text shown when there are more items to display"
+  },
+  "missionFailed": "Миссия Провалена!",
+  "@missionFailed": {
+    "description": "Mission failed message"
+  },
+  "greenTargetHit": "Зелёная цель поражена!",
+  "@greenTargetHit": {
+    "description": "Green target hit message"
+  },
+  "youHitAllTargets": "Вы поразили все цели!",
+  "@youHitAllTargets": {
+    "description": "All targets hit message"
+  },
+  "timeRanOut": "Время истекло!",
+  "@timeRanOut": {
+    "description": "Time ran out message"
+  },
+  "targetsHit": "Поражённые Цели",
+  "@targetsHit": {
+    "description": "Targets hit label"
+  },
+  "mistake": "Ошибка",
+  "@mistake": {
+    "description": "Mistake label"
+  },
+  "civilianHit": "Попадание в Гражданского",
+  "@civilianHit": {
+    "description": "Civilian hit message"
+  },
+  "youFoundAllColors": "Вы нашли все цвета!",
+  "@youFoundAllColors": {
+    "description": "All colors found message"
+  },
+  "colorsFound": "Найденные Цвета",
+  "@colorsFound": {
+    "description": "Colors found label"
+  },
+  "lastMistake": "Последняя Ошибка",
+  "@lastMistake": {
+    "description": "Last mistake label"
+  },
+  "wrongColor": "Неверный Цвет",
+  "@wrongColor": {
+    "description": "Wrong color message"
+  },
+  "currentNumber": "Текущее Число",
+  "@currentNumber": {
+    "description": "Label for the current number"
+  },
+  "close": "Закрыть",
+  "@close": {
+    "description": "Close button text"
+  },
+  "betterLuckNextTime": "Удачи в следующий раз!",
+  "@betterLuckNextTime": {
+    "description": "Message shown when player loses"
+  },
+  "losingNumbers": "Числа, Которые Привели к Поражению",
+  "@losingNumbers": {
+    "description": "Title for losing numbers section"
+  },
+  "losingNumber": "Число, Которое Привело к Поражению",
+  "@losingNumber": {
+    "description": "Label for the number that caused loss"
+  },
+  
+  "colorHunt": "Охота за Цветом",
+  "@colorHunt": {
+    "description": "Title for the Color Hunt game"
+  },
+  "colorHuntDescription": "Найдите целевой цвет! Цвет текста может вас обмануть!",
+  "@colorHuntDescription": {
+    "description": "Description for the Color Hunt game"
+  },
+  "target": "Цель",
+  "@target": {
+    "description": "Target label"
+  },
+  "time": "Время",
+  "@time": {
+    "description": "Time label"
+  },
+  "wrongColorSelected": "Выбран Неверный Цвет",
+  "@wrongColorSelected": {
+    "description": "Message when wrong color is selected"
+  },
+  "wrongColorSelection": "Неверный Выбор Цвета",
+  "@wrongColorSelection": {
+    "description": "Message when player loses due to wrong color selection"
+  },
+  
+  "favorites": "Избранное",
+  "@favorites": {
+    "description": "Favorites navigation label"
+  },
+  "loadingFavorites": "Загрузка Избранного...",
+  "@loadingFavorites": {
+    "description": "Message when loading favorites"
+  },
+  "noFavoritesYet": "Пока Нет Избранного",
+  "@noFavoritesYet": {
+    "description": "Message when no favorites exist"
+  },
+  "addGamesToFavorites": "Добавьте игры в избранное для быстрого доступа",
+  "@addGamesToFavorites": {
+    "description": "Instruction to add games to favorites"
+  },
+  "browseGames": "Просмотр Игр",
+  "@browseGames": {
+    "description": "Browse games button text"
+  },
+  
+  "aimTrainer": "Тренажёр Прицеливания",
+  "@aimTrainer": {
+    "description": "Title for the Aim Trainer game"
+  },
+  "aimTrainerDescription": "Попробуйте стрелять в случайно появляющиеся красные цели в течение 20 секунд. Каждое попадание - 1 очко!",
+  "@aimTrainerDescription": {
+    "description": "Description for the Aim Trainer game"
+  },
+  
+  "numberMemory": "Память на Числа",
+  "@numberMemory": {
+    "description": "Title for the Number Memory game"
+  },
+  "numberMemoryDescription": "Запомните последовательность чисел и введите её правильно с помощью клавиатуры. Сколько цифр вы можете запомнить?",
+  "@numberMemoryDescription": {
+    "description": "Description for the Number Memory game"
+  },
+  
+  "findDifference": "Найди Различия",
+  "@findDifference": {
+    "description": "Title for the Find the Difference game"
+  },
+  "findDifferenceDescription": "Найдите один квадрат с другим цветом. С каждым раундом становится сложнее!",
+  "@findDifferenceDescription": {
+    "description": "Description for the Find the Difference game"
+  },
+  
+  "rockPaperScissors": "Камень-Ножницы-Бумага",
+  "@rockPaperScissors": {
+    "description": "Title for the Rock-Paper-Scissors game"
+  },
+  "rockPaperScissorsDescription": "Играйте против компьютера. Первый до 5 очков побеждает.",
+  "@rockPaperScissorsDescription": {
+    "description": "Description for the Rock-Paper-Scissors game"
+  },
+  
+  "twentyOne": "21 (Блэкджек)",
+  "@twentyOne": {
+    "description": "Title for the 21 (Blackjack) game"
+  },
+  "twentyOneDescription": "Победите дилера до 21! Подойдите как можно ближе, не превышая.",
+  "@twentyOneDescription": {
+    "description": "Description for the 21 (Blackjack) game"
+  },
+  
+  "ticTacToe": "Крестики-Нолики",
+  "@ticTacToe": {
+    "description": "Title for the Tic Tac Toe game"
+  },
+  "ticTacToeDescription": "Играйте против компьютера! Соберите три в ряд, чтобы выиграть.",
+  "@ticTacToeDescription": {
+    "description": "Description for the Tic Tac Toe game"
+  },
+  
+  "nowYourTurn": "Теперь ваша очередь!",
+  "@nowYourTurn": {
+    "description": "Message indicating it's the player's turn"
+  },
+  "correct": "Правильно!",
+  "@correct": {
+    "description": "Message when answer is correct"
+  },
+  "playing": "Играем",
+  "@playing": {
+    "description": "Playing status label"
+  },
+
+  "tapToStartGuessing": "Нажмите Выше или Ниже, чтобы начать угадывать! Числа от 1 до 50.",
+  "@tapToStartGuessing": {
+    "description": "Instruction to start guessing in Higher or Lower"
+  },
+  "numbersBetween1And50": "Числа от 1 до 50",
+  "@numbersBetween1And50": {
+    "description": "Information about number range"
+  },
+  
+  "leaderboard": "Таблица Лидеров",
+  "@leaderboard": {
+    "description": "Leaderboard navigation label"
+  },
+  "noLeaderboardData": "Нет Данных Таблицы Лидеров",
+  "@noLeaderboardData": {
+    "description": "Message when no leaderboard data exists"
+  },
+  "playGamesToSeeScores": "Играйте в игры, чтобы увидеть ваши высокие результаты здесь!",
+  "@playGamesToSeeScores": {
+    "description": "Instruction to play games to see scores"
+  },
+  "playGames": "Играть в Игры",
+  "@playGames": {
+    "description": "Play games button text"
+  },
+  "swipeToDeleteHint": "Свайпните влево, чтобы удалить высокие результаты",
+  "@swipeToDeleteHint": {
+    "description": "Hint text for swipe to delete functionality"
+  },
+  "removeAds": "Убрать Рекламу",
+  "@removeAds": {
+    "description": "Remove ads subscription option"
+  },
+  "removeAdsDescription": "Наслаждайтесь игрой без рекламы с единоразовой оплатой",
+  "@removeAdsDescription": {
+    "description": "Description for remove ads subscription"
+  },
+  "monthlySubscription": "Месячная Подписка",
+  "@monthlySubscription": {
+    "description": "Monthly subscription label"
+  },
+  "buyNow": "Купить",
+  "@subscribeNow": {
+    "description": "Subscribe now button text"
+  },
+  "restorePurchases": "Восстановить Покупки",
+  "@restorePurchases": {
+    "description": "Restore purchases button text"
+  },
+  "subscriptionActive": "Подписка Активна",
+  "@subscriptionActive": {
+    "description": "Subscription active status"
+  },
+  "subscriptionExpired": "Подписка Истекла",
+  "@subscriptionExpired": {
+    "description": "Subscription expired status"
+  },
+  "purchasedOn": "Куплено: {date}",
+  "@daysRemaining": {
+    "description": "Days remaining in subscription",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "monthlySubscriptionPrice": "Месячная подписка - $2.49",
+  "@monthlySubscriptionPrice": {
+    "description": "Monthly subscription price display"
+  },
+  "uninstallWarning": "Важно: Подписка хранится локально. Если вы удалите приложение, ваша подписка будет потеряна и вам нужно будет купить её снова.",
+  "@uninstallWarning": {
+    "description": "Warning about subscription loss when app is uninstalled"
+  },
+  "importantNotice": "Важное Уведомление",
+  "@importantNotice": {
+    "description": "Important notice title"
+  },
+  "gotIt": "Понятно",
+  "@gotIt": {
+    "description": "Got it button text"
+  },
+  "purchaseSuccess": "Покупка Успешна!",
+  "@purchaseSuccess": {
+    "description": "Purchase success message"
+  },
+  "purchaseError": "Покупка Не Удалась",
+  "@purchaseError": {
+    "description": "Purchase error message"
+  },
+  "restoreSuccess": "Покупки Восстановлены!",
+  "@restoreSuccess": {
+    "description": "Restore success message"
+  },
+  "restoreError": "Восстановление Не Удалось",
+  "@restoreError": {
+    "description": "Restore error message"
+  },
+  "noBannerAds": "Без баннерной рекламы",
+  "@noBannerAds": {
+    "description": "Feature description for no banner ads"
+  },
+  "noInterstitialAds": "Без полноэкранной рекламы",
+  "@noInterstitialAds": {
+    "description": "Feature description for no interstitial ads"
+  },
+  "noRewardedAds": "Без видеорекламы",
+  "@noRewardedAds": {
+    "description": "Feature description for no rewarded ads"
+  },
+  "cleanExperience": "Чистый опыт без отвлечений",
+  "@cleanExperience": {
+    "description": "Feature description for clean experience"
+  },
+  "cancelAnytime": "Отменить в любое время",
+  "@cancelAnytime": {
+    "description": "Feature description for cancel anytime"
+  },
+  "cancelSubscriptionWarning": "Отмена подписки уберет доступ без рекламы, и вы снова будете видеть рекламу.",
+  "@cancelSubscriptionWarning": {
+    "description": "Warning message when canceling subscription"
+  },
+  "subscriptionPrice": "$2.99",
+  "@subscriptionPrice": {
+    "description": "One-time payment price display"
+  },
+  "oneTimePayment": "Единоразовая оплата",
+  "@oneTimePayment": {
+    "description": "One-time payment label"
+  },
+  "bestValue": "ЛУЧШАЯ ЦЕНА",
+  "@bestValue": {
+    "description": "Best value label"
+  },
+  "lifetimeAccess": "ПОЖИЗНЕННЫЙ ДОСТУП",
+  "@lifetimeAccess": {
+    "description": "Lifetime access label"
+  },
+  "totalGames": "Всего Игр",
+  "@totalGames": {
+    "description": "Total games label"
+  },
+  "highestScore": "Лучший Результат",
+  "@highestScore": {
+    "description": "Highest score label"
+  },
+  "averageScore": "Средний Результат",
+  "@averageScore": {
+    "description": "Average score label"
+  },
+  "highScore": "Лучший Результат: {score}",
+  "@highScore": {
+    "description": "High score display with score value",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "lastPlayed": "Последняя Игра: {date}",
+  "@lastPlayed": {
+    "description": "Last played date display",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "22.03.25"
+      }
+    }
+  },
+  "sortBy": "Сортировать По",
+  "@sortBy": {
+    "description": "Sort by label"
+  },
+  "sortByScore": "Сортировать по Результату",
+  "@sortByScore": {
+    "description": "Sort by score option"
+  },
+  "sortByLastPlayed": "Сортировать по Последней Игре",
+  "@sortByLastPlayed": {
+    "description": "Sort by last played option"
+  },
+  "shareAchievements": "Поделиться Достижениями",
+  "@shareAchievements": {
+    "description": "Share achievements button text"
+  },
+  "previewImage": "Предварительный Просмотр",
+  "@previewImage": {
+    "description": "Preview image button text"
+  },
+  "shareImage": "Поделиться Изображением",
+  "@shareImage": {
+    "description": "Share image button text"
+  },
+  "shareNoData": "Пока нет данных для обмена. Сначала сыграйте в игры!",
+  "@shareNoData": {
+    "description": "Message when no data is available to share"
+  },
+  "shareError": "Ошибка при обмене достижениями. Попробуйте снова.",
+  "@shareError": {
+    "description": "Error message when sharing fails"
+  },
+  
+  "timeUp": "Время Истекло",
+  "@timeUp": {
+    "description": "Time up message"
+  },
+  "timeUpMessage": "У вас закончилось время!",
+  "@timeUpMessage": {
+    "description": "Message when time runs out"
+  },
+  
+  "finalScore": "Финальный Результат",
+  "@finalScore": {
+    "description": "Final score label"
+  },
+  "timeRanOut": "Время истекло!",
+  "@timeRanOut": {
+    "description": "Message indicating time ran out"
+  },
+  "youWon": "Вы Победили!",
+  "rateQuicko": "Оценить Quicko",
+  "@rateQuicko": {
+    "description": "Title for rating bottom sheet"
+  },
+  "rateQuickoDescription": "Ваш отзыв помогает нам улучшаться и достигать большего количества пользователей!",
+  "@rateQuickoDescription": {
+    "description": "Description text for rating bottom sheet"
+  },
+  "howWouldYouRate": "Как бы вы оценили Quicko?",
+  "@howWouldYouRate": {
+    "description": "Question text for rating"
+  },
+  "rateOnStore": "Оценить в Магазине",
+  "@rateOnStore": {
+    "description": "Button text to rate on store"
+  },
+  "openingStore": "Открытие Магазина...",
+  "@openingStore": {
+    "description": "Loading text when opening store"
+  },
+  "ratingPoor": "Плохо",
+  "@ratingPoor": {
+    "description": "Rating text for 1 star"
+  },
+  "ratingFair": "Удовлетворительно",
+  "@ratingFair": {
+    "description": "Rating text for 2 stars"
+  },
+  "ratingGood": "Хорошо",
+  "@ratingGood": {
+    "description": "Rating text for 3 stars"
+  },
+  "ratingVeryGood": "Очень Хорошо",
+  "@ratingVeryGood": {
+    "description": "Rating text for 4 stars"
+  },
+  "ratingExcellent": "Отлично!",
+  "@ratingExcellent": {
+    "description": "Rating text for 5 stars"
+  },
+  "thankYouForRating": "Спасибо за оценку Quicko!",
+  "@thankYouForRating": {
+    "description": "Success message after rating"
+  },
+  "couldNotOpenStore": "Не удалось открыть магазин. Попробуйте снова.",
+  "@couldNotOpenStore": {
+    "description": "Error message when store cannot be opened"
+  },
+  "@youWon": {
+    "description": "You won message"
+  },
+  "congratulationsMessage": "Поздравляем! Вы выполнили задание!",
+  "@congratulationsMessage": {
+    "description": "Congratulations message for winning"
+  },
+  "excellentPerformance": "Отличная работа!",
+  "@excellentPerformance": {
+    "description": "Message for excellent performance"
+  },
+  "playAgain": "Играть Снова",
+  "@playAgain": {
+    "description": "Play again button text"
+  },
+  "deleteHighScore": "Удалить Лучший Результат",
+  "@deleteHighScore": {
+    "description": "Delete high score dialog title"
+  },
+  "deleteHighScoreMessage": "Вы уверены, что хотите удалить лучший результат для этой игры?",
+  "@deleteHighScoreMessage": {
+    "description": "Delete high score confirmation message"
+  },
+  "delete": "Удалить",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "language": "Язык",
+  "@language": {
+    "description": "Language settings title"
+  },
+  "selectLanguage": "Выбрать Язык",
+  "@selectLanguage": {
+    "description": "Select language prompt"
+  },
+  "languageChangeInfo": "Изменения языка будут применены немедленно. Приложение перезапустится для применения нового языка.",
+  "@languageChangeInfo": {
+    "description": "Information about language change"
+  },
+  "choosePreferredLanguage": "Выберите предпочитаемый язык",
+  "@choosePreferredLanguage": {
+    "description": "Text for language selection prompt"
+  },
+  
+  "sort_by_date": "Сортировать по Дате",
+  "@sort_by_date": {
+    "description": "Sort by date option"
+  },
+  
+  "sort_by_game": "Сортировать по Игре",
+  "@sort_by_game": {
+    "description": "Sort by game option"
+  },
+  
+  "theme": "Тема",
+  "@theme": {
+    "description": "Theme settings title"
+  },
+  
+  "selectTheme": "Выбрать Тему",
+  "@selectTheme": {
+    "description": "Select theme prompt"
+  },
+  
+  "lightTheme": "Светлая",
+  "@lightTheme": {
+    "description": "Light theme option"
+  },
+  
+  "darkTheme": "Тёмная",
+  "@darkTheme": {
+    "description": "Dark theme option"
+  },
+  
+  "systemTheme": "Системная",
+  "@systemTheme": {
+    "description": "System theme option"
+  },
+  
+  "lightThemeDescription": "Светлая тема для ярких помещений",
+  "@lightThemeDescription": {
+    "description": "Light theme description"
+  },
+  
+  "darkThemeDescription": "Тёмная тема для слабоосвещённых помещений",
+  "@darkThemeDescription": {
+    "description": "Dark theme description"
+  },
+  
+  "systemThemeDescription": "Следует настройке темы вашего устройства",
+  "@systemThemeDescription": {
+    "description": "System theme description"
+  },
+  
+  "themeChangeInfo": "Изменения темы будут применены немедленно во всём приложении.",
+  "@themeChangeInfo": {
+    "description": "Information about theme changes"
+  },
+  "choosePreferredTheme": "Выберите предпочитаемую тему",
+  "@choosePreferredTheme": {
+    "description": "Text for theme selection prompt"
+  },
+  
+  "startGame": "Начать Игру",
+  "@startGame": {
+    "description": "Start game button text"
+  },
+  "restartGame": "Перезапустить Игру",
+  "@restartGame": {
+    "description": "Restart game button text"
+  },
+  "you": "Вы",
+  "@you": {
+    "description": "Player label"
+  },
+  "cpu": "Компьютер",
+  "@cpu": {
+    "description": "Computer opponent label"
+  },
+  "dealer": "Дилер",
+  "@dealer": {
+    "description": "Dealer label for card games"
+  },
+  "youWin": "Вы Победили!",
+  "@youWin": {
+    "description": "Win message"
+  },
+  "youLose": "Вы Проиграли!",
+  "@youLose": {
+    "description": "Lose message"
+  },
+  "tie": "Ничья!",
+  "@tie": {
+    "description": "Tie message"
+  },
+  "total": "Всего",
+  "@total": {
+    "description": "Total score label"
+  },
+  
+  "red": "Красный",
+  "@red": {
+    "description": "Red color name"
+  },
+  "green": "Зелёный",
+  "@green": {
+    "description": "Green color name"
+  },
+  "blue": "Синий",
+  "@blue": {
+    "description": "Blue color name"
+  },
+  "purple": "Фиолетовый",
+  "@purple": {
+    "description": "Purple color name"
+  },
+  "orange": "Оранжевый",
+  "@orange": {
+    "description": "Orange color name"
+  },
+  "yellow": "Жёлтый",
+  "@yellow": {
+    "description": "Yellow color name"
+  },
+  "pink": "Розовый",
+  "@pink": {
+    "description": "Pink color name"
+  },
+  "brown": "Коричневый",
+  "@brown": {
+    "description": "Brown color name"
+  },
+  "cyan": "Голубой",
+  "@cyan": {
+    "description": "Cyan color name"
+  },
+  "lime": "Лаймовый",
+  "@lime": {
+    "description": "Lime color name"
+  },
+  "magenta": "Пурпурный",
+  "@magenta": {
+    "description": "Magenta color name"
+  },
+  "teal": "Бирюзовый",
+  "@teal": {
+    "description": "Teal color name"
+  },
+  "indigo": "Индиго",
+  "@indigo": {
+    "description": "Indigo color name"
+  },
+  "amber": "Янтарный",
+  "@amber": {
+    "description": "Amber color name"
+  },
+  "deep_purple": "Тёмно-фиолетовый",
+  "@deep_purple": {
+    "description": "Deep purple color name"
+  },
+  "light_blue": "Светло-синий",
+  "@light_blue": {
+    "description": "Light blue color name"
+  },
+  
+  "play": "Играть",
+  "@play": {
+    "description": "Play button text"
+  },
+  
+  "appSettings": "Настройки Приложения",
+  "@appSettings": {
+    "description": "App settings title"
+  },
+  "customizeAppExperience": "Настройте свой опыт использования приложения",
+  "@customizeAppExperience": {
+    "description": "App settings description"
+  },
+  
+  "settings": "Настройки",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  
+  "hit": "Взять",
+  "@hit": {
+    "description": "Hit button text for 21 game"
+  },
+  "stand": "Хватит",
+  "@stand": {
+    "description": "Stand button text for 21 game"
+  },
+  
+  "reactionTime": "Время Реакции",
+  "@reactionTime": {
+    "description": "Title for the Reaction Time game"
+  },
+  "reactionTimeDescription": "Нажимайте числа от 1 до 12 в правильном порядке как можно быстрее. Ваше время будет измерено (меньше - лучше).",
+  "@reactionTimeDescription": {
+    "description": "Description for the Reaction Time game"
+  },
+  "time": "Время",
+  "@time": {
+    "description": "Time label"
+  },
+  "wrongSequence": "Неверная последовательность!",
+  "@wrongSequence": {
+    "description": "Wrong sequence message for reaction time game"
+  },
+  "congratulations": "Поздравляем!",
+  "@congratulations": {
+    "description": "Congratulations message for winning games"
+  },
+  "next": "Далее",
+  "@next": {
+    "description": "Next label"
+  },
+  
+  "numbersSorted": "Отсортированные Числа",
+  "@numbersSorted": {
+    "description": "Label for numbers sorted in Blind Sort game"
+  },
+  "numbersRemembered": "Запомненные Числа",
+  "@numbersRemembered": {
+    "description": "Label for numbers remembered in Number Memory game"
+  },
+  "correctGuesses": "Правильные Догадки",
+  "@correctGuesses": {
+    "description": "Label for correct guesses in Higher Lower game"
+  },
+  "yourScore": "Ваш Результат",
+  "@yourScore": {
+    "description": "Label for player score in RPS game"
+  },
+  "cpuScore": "Результат Компьютера",
+  "@cpuScore": {
+    "description": "Label for CPU score in RPS game"
+  },
+  "finalScore": "Финальный Результат",
+  "@finalScore": {
+    "description": "Label for final score in 21 game"
+  },
+  "result": "Результат",
+  "@result": {
+    "description": "Label for result in 21 game"
+  },
+  "bust": "Перебор!",
+  "@bust": {
+    "description": "Message when player goes over 21"
+  },
+  "wrongNumber": "Неверное Число",
+  "@wrongNumber": {
+    "description": "Message for wrong number in Number Memory"
+  },
+  "youSuccessfullySortedAllNumbers": "Вы успешно отсортировали все числа!",
+  "@youSuccessfullySortedAllNumbers": {
+    "description": "Success message for Blind Sort game"
+  },
+  "youRememberedAllNumbers": "Вы запомнили все числа!",
+  "@youRememberedAllNumbers": {
+    "description": "Success message for Number Memory game"
+  },
+  "youGuessedCorrectly": "Вы угадали правильно!",
+  "@youGuessedCorrectly": {
+    "description": "Success message for Higher Lower game"
+  },
+  "youWonTheGame": "Вы выиграли игру!",
+  "@youWonTheGame": {
+    "description": "Success message for RPS game"
+  },
+  "youReached21": "Вы достигли 21!",
+  "@youReached21": {
+    "description": "Success message for 21 game"
+  },
+  "youWentOver21": "Вы превысили 21!",
+  "@youWentOver21": {
+    "description": "Failure message for 21 game"
+  },
+  "whyYouLost": "Почему вы проиграли",
+  "@whyYouLost": {
+    "description": "Label for loss reason section"
+  },
+  "sortLeaderboard": "Сортировать Таблицу Лидеров",
+  "@sortLeaderboard": {
+    "description": "Title for sort leaderboard dialog"
+  },
+  "sortByName": "Сортировать по Имени",
+  "@sortByName": {
+    "description": "Sort by name option"
+  },
+  "sortByScore": "Сортировать по Результату",
+  "@sortByScore": {
+    "description": "Sort by score option"
+  },
+  "sortByDate": "Сортировать по Дате",
+  "@sortByDate": {
+    "description": "Sort by date option"
+  },
+  "perfectTime": "Отличное Время!",
+  "@perfectTime": {
+    "description": "Message for perfect completion time"
+  },
+  "goodTime": "Хорошее Время!",
+  "@goodTime": {
+    "description": "Message for good completion time"
+  },
+  "averageTime": "Среднее Время",
+  "@averageTime": {
+    "description": "Message for average completion time"
+  },
+  "slowTime": "Медленное Время",
+  "@slowTime": {
+    "description": "Message for slow completion time"
+  },
+  "verySlowTime": "Очень Медленное Время",
+  "@verySlowTime": {
+    "description": "Message for very slow completion time"
+  },
+  "patternMemory": "Память на Паттерны",
+  "@patternMemory": {
+    "description": "Title for the Pattern Memory game"
+  },
+  "patternMemoryDescription": "Запомните паттерн на экране и воспроизведите его. Паттерн становится сложнее с каждым уровнем.",
+  "@patternMemoryDescription": {
+    "description": "Description for the Pattern Memory game"
+  },
+  "patternMemoryInstructions": "Запомните паттерн на экране и воспроизведите его. Паттерн становится сложнее с каждым уровнем.",
+  "@patternMemoryInstructions": {
+    "description": "Instructions for the Pattern Memory game"
+  },
+  "wrongPattern": "Неверный Паттерн",
+  "@wrongPattern": {
+    "description": "Message when wrong pattern is selected"
+  },
+
+  "wrong": "Неверно",
+  "@wrong": {
+    "description": "Wrong message"
+  },
+  "row": "строка",
+  "@row": {
+    "description": "Row label for accessibility"
+  },
+  "column": "столбец",
+  "@column": {
+    "description": "Column label for accessibility"
+  },
+  
+  "red": "Red",
+  "@red": {
+    "description": "Red color name"
+  },
+  "green": "Green",
+  "@green": {
+    "description": "Green color name"
+  },
+  "blue": "Blue",
+  "@blue": {
+    "description": "Blue color name"
+  },
+  "purple": "Purple",
+  "@purple": {
+    "description": "Purple color name"
+  },
+  "orange": "Orange",
+  "@orange": {
+    "description": "Orange color name"
+  },
+  "yellow": "Yellow",
+  "@yellow": {
+    "description": "Yellow color name"
+  },
+  "pink": "Pink",
+  "@pink": {
+    "description": "Pink color name"
+  },
+  "brown": "Brown",
+  "@brown": {
+    "description": "Brown color name"
+  },
+  
+  "fiftyPercentOff": "50% СКИДКА",
+  "@fiftyPercentOff": {
+    "description": "50% discount text for subscription"
+  },
+  "importantNotice": "Важное Уведомление",
+  "@importantNotice": {
+    "description": "Important notice title for warnings"
+  },
+  
+  "gameInProgress": "Игра в Процессе",
+  "@gameInProgress": {
+    "description": "Game in progress dialog title"
+  },
+  "gameInProgressMessage": "Игра в настоящее время в процессе. Вы уверены, что хотите выйти? Ваш прогресс будет потерян.",
+  "@gameInProgressMessage": {
+    "description": "Game in progress confirmation message"
+  },
+  "stayInGame": "Остаться в Игре",
+  "@stayInGame": {
+    "description": "Stay in game button text"
+  },
+  "exitGame": "Выйти из Игры",
+  "@exitGame": {
+    "description": "Exit game button text"
+  },
+
+  "soundSettings": "Настройки Звука",
+  "@soundSettings": { "description": "Sound settings screen title" },
+  "soundSettingsMenuSubtitle": "Уровень звуков и эффектов приложения",
+  "@soundSettingsMenuSubtitle": { "description": "Subtitle for sound settings in main settings list" },
+  "appSounds": "Звуки Приложения",
+  "@appSounds": { "description": "Header title for app sounds card" },
+  "appSoundsDescription": "Переключите звуки и настройте уровень эффектов",
+  "@appSoundsDescription": { "description": "Description under app sounds header" },
+  "sounds": "Звуки",
+  "@sounds": { "description": "Sounds toggle label" },
+  "soundsOn": "Вкл",
+  "@soundsOn": { "description": "Sounds enabled label" },
+  "soundsOff": "Выкл",
+  "@soundsOff": { "description": "Sounds disabled label" },
+  "effectsVolume": "Громкость Эффектов",
+  "@effectsVolume": { "description": "Effects volume label" },
+  "soundTest": "Тест Звука",
+  "@soundTest": { "description": "Sound test section title" },
+  "playSampleSound": "Воспроизвести Пример Звука",
+  "@playSampleSound": { "description": "Play sample sound button text" },
+  "purchaseErrorDescription": "Мы не смогли завершить вашу покупку. Попробуйте снова или проверьте способ оплаты.",
+  "@purchaseErrorDescription": {"description": "Detailed message shown when purchase fails"},
+  "restoreErrorDescription": "Мы не смогли восстановить ваши покупки. Попробуйте снова.",
+  "noPurchasesFound": "Предыдущие Покупки Не Найдены",
+  "noPurchasesFoundDescription": "Мы не смогли найти предыдущие покупки для восстановления. Убедитесь, что вы вошли в систему с тем же Apple ID, который использовали для оригинальной покупки.",
+  "@restoreErrorDescription": {"description": "Detailed message shown when restore fails"},
+
+  "feedback": "Обратная Связь",
+  "@feedback": {
+    "description": "Feedback screen title"
+  },
+  "feedbackAndSuggestions": "Обратная Связь и Предложения",
+  "@feedbackAndSuggestions": {
+    "description": "Feedback and suggestions menu item title"
+  },
+  "feedbackAndSuggestionsSubtitle": "Поделитесь своими мыслями и помогите нам улучшиться",
+  "@feedbackAndSuggestionsSubtitle": {
+    "description": "Feedback and suggestions menu item subtitle"
+  },
+  "directContact": "Прямой Контакт",
+  "@directContact": {
+    "description": "Direct contact section title"
+  },
+  "directContactDescription": "Если форма обратной связи не работает, вы можете связаться с нами напрямую:",
+  "@directContactDescription": {
+    "description": "Description for direct contact section"
+  },
+  "sendFeedback": "Отправить Обратную Связь",
+  "@sendFeedback": {
+    "description": "Send feedback button text"
+  },
+  "sending": "Отправка...",
+  "@sending": {
+    "description": "Sending feedback loading text"
+  },
+  "feedbackSentSuccess": "✅ Обратная связь отправлена успешно! Спасибо за ваш отзыв.",
+  "@feedbackSentSuccess": {
+    "description": "Success message when feedback is sent"
+  },
+  "feedbackSuccessDescription": "Спасибо за вашу обратную связь! Мы ценим ваш отзыв и внимательно его рассмотрим.",
+  "@feedbackSuccessDescription": {
+    "description": "Description text shown in feedback success bottom sheet"
+  },
+  "feedbackSuccessGotIt": "Понятно!",
+  "@feedbackSuccessGotIt": {
+    "description": "Button text for closing feedback success bottom sheet"
+  },
+  "feedbackErrorTitle": "Email Не Мог Быть Отправлен",
+  "@feedbackErrorTitle": {
+    "description": "Title shown in feedback error bottom sheet"
+  },
+  "feedbackErrorDescription": "Мы не смогли отправить вашу обратную связь в данный момент. Попробуйте позже или свяжитесь с нами напрямую: quickogamehelp@gmail.com",
+  "@feedbackErrorDescription": {
+    "description": "Description text shown in feedback error bottom sheet"
+  },
+  "feedbackSentError": "❌ {errorMessage}. Попробуйте снова или используйте прямой email выше.",
+  "@feedbackSentError": {
+    "description": "Error message when feedback sending fails",
+    "placeholders": {
+      "errorMessage": {
+        "type": "String",
+        "example": "Error sending feedback"
+      }
+    }
+  },
+  "feedbackCategoryBug": "Отчёт об Ошибке",
+  "@feedbackCategoryBug": {
+    "description": "Bug report category"
+  },
+  "feedbackCategoryFeature": "Запрос Функции",
+  "@feedbackCategoryFeature": {
+    "description": "Feature request category"
+  },
+  "feedbackCategoryImprovement": "Предложение по Улучшению",
+  "@feedbackCategoryImprovement": {
+    "description": "Improvement suggestion category"
+  },
+  "feedbackCategoryGeneral": "Общая Обратная Связь",
+  "@feedbackCategoryGeneral": {
+    "description": "General feedback category"
+  },
+  "feedbackCategory": "Категория",
+  "@feedbackCategory": {
+    "description": "Feedback category field label"
+  },
+  "feedbackTitle": "Заголовок",
+  "@feedbackTitle": {
+    "description": "Feedback title field label"
+  },
+  "feedbackTitleHint": "Краткое описание вашей обратной связи",
+  "@feedbackTitleHint": {
+    "description": "Hint text for feedback title field"
+  },
+  "feedbackDescription": "Описание",
+  "@feedbackDescription": {
+    "description": "Feedback description field label"
+  },
+  "feedbackDescriptionHint": "Пожалуйста, предоставьте подробную информацию о вашей обратной связи...",
+  "@feedbackDescriptionHint": {
+    "description": "Hint text for feedback description field"
+  },
+  "feedbackEmail": "Email (Необязательно)",
+  "@feedbackEmail": {
+    "description": "Feedback email field label"
+  },
+  "feedbackEmailHint": "your.email@example.com",
+  "@feedbackEmailHint": {
+    "description": "Hint text for feedback email field"
+  },
+  "feedbackEmailDescription": "Мы будем использовать это для последующей связи с вами, если потребуется.",
+  "@feedbackEmailDescription": {
+    "description": "Description for feedback email field"
+  },
+  "feedbackFrom": "Обратная связь от {title}",
+  "@feedbackFrom": {
+    "description": "Email subject prefix for feedback",
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "example": "Bug Report"
+      }
+    }
+  },
+  "emailLaunchError": "Не удалось запустить приложение email. Попробуйте вручную.",
+  "@emailLaunchError": {
+    "description": "Error message when email app cannot be launched"
+  },
+  "invalidFeedbackData": "Неверные данные обратной связи",
+  "@invalidFeedbackData": {
+    "description": "Error message for invalid feedback data"
+  },
+  "failedToSendFeedback": "Не удалось отправить обратную связь. Попробуйте снова.",
+  "@failedToSendFeedback": {
+    "description": "Error message when feedback sending fails"
+  },
+  "errorSendingFeedback": "Ошибка отправки обратной связи: {error}",
+  "@errorSendingFeedback": {
+    "description": "Detailed error message for feedback sending",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "maybeLater": "Позже",
+  "noInternetTitle": "Нет Интернет-Соединения",
+  "@noInternetTitle": {
+    "description": "No internet connection screen title"
+  },
+  "noInternetDescription": "Пожалуйста, проверьте ваше интернет-соединение и попробуйте снова.",
+  "@noInternetDescription": {
+    "description": "No internet connection screen description"
+  },
+  "retry": "Повторить",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "offlineModeInfo": "Игры работают офлайн, но реклама и онлайн-функции требуют интернет.",
+  "@offlineModeInfo": {
+    "description": "Offline mode information text"
+  },
+  "@maybeLater": {
+    "description": "Maybe later button text"
+  },
+  "noEntriesYet": "Пока нет записей",
+  "@noEntriesYet": {
+    "description": "Message when there are no leaderboard entries"
+  },
+  "yourRanking": "Ваш Рейтинг",
+  "@yourRanking": {
+    "description": "Label for user's ranking in leaderboard"
+  },
+  "thisIsYourScore": "Это Ваш Результат!",
+  "@thisIsYourScore": {
+    "description": "Message shown when user's score appears in leaderboard"
+  },
+  "loadingUserData": "Загрузка данных пользователя...",
+  "@loadingUserData": {
+    "description": "Message shown when loading user data for leaderboard"
+  },
+  "leaderboardProfile": "Профиль Таблицы Лидеров",
+  "@leaderboardProfile": {
+    "description": "Title for leaderboard profile settings"
+  },
+  "leaderboardProfileSubtitle": "Редактируйте ваше имя и флаг страны",
+  "@leaderboardProfileSubtitle": {
+    "description": "Subtitle for leaderboard profile settings"
+  },
+  "name": "Имя",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameRequired": "Имя обязательно",
+  "@nameRequired": {
+    "description": "Validation message for required name"
+  },
+  "minimumTwoCharacters": "Минимум 2 символа",
+  "@minimumTwoCharacters": {
+    "description": "Validation message for minimum name length"
+  },
+  "country": "Страна",
+  "@country": {
+    "description": "Country field label"
+  },
+  "searchCountry": "Поиск Страны",
+  "@searchCountry": {
+    "description": "Country search field label"
+  },
+  "areYouSure": "Вы уверены?",
+  "@areYouSure": {
+    "description": "Confirmation dialog title"
+  },
+  "profileChangeWarning": "Ваш прогресс до сих пор будет продолжаться с другим именем.",
+  "@profileChangeWarning": {
+    "description": "Warning message about profile change"
+  },
+  "profileChangeDescription": "Вы собираетесь изменить информацию профиля (имя и страна).",
+  "@profileChangeDescription": {
+    "description": "Description of profile change action"
+  },
+  "cancel": "Отмена",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "save": "Сохранить",
+  "@save": {
+    "description": "Save button text"
+  },
+  "congratulations": "Поздравляем!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "yourScore": "ваш результат:",
+  "@yourScore": {
+    "description": "Label for user's score"
+  },
+  "registerForLeaderboard": "Зарегистрироваться в таблице лидеров",
+  "@registerForLeaderboard": {
+    "description": "Title for leaderboard registration"
+  },
+  "enterInfoForGlobalRanking": "Введите вашу информацию, чтобы добавить ваш результат в глобальный рейтинг.",
+  "@enterInfoForGlobalRanking": {
+    "description": "Description for leaderboard registration"
+  },
+  "enterYourName": "Введите ваше имя",
+  "@enterYourName": {
+    "description": "Hint text for name field"
+  },
+  "writeCountryName": "Напишите название страны...",
+  "@writeCountryName": {
+    "description": "Hint text for country search"
+  },
+  "selectYourCountry": "Выберите вашу страну",
+  "@selectYourCountry": {
+    "description": "Hint text for country field"
+  },
+  "giveUp": "Сдаться",
+  "@giveUp": {
+    "description": "Give up button text"
+  },
+  "addToLeaderboard": "Добавить в Таблицу Лидеров?",
+  "@addToLeaderboard": {
+    "description": "Title for leaderboard opt-in dialog"
+  },
+  "addToLeaderboardDescription": "Добавьте ваш результат в глобальный рейтинг, чтобы соревноваться с другими игроками.",
+  "@addToLeaderboardDescription": {
+    "description": "Description for leaderboard opt-in dialog"
+  },
+  "yesAdd": "Да, Добавить",
+  "@yesAdd": {
+    "description": "Yes button for adding to leaderboard"
+  },
+  "generatingNumber": "Генерация числа...",
+  "@generatingNumber": {
+    "description": "Message shown while generating a random number"
+  },
+  "calculatingResult": "Вычисление результата...",
+  "@calculatingResult": {
+    "description": "Message shown while calculating game result"
+  },
+  "premiumFeatures": "Премиум Функции",
+  "@premiumFeatures": {
+    "description": "Title for premium features section"
+  },
+  "getCleanExperience": "Получите чистый опыт без рекламы с премиум функциями.",
+  "@getCleanExperience": {
+    "description": "Description for premium features"
+  },
+  "monthlySubscription": "Месячная подписка",
+  "@monthlySubscription": {
+    "description": "Monthly subscription text"
+  },
+  "gameInProgressSubtitle": "У вас есть активная игровая сессия",
+  "@gameInProgressSubtitle": {
+    "description": "Subtitle for game in progress dialog"
+  },
+  "gameInProgressTitle": "Игровая Сессия Активна",
+  "@gameInProgressTitle": {
+    "description": "Title for game in progress dialog content"
+  },
+  "gameCompleted": "Игра Завершена!",
+  "@gameCompleted": {
+    "description": "Title for game completed dialog content"
+  },
+  "gameCompletedMessage": "Поздравляем с завершением игры! Вы можете перезапустить, чтобы играть снова, или выйти, чтобы вернуться в главное меню.",
+  "@gameCompletedMessage": {
+    "description": "Message for game completed dialog"
+  },
+  "unlockedBenefits": "Разблокированные Преимущества",
+  "@unlockedBenefits": {
+    "description": "Title for unlocked benefits section in ad-free screen"
+  },
+  "noBannerAdvertisements": "Без баннерной рекламы",
+  "@noBannerAdvertisements": {
+    "description": "Description for no banner ads benefit"
+  },
+  "noFullScreenAds": "Без полноэкранной рекламы",
+  "@noFullScreenAds": {
+    "description": "Description for no interstitial ads benefit"
+  },
+  "noVideoAds": "Без видеорекламы",
+  "@noVideoAds": {
+    "description": "Description for no rewarded ads benefit"
+  },
+  "distractionFreeGaming": "Игра без отвлечений",
+  "@distractionFreeGaming": {
+    "description": "Description for clean experience benefit"
+  },
+  "oneTimePaymentForeverAccess": "Единоразовая оплата, пожизненный доступ",
+  "@oneTimePaymentForeverAccess": {
+    "description": "Description for lifetime access benefit"
+  },
+  "skip": "Пропустить",
+  "@skip": {
+    "description": "Skip button text for onboarding"
+  },
+  "getStarted": "Начать",
+  "@getStarted": {
+    "description": "Get started button text for onboarding"
+  },
+  "onboardingTitle1": "Тренируйте Мозг",
+  "@onboardingTitle1": {
+    "description": "First onboarding page title"
+  },
+  "onboardingDescription1": "Бросайте вызов своему разуму с нашей коллекцией игр для тренировки мозга, разработанных для улучшения памяти, концентрации и когнитивных навыков.",
+  "@onboardingDescription1": {
+    "description": "First onboarding page description"
+  },
+  "onboardingTitle2": "Отслеживайте Прогресс",
+  "@onboardingTitle2": {
+    "description": "Second onboarding page title"
+  },
+  "onboardingDescription2": "Отслеживайте вашу производительность с подробной статистикой и соревнуйтесь с игроками по всему миру в наших глобальных таблицах лидеров.",
+  "@onboardingDescription2": {
+    "description": "Second onboarding page description"
+  },
+  "onboardingTitle3": "Зарабатывайте Достижения",
+  "@onboardingTitle3": {
+    "description": "Third onboarding page title"
+  },
+  "onboardingDescription3": "Разблокируйте достижения и награды по мере улучшения ваших навыков. Делитесь своим прогрессом и бросайте вызов друзьям, чтобы побить ваши результаты.",
+  "@onboardingDescription3": {
+    "description": "Third onboarding page description"
+  },
+  "uninstallWarningTitle": "Важное Уведомление",
+  "@uninstallWarningTitle": {
+    "description": "Title for uninstall warning dialog"
+  },
+  "uninstallWarningMessage": "Если вы удалите приложение, все ваши игровые очки и права подписки будут безвозвратно удалены.",
+  "@uninstallWarningMessage": {
+    "description": "Message for uninstall warning dialog"
+  },
+  
+  "connectionProblem": "Проблема с Подключением",
+  "@connectionProblem": {"description": "Заголовок для ошибок подключения к сети"},
+  "connectionProblemDescription": "Пожалуйста, проверьте ваше интернет-соединение и попробуйте снова. Для покупок требуется стабильное соединение.",
+  "@connectionProblemDescription": {"description": "Описание для ошибок подключения к сети"},
+  
+  "paymentMethodIssue": "Проблема с Способом Оплаты",
+  "@paymentMethodIssue": {"description": "Заголовок для ошибок способа оплаты"},
+  "paymentMethodIssueDescription": "Проблема с вашим способом оплаты. Пожалуйста, проверьте данные вашей карты или попробуйте другой способ оплаты.",
+  "@paymentMethodIssueDescription": {"description": "Описание для ошибок способа оплаты"},
+  
+  "insufficientFunds": "Недостаточно Средств",
+  "@insufficientFunds": {"description": "Заголовок для ошибок недостаточных средств"},
+  "insufficientFundsDescription": "На вашем способе оплаты недостаточно средств. Пожалуйста, добавьте деньги на ваш счет или используйте другой способ оплаты.",
+  "@insufficientFundsDescription": {"description": "Описание для ошибок недостаточных средств"},
+  
+  "purchaseCancelled": "Покупка Отменена",
+  "@purchaseCancelled": {"description": "Заголовок для отмененных покупок"},
+  "purchaseCancelledDescription": "Вы отменили покупку. Вы можете попробовать снова в любое время.",
+  "@purchaseCancelledDescription": {"description": "Описание для отмененных покупок"},
+  
+  "productNotAvailable": "Продукт Недоступен",
+  "@productNotAvailable": {"description": "Заголовок для ошибок продукт не найден"},
+  "productNotAvailableDescription": "Этот продукт временно недоступен. Пожалуйста, попробуйте позже или обратитесь в поддержку, если проблема сохраняется.",
+  "@productNotAvailableDescription": {"description": "Описание для ошибок продукт не найден"},
+  
+  "alreadyPurchased": "Уже Куплено",
+  "@alreadyPurchased": {"description": "Заголовок для ошибок уже купленного продукта"},
+  "alreadyPurchasedDescription": "У вас уже есть этот продукт. Попробуйте восстановить ваши покупки, если вы не видите преимуществ.",
+  "@alreadyPurchasedDescription": {"description": "Описание для ошибок уже купленного продукта"},
+  
+  "storeUnavailable": "Магазин Недоступен",
+  "@storeUnavailable": {"description": "Заголовок для ошибок магазин недоступен"},
+  "storeUnavailableDescription": "Магазин приложений временно недоступен. Пожалуйста, попробуйте через несколько минут.",
+  "@storeUnavailableDescription": {"description": "Описание для ошибок магазин недоступен"},
+  
+  "restoreFailed": "Восстановление Неудачно",
+  "@restoreFailed": {"description": "Заголовок для ошибок восстановления"},
+  "restoreFailedDescription": "Мы не смогли восстановить ваши покупки. Пожалуйста, проверьте ваше интернет-соединение и попробуйте снова.",
+  "@restoreFailedDescription": {"description": "Описание для ошибок восстановления"},
+  
+  "guessTheFlag": "Угадай Флаг",
+  "@guessTheFlag": {
+    "description": "Название игры Угадай Флаг"
+  },
+  "guessTheFlagDescription": "Проверьте свои знания флагов мира! Сопоставьте эмодзи флага с правильным названием страны.",
+  "@guessTheFlagDescription": {
+    "description": "Описание игры Угадай Флаг"
+  },
+  "whichCountry": "Какой стране принадлежит этот флаг?",
+  "@whichCountry": {
+    "description": "Вопрос о том, какой стране принадлежит флаг"
+  },
+  "timeUp": "Время Вышло!",
+  "@timeUp": {
+    "description": "Сообщение когда время истекло"
+  },
+  "timeUpDescription": "У вас закончилось время! Попробуйте быть быстрее в следующий раз.",
+  "@timeUpDescription": {
+    "description": "Описание когда время истекло"
+  },
+  "wrongAnswer": "Неправильный Ответ!",
+  "@wrongAnswer": {
+    "description": "Сообщение когда ответ неправильный"
+  },
+  "wrongAnswerDescription": "Это не правильная страна. Удачи в следующий раз!",
+  "@wrongAnswerDescription": {
+    "description": "Описание когда ответ неправильный"
+  },
+  "round": "Раунд",
+  "@round": {
+    "description": "Метка раунда"
+  },
+  "readyToStart": "Готовы Начать?",
+  "@readyToStart": {
+    "description": "Сообщение когда готовы начать игру"
+  },
+  "lives": "Жизни",
+  "@lives": {
+    "description": "Метка для жизней в игре"
+  },
+  "yourScore": "Твой Счет",
+  "@yourScore": {
+    "description": "Label for player's score in TicTacToe game"
+  },
+  "currentRound": "Текущий Раунд",
+  "@currentRound": {
+    "description": "Label for current round in TicTacToe game"
+  },
+  "computerWon": "Компьютер Победил!",
+  "@computerWon": {
+    "description": "Message when computer wins in TicTacToe game"
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "@@locale": "id",
+  "appName": "Quicko",
+  "@appName": {
+    "description": "Nama aplikasi"
+  },
+  
+  "blindSort": "Urut Buta",
+  "@blindSort": {
+    "description": "Judul untuk permainan Urut Buta"
+  },
+  "blindSortDescription": "Urutkan 10 angka dari 1-50. Anda kalah jika angka baru tidak bisa dimasukkan ke mana pun!",
+  "@blindSortDescription": {
+    "description": "Deskripsi untuk permainan Urut Buta"
+  },
+  "nextNumber": "Angka Berikutnya",
+  "@nextNumber": {
+    "description": "Label untuk angka berikutnya dalam Urut Buta"
+  },
+  "newNumberComing": "Angka Baru Datang...",
+  "@newNumberComing": {
+    "description": "Pesan ketika angka baru akan muncul"
+  },
+  
+  "start": "Mulai",
+  "@start": {
+    "description": "Teks tombol Mulai"
+  },
+  "restart": "Mulai Ulang",
+  "@restart": {
+    "description": "Teks tombol Mulai Ulang"
+  },
+  "home": "Beranda",
+  "@home": {
+    "description": "Label navigasi Beranda"
+  },
+  "games": "Permainan",
+  "@games": {
+    "description": "Label navigasi Permainan"
+  },
+  "score": "Skor",
+  "@score": {
+    "description": "Label skor"
+  },
+  "gameOver": "Permainan Selesai",
+  "@gameOver": {
+    "description": "Pesan permainan selesai"
+  },
+  "tryAgain": "Coba Lagi",
+  "@tryAgain": {
+    "description": "Teks tombol Coba Lagi"
+  },
+  "share": "Bagikan",
+  "@share": {
+    "description": "Teks tombol Bagikan"
+  },
+  "confirm": "Konfirmasi",
+  "@confirm": {
+    "description": "Teks tombol Konfirmasi"
+  },
+  "fullscreen": "Layar Penuh",
+  "@fullscreen": {
+    "description": "Teks tombol Layar Penuh"
+  },
+  "cancel": "Batal",
+  "@cancel": {
+    "description": "Teks tombol Batal"
+  },
+  "stay": "Tinggal",
+  "@stay": {
+    "description": "Teks tombol Tinggal"
+  },
+  "reset": "Reset",
+  "@reset": {
+    "description": "Teks tombol Reset"
+  },
+  
+  "higherLower": "Lebih Tinggi atau Lebih Rendah",
+  "@higherLower": {
+    "description": "Judul untuk permainan Lebih Tinggi atau Lebih Rendah"
+  },
+  "higherLowerDescription": "Tebak apakah angka berikutnya akan lebih tinggi atau lebih rendah! Angka antara 1-50.",
+  "@higherLowerDescription": {
+    "description": "Deskripsi untuk permainan Lebih Tinggi atau Lebih Rendah"
+  },
+  "higher": "Lebih Tinggi",
+  "@higher": {
+    "description": "Teks tombol Lebih Tinggi"
+  },
+  "lower": "Lebih Rendah",
+  "@lower": {
+    "description": "Teks tombol Lebih Rendah"
+  },
+  "lastNumber": "Angka Terakhir",
+  "@lastNumber": {
+    "description": "Label angka terakhir"
+  },
+  "completedAllTargets": "Semua target selesai!",
+  "@completedAllTargets": {
+    "description": "Pesan ketika semua target selesai"
+  },
+  "targets": "Target",
+  "@targets": {
+    "description": "Label target"
+  },
+  "andMore": "dan lebih...",
+  "@andMore": {
+    "description": "Teks untuk lebih banyak elemen"
+  },
+  "missionFailed": "Misi Gagal!",
+  "@missionFailed": {
+    "description": "Pesan kegagalan misi"
+  },
+  "greenTargetHit": "Target hijau terkena!",
+  "@greenTargetHit": {
+    "description": "Pesan target hijau terkena"
+  },
+  "youHitAllTargets": "Anda telah mengenai semua target!",
+  "@youHitAllTargets": {
+    "description": "Pesan semua target terkena"
+  },
+  "timeRanOut": "Waktu habis!",
+  "@timeRanOut": {
+    "description": "Pesan waktu habis"
+  },
+  "targetsHit": "Target Terkena",
+  "@targetsHit": {
+    "description": "Label target terkena"
+  },
+  "mistake": "Kesalahan",
+  "@mistake": {
+    "description": "Label kesalahan"
+  },
+  "civilianHit": "Warga Sipil Terkena",
+  "@civilianHit": {
+    "description": "Pesan warga sipil terkena"
+  },
+  "youFoundAllColors": "Anda telah menemukan semua warna!",
+  "@youFoundAllColors": {
+    "description": "Pesan semua warna ditemukan"
+  },
+  "colorsFound": "Warna Ditemukan",
+  "@colorsFound": {
+    "description": "Label warna ditemukan"
+  },
+  "lastMistake": "Kesalahan Terakhir",
+  "@lastMistake": {
+    "description": "Label kesalahan terakhir"
+  },
+  "wrongColor": "Warna Salah",
+  "@wrongColor": {
+    "description": "Pesan warna salah"
+  },
+  "currentNumber": "Angka Saat Ini",
+  "@currentNumber": {
+    "description": "Label angka saat ini"
+  },
+  "close": "Tutup",
+  "@close": {
+    "description": "Teks tombol Tutup"
+  },
+  "betterLuckNextTime": "Semoga beruntung lain kali!",
+  "@betterLuckNextTime": {
+    "description": "Pesan dorongan"
+  },
+  "losingNumbers": "Angka yang menyebabkan kekalahan",
+  "@losingNumbers": {
+    "description": "Label angka yang kalah"
+  },
+  "losingNumber": "Angka yang menyebabkan kekalahan",
+  "@losingNumber": {
+    "description": "Label angka yang kalah"
+  },
+  
+  "colorHunt": "Perburuan Warna",
+  "@colorHunt": {
+    "description": "Judul untuk permainan Perburuan Warna"
+  },
+  "colorHuntDescription": "Temukan warna target! Warna teks bisa menipu Anda!",
+  "@colorHuntDescription": {
+    "description": "Deskripsi untuk permainan Perburuan Warna"
+  },
+  "target": "Target",
+  "@target": {
+    "description": "Label target"
+  },
+  "time": "Waktu",
+  "@time": {
+    "description": "Label waktu"
+  },
+  "wrongColorSelected": "Warna Salah Dipilih",
+  "@wrongColorSelected": {
+    "description": "Pesan ketika warna salah dipilih"
+  },
+  "wrongColorSelection": "Pemilihan Warna Salah",
+  "@wrongColorSelection": {
+    "description": "Label pemilihan warna salah"
+  },
+  
+  "favorites": "Favorit",
+  "@favorites": {
+    "description": "Label navigasi Favorit"
+  },
+  "loadingFavorites": "Memuat favorit...",
+  "@loadingFavorites": {
+    "description": "Pesan saat memuat favorit"
+  },
+  "noFavoritesYet": "Belum Ada Favorit",
+  "@noFavoritesYet": {
+    "description": "Pesan ketika belum ada favorit"
+  },
+  "addGamesToFavorites": "Tambahkan permainan ke favorit untuk akses cepat",
+  "@addGamesToFavorites": {
+    "description": "Instruksi untuk menambahkan permainan ke favorit"
+  },
+  "browseGames": "Jelajahi Permainan",
+  "@browseGames": {
+    "description": "Teks tombol Jelajahi permainan"
+  },
+  
+  "aimTrainer": "Pelatih Tembak",
+  "@aimTrainer": {
+    "description": "Judul untuk permainan Pelatih Tembak"
+  },
+  "aimTrainerDescription": "Coba tembak target merah yang muncul secara acak selama 20 detik. Setiap tembakan bernilai 1 poin!",
+  "@aimTrainerDescription": {
+    "description": "Deskripsi untuk permainan Pelatih Tembak"
+  },
+  
+  "numberMemory": "Memori Angka",
+  "@numberMemory": {
+    "description": "Judul untuk permainan Memori Angka"
+  },
+  "numberMemoryDescription": "Hafalkan urutan angka dan masukkan dengan benar menggunakan keyboard. Berapa banyak digit yang bisa Anda ingat?",
+  "@numberMemoryDescription": {
+    "description": "Deskripsi untuk permainan Memori Angka"
+  },
+  
+  "findDifference": "Temukan Perbedaannya",
+  "@findDifference": {
+    "description": "Judul untuk permainan Temukan Perbedaannya"
+  },
+  "findDifferenceDescription": "Temukan kotak dengan warna yang berbeda. Menjadi lebih sulit di setiap ronde!",
+  "@findDifferenceDescription": {
+    "description": "Deskripsi untuk permainan Temukan Perbedaannya"
+  },
+  
+  "rockPaperScissors": "Batu-Gunting-Kertas",
+  "@rockPaperScissors": {
+    "description": "Judul untuk permainan Batu-Gunting-Kertas"
+  },
+  "rockPaperScissorsDescription": "Mainkan melawan komputer. Yang pertama mencapai 5 poin menang.",
+  "@rockPaperScissorsDescription": {
+    "description": "Deskripsi untuk permainan Batu-Gunting-Kertas"
+  },
+  
+  "twentyOne": "21 (Dua Puluh Satu)",
+  "@twentyOne": {
+    "description": "Judul untuk permainan 21 (Blackjack)"
+  },
+  "twentyOneDescription": "Kalahkan dealer sampai 21! Mendekatlah sebisa mungkin tanpa melewati batas.",
+  "@twentyOneDescription": {
+    "description": "Deskripsi untuk permainan 21 (Blackjack)"
+  },
+  
+  "ticTacToe": "Tic Tac Toe",
+  "@ticTacToe": {
+    "description": "Judul untuk permainan Tic Tac Toe"
+  },
+  "ticTacToeDescription": "Bermain melawan komputer! Dapatkan tiga berturut-turut untuk menang.",
+  "@ticTacToeDescription": {
+    "description": "Deskripsi untuk permainan Tic Tac Toe"
+  },
+  
+  "nowYourTurn": "Sekarang giliran Anda!",
+  "@nowYourTurn": {
+    "description": "Pesan bahwa sekarang giliran pemain"
+  },
+  "correct": "Benar!",
+  "@correct": {
+    "description": "Pesan ketika jawaban benar"
+  },
+  "playing": "Sedang Bermain",
+  "@playing": {
+    "description": "Label status sedang bermain"
+  },
+
+  "tapToStartGuessing": "Tekan Lebih Tinggi atau Lebih Rendah untuk mulai menebak! Angka antara 1-50.",
+  "@tapToStartGuessing": {
+    "description": "Instruksi untuk mulai menebak dalam Lebih Tinggi atau Lebih Rendah"
+  },
+  "numbersBetween1And50": "Angka antara 1-50",
+  "@numbersBetween1And50": {
+    "description": "Informasi tentang rentang angka"
+  },
+  
+  "leaderboard": "Papan Peringkat",
+  "@leaderboard": {
+    "description": "Label navigasi Papan Peringkat"
+  },
+  "noLeaderboardData": "Tidak Ada Data Papan Peringkat",
+  "@noLeaderboardData": {
+    "description": "Pesan ketika tidak ada data papan peringkat"
+  },
+  "playGamesToSeeScores": "Mainkan permainan untuk melihat skor tertinggi Anda di sini!",
+  "@playGamesToSeeScores": {
+    "description": "Instruksi untuk bermain untuk melihat skor"
+  },
+  "playGames": "Mainkan",
+  "@playGames": {
+    "description": "Teks tombol Mainkan"
+  },
+  "swipeToDeleteHint": "Geser ke kiri untuk menghapus skor tinggi",
+  "@swipeToDeleteHint": {
+    "description": "Teks petunjuk untuk fungsi geser untuk menghapus"
+  },
+  "removeAds": "Hapus Iklan",
+  "@removeAds": {
+    "description": "Opsi berlangganan untuk menghapus iklan"
+  },
+  "removeAdsDescription": "Nikmati pengalaman bebas iklan dengan pembayaran sekali",
+  "@removeAdsDescription": {
+    "description": "Deskripsi berlangganan untuk menghapus iklan"
+  },
+  "monthlySubscription": "Berlangganan Bulanan",
+  "@monthlySubscription": {
+    "description": "Label berlangganan bulanan"
+  },
+  "buyNow": "Beli",
+  "@subscribeNow": {
+    "description": "Teks tombol Berlangganan sekarang"
+  },
+  "restorePurchases": "Pulihkan Pembelian",
+  "@restorePurchases": {
+    "description": "Teks tombol Pulihkan pembelian"
+  },
+  "subscriptionActive": "Berlangganan Aktif",
+  "@subscriptionActive": {
+    "description": "Status berlangganan aktif"
+  },
+  "subscriptionExpired": "Berlangganan Kedaluwarsa",
+  "@subscriptionExpired": {
+    "description": "Status berlangganan kedaluwarsa"
+  },
+  "purchasedOn": "Dibeli pada: {date}",
+  "@daysRemaining": {
+    "description": "Hari tersisa dalam berlangganan",
+    "placeholders": {
+      "days": {
+        "type": "int",
+        "example": "15"
+      }
+    }
+  },
+  "purchaseSuccess": "Pembelian Berhasil!",
+  "@purchaseSuccess": {
+    "description": "Pesan sukses pembelian"
+  },
+  "purchaseError": "Pembelian Gagal",
+  "@purchaseError": {
+    "description": "Pesan error pembelian"
+  },
+  "restoreSuccess": "Pembelian Dipulihkan!",
+  "@restoreSuccess": {
+    "description": "Pesan sukses pemulihan"
+  },
+  "restoreError": "Pemulihan Gagal",
+  "@restoreError": {
+    "description": "Pesan error pemulihan"
+  },
+  "noBannerAds": "Tidak ada iklan banner",
+  "@noBannerAds": {
+    "description": "Deskripsi fitur untuk tidak ada iklan banner"
+  },
+  "noInterstitialAds": "Tidak ada iklan interstisial",
+  "@noInterstitialAds": {
+    "description": "Deskripsi fitur untuk tidak ada iklan interstisial"
+  },
+  "noRewardedAds": "Tidak ada iklan berhadiah",
+  "@noRewardedAds": {
+    "description": "Deskripsi fitur untuk tidak ada iklan berhadiah"
+  },
+  "cleanExperience": "Pengalaman bersih tanpa gangguan",
+  "@cleanExperience": {
+    "description": "Deskripsi fitur untuk pengalaman bersih"
+  },
+  "cancelAnytime": "Batalkan kapan saja",
+  "cancelSubscriptionWarning": "Membatalkan langganan Anda akan menghapus akses bebas iklan dan Anda akan melihat iklan lagi.",
+  "@cancelAnytime": {
+    "description": "Deskripsi fitur untuk batalkan kapan saja"
+  },
+  "subscriptionPrice": "$2.99",
+  "@subscriptionPrice": {
+    "description": "Subscription price display"
+  },
+  "oneTimePayment": "Pembayaran sekali",
+  "@usdPerMonth": {
+    "description": "Label USD per bulan"
+  },
+  "bestValue": "NILAI TERBAIK",
+  "@bestValue": {
+    "description": "Label nilai terbaik"
+  },
+  "lifetimeAccess": "AKSES SEUMUR HIDUP",
+  "@fiftyPercentOff": {
+    "description": "Label diskon 50%"
+  },
+  "importantNotice": "Pemberitahuan Penting",
+  "@importantNotice": {
+    "description": "Judul pemberitahuan penting untuk peringatan"
+  },
+  "gotIt": "Mengerti",
+  "@gotIt": {
+    "description": "Got it button text"
+  },
+  "totalGames": "Total Permainan",
+  "@totalGames": {
+    "description": "Label total permainan"
+  },
+  "highestScore": "Skor Tertinggi",
+  "@highestScore": {
+    "description": "Label skor tertinggi"
+  },
+  "averageScore": "Skor Rata-rata",
+  "@averageScore": {
+    "description": "Label skor rata-rata"
+  },
+  "highScore": "Skor Tinggi : {score}",
+  "@highScore": {
+    "description": "Tampilan skor tinggi dengan nilai skor",
+    "placeholders": {
+      "score": {
+        "type": "int",
+        "example": "100"
+      }
+    }
+  },
+  "lastPlayed": "Terakhir Dimainkan : {date}",
+  "@lastPlayed": {
+    "description": "Tampilan tanggal permainan terakhir",
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "22.03.25"
+      }
+    }
+  },
+  "sortBy": "Urutkan Berdasarkan",
+  "@sortBy": {
+    "description": "Label Urutkan berdasarkan"
+  },
+  "sortByScore": "Urutkan berdasarkan Skor",
+  "@sortByScore": {
+    "description": "Opsi pengurutan berdasarkan skor"
+  },
+  "sortByLastPlayed": "Urutkan berdasarkan Permainan Terakhir",
+  "@sortByLastPlayed": {
+    "description": "Opsi pengurutan berdasarkan permainan terakhir"
+  },
+  "shareAchievements": "Bagikan Prestasi",
+  "@shareAchievements": {
+    "description": "Teks tombol Bagikan prestasi"
+  },
+  "previewImage": "Pratinjau",
+  "@previewImage": {
+    "description": "Teks tombol Pratinjau"
+  },
+  "shareImage": "Bagikan Gambar",
+  "@shareImage": {
+    "description": "Teks tombol Bagikan gambar"
+  },
+  "shareNoData": "Tidak ada data untuk dibagikan saat ini. Mainkan dulu!",
+  "@shareNoData": {
+    "description": "Pesan ketika tidak ada data yang tersedia untuk dibagikan"
+  },
+  "shareError": "Error saat membagikan prestasi. Coba lagi.",
+  "@shareError": {
+    "description": "Pesan error saat berbagi"
+  },
+  
+  "timeUp": "Waktu Habis",
+  "@timeUp": {
+    "description": "Pesan waktu habis"
+  },
+  "timeUpMessage": "Waktu Anda habis!",
+  "@timeUpMessage": {
+    "description": "Pesan ketika waktu habis"
+  },
+  
+  "finalScore": "Skor Akhir",
+  "@finalScore": {
+    "description": "Label skor akhir"
+  },
+  "youWon": "Anda Menang!",
+  "rateQuicko": "Nilai Quicko",
+  "rateQuickoDescription": "Umpan balik Anda membantu kami berkembang dan menjangkau lebih banyak pengguna!",
+  "howWouldYouRate": "Bagaimana Anda menilai Quicko?",
+  "rateOnStore": "Nilai di Toko",
+  "openingStore": "Membuka Toko...",
+  "ratingPoor": "Buruk",
+  "ratingFair": "Cukup",
+  "ratingGood": "Baik",
+  "ratingVeryGood": "Sangat Baik",
+  "ratingExcellent": "Luar Biasa!",
+  "thankYouForRating": "Terima kasih telah menilai Quicko!",
+  "couldNotOpenStore": "Tidak dapat membuka toko. Silakan coba lagi.",
+  "@youWon": {
+    "description": "Pesan kemenangan"
+  },
+  "congratulationsMessage": "Selamat! Anda telah menyelesaikan tantangan!",
+  "@congratulationsMessage": {
+    "description": "Pesan selamat untuk kemenangan"
+  },
+  "excellentPerformance": "Performa Luar Biasa!",
+  "@excellentPerformance": {
+    "description": "Pesan untuk performa luar biasa"
+  },
+  "playAgain": "Main Lagi",
+  "@playAgain": {
+    "description": "Teks tombol Main Lagi"
+  },
+  "deleteHighScore": "Hapus Skor Tinggi",
+  "@deleteHighScore": {
+    "description": "Judul dialog penghapusan skor tinggi"
+  },
+  "deleteHighScoreMessage": "Apakah Anda yakin ingin menghapus skor tinggi untuk permainan ini?",
+  "@deleteHighScoreMessage": {
+    "description": "Pesan konfirmasi penghapusan skor tinggi"
+  },
+  "delete": "Hapus",
+  "@delete": {
+    "description": "Teks tombol Hapus"
+  },
+  "language": "Bahasa",
+  "@language": {
+    "description": "Judul pengaturan bahasa"
+  },
+  "selectLanguage": "Pilih Bahasa",
+  "@selectLanguage": {
+    "description": "Prompt pemilihan bahasa"
+  },
+  "languageChangeInfo": "Perubahan bahasa akan diterapkan segera. Aplikasi akan di-restart untuk menerapkan bahasa baru.",
+  "@languageChangeInfo": {
+    "description": "Informasi tentang perubahan bahasa"
+  },
+  "choosePreferredLanguage": "Pilih bahasa yang Anda inginkan",
+  "@choosePreferredLanguage": {
+    "description": "Teks untuk prompt pemilihan bahasa"
+  },
+  
+  "sort_by_date": "Urutkan berdasarkan Tanggal",
+  "@sort_by_date": {
+    "description": "Opsi pengurutan berdasarkan tanggal"
+  },
+  
+  "sort_by_game": "Urutkan berdasarkan Permainan",
+  "@sort_by_game": {
+    "description": "Opsi pengurutan berdasarkan permainan"
+  },
+  
+  "theme": "Tema",
+  "@theme": {
+    "description": "Judul pengaturan tema"
+  },
+  
+  "selectTheme": "Pilih Tema",
+  "@selectTheme": {
+    "description": "Prompt pemilihan tema"
+  },
+  
+  "lightTheme": "Terang",
+  "@lightTheme": {
+    "description": "Opsi tema terang"
+  },
+  
+  "darkTheme": "Gelap",
+  "@darkTheme": {
+    "description": "Opsi tema gelap"
+  },
+  
+  "systemTheme": "Sistem",
+  "@systemTheme": {
+    "description": "Opsi tema sistem"
+  },
+  
+  "lightThemeDescription": "Tema terang untuk lingkungan yang terang",
+  "@lightThemeDescription": {
+    "description": "Deskripsi tema terang"
+  },
+  
+  "darkThemeDescription": "Tema gelap untuk lingkungan yang kurang terang",
+  "@darkThemeDescription": {
+    "description": "Deskripsi tema gelap"
+  },
+  
+  "systemThemeDescription": "Mengikuti pengaturan tema perangkat Anda",
+  "@systemThemeDescription": {
+    "description": "Deskripsi tema sistem"
+  },
+  
+  "themeChangeInfo": "Perubahan tema akan diterapkan segera di seluruh aplikasi.",
+  "@themeChangeInfo": {
+    "description": "Informasi tentang perubahan tema"
+  },
+  "choosePreferredTheme": "Pilih tema yang Anda inginkan",
+  "@choosePreferredTheme": {
+    "description": "Teks untuk prompt pemilihan tema"
+  },
+  
+  "startGame": "Mulai Permainan",
+  "@startGame": {
+    "description": "Teks tombol Mulai permainan"
+  },
+  "restartGame": "Mulai Ulang Permainan",
+  "@restartGame": {
+    "description": "Teks tombol Mulai ulang permainan"
+  },
+  "you": "Anda",
+  "@you": {
+    "description": "Label pemain"
+  },
+  "cpu": "CPU",
+  "@cpu": {
+    "description": "Label lawan komputer"
+  },
+  "dealer": "Dealer",
+  "@dealer": {
+    "description": "Label dealer untuk permainan kartu"
+  },
+  "youWin": "Anda Menang!",
+  "@youWin": {
+    "description": "Pesan kemenangan"
+  },
+  "youLose": "Anda Kalah!",
+  "@youLose": {
+    "description": "Pesan kekalahan"
+  },
+  "tie": "Seri!",
+  "@tie": {
+    "description": "Pesan seri"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Label skor total"
+  },
+  
+  "red": "Merah",
+  "@red": {
+    "description": "Nama warna merah"
+  },
+  "green": "Hijau",
+  "@green": {
+    "description": "Nama warna hijau"
+  },
+  "blue": "Biru",
+  "@blue": {
+    "description": "Nama warna biru"
+  },
+  "purple": "Ungu",
+  "@purple": {
+    "description": "Nama warna ungu"
+  },
+  "orange": "Oranye",
+  "@orange": {
+    "description": "Nama warna oranye"
+  },
+  "yellow": "Kuning",
+  "@yellow": {
+    "description": "Nama warna kuning"
+  },
+  "pink": "Pink",
+  "@pink": {
+    "description": "Nama warna pink"
+  },
+  "brown": "Cokelat",
+  "@brown": {
+    "description": "Nama warna cokelat"
+  },
+  "cyan": "Sian",
+  "@cyan": {
+    "description": "Nama warna sian"
+  },
+  "lime": "Lime",
+  "@lime": {
+    "description": "Nama warna lime"
+  },
+  "magenta": "Magenta",
+  "@magenta": {
+    "description": "Nama warna magenta"
+  },
+  "teal": "Teal",
+  "@teal": {
+    "description": "Nama warna teal"
+  },
+  "indigo": "Indigo",
+  "@indigo": {
+    "description": "Nama warna indigo"
+  },
+  "amber": "Amber",
+  "@amber": {
+    "description": "Nama warna amber"
+  },
+  "deep_purple": "Ungu Gelap",
+  "@deep_purple": {
+    "description": "Nama warna ungu gelap"
+  },
+  "light_blue": "Biru Muda",
+  "@light_blue": {
+    "description": "Nama warna biru muda"
+  },
+  
+  "play": "Main",
+  "@play": {
+    "description": "Teks tombol Main"
+  },
+  
+  "appSettings": "Pengaturan Aplikasi",
+  "@appSettings": {
+    "description": "Judul pengaturan aplikasi"
+  },
+  "customizeAppExperience": "Sesuaikan pengalaman Anda dalam aplikasi",
+  "@customizeAppExperience": {
+    "description": "Deskripsi pengaturan aplikasi"
+  },
+  
+  "settings": "Pengaturan",
+  "@settings": {
+    "description": "Judul layar Pengaturan"
+  },
+  
+  "hit": "Ambil",
+  "@hit": {
+    "description": "Teks tombol Ambil untuk permainan 21"
+  },
+  "stand": "Berhenti",
+  "@stand": {
+    "description": "Teks tombol Berhenti untuk permainan 21"
+  },
+  
+  "reactionTime": "Waktu Reaksi",
+  "@reactionTime": {
+    "description": "Judul untuk permainan Waktu Reaksi"
+  },
+  "reactionTimeDescription": "Klik angka dari 1 hingga 12 dalam urutan yang benar secepat mungkin. Waktu Anda akan diukur (lebih rendah lebih baik).",
+  "@reactionTimeDescription": {
+    "description": "Deskripsi untuk permainan Waktu Reaksi"
+  },
+  "wrongSequence": "Urutan Salah!",
+  "@wrongSequence": {
+    "description": "Pesan urutan salah untuk permainan waktu reaksi"
+  },
+  "congratulations": "Selamat!",
+  "@congratulations": {
+    "description": "Pesan selamat untuk permainan yang dimenangkan"
+  },
+  "next": "Berikutnya",
+  "@next": {
+    "description": "Label Berikutnya"
+  },
+  
+  "numbersSorted": "Angka Diurutkan",
+  "@numbersSorted": {
+    "description": "Label untuk angka yang diurutkan dalam permainan Urut Buta"
+  },
+  "numbersRemembered": "Angka Dihafal",
+  "@numbersRemembered": {
+    "description": "Label untuk angka yang dihafal dalam permainan Memori Angka"
+  },
+  "correctGuesses": "Tebakan Benar",
+  "@correctGuesses": {
+    "description": "Label untuk tebakan benar dalam permainan Lebih Tinggi atau Lebih Rendah"
+  },
+  "yourScore": "Skor Anda",
+  "@yourScore": {
+    "description": "Label untuk skor pemain dalam permainan Batu-Gunting-Kertas"
+  },
+  "cpuScore": "Skor CPU",
+  "@cpuScore": {
+    "description": "Label untuk skor CPU dalam permainan Batu-Gunting-Kertas"
+  },
+  "result": "Hasil",
+  "@result": {
+    "description": "Label untuk hasil dalam permainan 21"
+  },
+  "bust": "Bust!",
+  "@bust": {
+    "description": "Pesan ketika pemain melewati 21"
+  },
+  "wrongNumber": "Angka Salah",
+  "@wrongNumber": {
+    "description": "Pesan untuk angka salah dalam Memori Angka"
+  },
+  "youSuccessfullySortedAllNumbers": "Anda berhasil mengurutkan semua angka!",
+  "@youSuccessfullySortedAllNumbers": {
+    "description": "Pesan sukses untuk permainan Urut Buta"
+  },
+  "youRememberedAllNumbers": "Anda telah menghafal semua angka!",
+  "@youRememberedAllNumbers": {
+    "description": "Pesan sukses untuk permainan Memori Angka"
+  },
+  "youGuessedCorrectly": "Anda menebak dengan benar!",
+  "@youGuessedCorrectly": {
+    "description": "Pesan sukses untuk permainan Lebih Tinggi atau Lebih Rendah"
+  },
+  "youWonTheGame": "Anda memenangkan permainan!",
+  "@youWonTheGame": {
+    "description": "Pesan sukses untuk permainan Batu-Gunting-Kertas"
+  },
+  "youReached21": "Anda mencapai 21!",
+  "@youReached21": {
+    "description": "Pesan sukses untuk permainan 21"
+  },
+  "youWentOver21": "Anda melewati 21!",
+  "@youWentOver21": {
+    "description": "Pesan kegagalan untuk permainan 21"
+  },
+  "whyYouLost": "Mengapa Anda kalah",
+  "@whyYouLost": {
+    "description": "Label untuk bagian alasan kekalahan"
+  },
+  "sortLeaderboard": "Urutkan Papan Peringkat",
+  "@sortLeaderboard": {
+    "description": "Judul dialog pengurutan papan peringkat"
+  },
+  "sortByName": "Urutkan berdasarkan Nama",
+  "@sortByName": {
+    "description": "Opsi pengurutan berdasarkan nama"
+  },
+  "sortByDate": "Urutkan berdasarkan Tanggal",
+  "@sortByDate": {
+    "description": "Opsi pengurutan berdasarkan tanggal"
+  },
+  "perfectTime": "Waktu Sempurna!",
+  "@perfectTime": {
+    "description": "Pesan untuk waktu penyelesaian yang sempurna"
+  },
+  "goodTime": "Waktu Bagus!",
+  "@goodTime": {
+    "description": "Pesan untuk waktu penyelesaian yang bagus"
+  },
+  "averageTime": "Waktu Rata-rata",
+  "@averageTime": {
+    "description": "Pesan untuk waktu penyelesaian rata-rata"
+  },
+  "slowTime": "Waktu Lambat",
+  "@slowTime": {
+    "description": "Pesan untuk waktu penyelesaian lambat"
+  },
+  "verySlowTime": "Waktu Sangat Lambat",
+  "@verySlowTime": {
+    "description": "Pesan untuk waktu penyelesaian sangat lambat"
+  },
+  "patternMemory": "Memori Pola",
+  "@patternMemory": {
+    "description": "Judul untuk permainan Memori Pola"
+  },
+  "patternMemoryDescription": "Hafalkan pola di layar dan reproduksi. Pola menjadi lebih kompleks di setiap level.",
+  "@patternMemoryDescription": {
+    "description": "Deskripsi untuk permainan Memori Pola"
+  },
+  "patternMemoryInstructions": "Hafalkan pola di layar dan reproduksi. Pola menjadi lebih kompleks di setiap level.",
+  "@patternMemoryInstructions": {
+    "description": "Instruksi untuk permainan Memori Pola"
+  },
+  "wrongPattern": "Pola Salah",
+  "@wrongPattern": {
+    "description": "Pesan ketika pola salah dipilih"
+  },
+
+  "wrong": "Salah",
+  "@wrong": {
+    "description": "Pesan salah"
+  },
+  "row": "baris",
+  "@row": {
+    "description": "Label baris untuk aksesibilitas"
+  },
+  "column": "kolom",
+  "@column": {
+    "description": "Label kolom untuk aksesibilitas"
+  },
+  
+  "continueGame": "Lanjutkan Permainan",
+  "@continueGame": {
+    "description": "Judul dialog lanjutkan permainan"
+  },
+  "watchAdToContinue": "Tonton Iklan untuk Melanjutkan",
+  "@watchAdToContinue": {
+    "description": "Watch ad to continue button text"
+  },
+  "oneTimeContinue": "Lanjutkan 1 Kali",
+  "@oneTimeContinue": {
+    "description": "Button text for ad-free users to continue game once"
+  },
+  "continueGameDescription": "Lanjutkan permainan Anda dari tempat Anda berhenti.",
+  "@continueGameDescription": {
+    "description": "Description for continue game option"
+  },
+  "watchAdToContinueDescription": "Tonton iklan singkat untuk melanjutkan permainan Anda dari tempat Anda berhenti.",
+  "@watchAdToContinueDescription": {
+    "description": "Description for watching ad to continue game"
+  },
+  "cancelSubscription": "Batalkan Langganan",
+  "@cancelSubscription": {
+    "description": "Title for cancel subscription screen"
+  },
+  "cancelSubscriptionDescription": "Batalkan langganan bebas iklan Anda dan kembali ke iklan",
+  "@cancelSubscriptionDescription": {
+    "description": "Description for cancel subscription screen"
+  },
+  "adNotAvailable": "Iklan Tidak Tersedia",
+  "@adNotAvailable": {
+    "description": "Judul dialog iklan tidak tersedia"
+  },
+  "adNotAvailableMessage": "Tidak ada iklan yang tersedia saat ini. Silakan coba lagi nanti.",
+  "@adNotAvailableMessage": {
+    "description": "Pesan iklan tidak tersedia"
+  },
+  "adFailed": "Iklan Gagal",
+  "@adFailed": {
+    "description": "Judul dialog iklan gagal"
+  },
+  "adFailedMessage": "Gagal menampilkan iklan. Silakan coba lagi.",
+  "@adFailedMessage": {
+    "description": "Pesan iklan gagal"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "Teks tombol OK"
+  },
+  "exit": "Keluar",
+  "@exit": {
+    "description": "Teks tombol keluar"
+  },
+  "soundSettings": "Pengaturan Suara",
+  "soundSettingsMenuSubtitle": "Suara aplikasi dan level efek",
+  "appSounds": "Suara Aplikasi",
+  "appSoundsDescription": "Aktif/nonaktifkan suara dan atur level efek",
+  "sounds": "Suara",
+  "soundsOn": "Aktif",
+  "soundsOff": "Nonaktif",
+  "effectsVolume": "Volume Efek",
+  "soundTest": "Tes Suara",
+  "playSampleSound": "Putar Suara Contoh",
+  "purchaseErrorDescription": "Kami tidak dapat menyelesaikan pembelian Anda. Silakan coba lagi atau periksa metode pembayaran Anda.",
+  "restoreErrorDescription": "Kami tidak dapat memulihkan pembelian Anda. Silakan coba lagi.",
+  "noPurchasesFound": "Tidak Ada Pembelian Sebelumnya Ditemukan",
+  "noPurchasesFoundDescription": "Kami tidak dapat menemukan pembelian sebelumnya untuk dipulihkan. Pastikan Anda masuk dengan Apple ID yang sama yang Anda gunakan untuk pembelian asli.",
+
+  "feedback": "Umpan Balik",
+  "feedbackAndSuggestions": "Umpan Balik & Saran",
+  "feedbackAndSuggestionsSubtitle": "Bagikan pemikiran Anda dan bantu kami berkembang",
+  "directContact": "Kontak Langsung",
+  "directContactDescription": "Jika formulir umpan balik tidak berfungsi, Anda dapat menghubungi kami langsung di:",
+  "sendFeedback": "Kirim Umpan Balik",
+  "sending": "Mengirim...",
+  "feedbackSentSuccess": "✅ Umpan balik berhasil dikirim! Terima kasih atas kontribusi Anda.",
+  "feedbackSentError": "❌ {errorMessage}. Silakan coba lagi atau gunakan opsi email langsung di atas.",
+  "feedbackCategoryBug": "Laporan Bug",
+  "feedbackCategoryFeature": "Permintaan Fitur",
+  "feedbackCategoryImprovement": "Saran Perbaikan",
+  "feedbackCategoryGeneral": "Umpan Balik Umum",
+  "feedbackCategory": "Kategori",
+  "feedbackTitle": "Judul",
+  "feedbackTitleHint": "Deskripsi singkat umpan balik Anda",
+  "feedbackDescription": "Deskripsi",
+  "feedbackDescriptionHint": "Silakan berikan informasi detail tentang umpan balik Anda...",
+  "feedbackEmail": "Email (Opsional)",
+  "feedbackEmailHint": "email.anda@contoh.com",
+  "feedbackEmailDescription": "Kami akan menggunakannya untuk menghubungi Anda tentang umpan balik Anda jika diperlukan.",
+  "feedbackFrom": "Umpan Balik dari {title}",
+  "emailLaunchError": "Tidak dapat membuka aplikasi email. Silakan coba lagi secara manual.",
+  "invalidFeedbackData": "Data umpan balik tidak valid",
+  "failedToSendFeedback": "Gagal mengirim umpan balik. Silakan coba lagi.",
+  "errorSendingFeedback": "Error mengirim umpan balik: {error}",
+  "maybeLater": "Nanti",
+  "noEntriesYet": "Belum ada entri",
+  "@noEntriesYet": {
+    "description": "Message when there are no leaderboard entries"
+  },
+  "yourRanking": "Peringkat Anda",
+  "@yourRanking": {
+    "description": "Label for user's ranking in leaderboard"
+  },
+  "thisIsYourScore": "Ini Skor Anda!",
+  "@thisIsYourScore": {
+    "description": "Message shown when user's score appears in leaderboard"
+  },
+  "loadingUserData": "Memuat data pengguna...",
+  "@loadingUserData": {
+    "description": "Message shown when loading user data for leaderboard"
+  },
+  "leaderboardProfile": "Profil Papan Peringkat",
+  "@leaderboardProfile": {
+    "description": "Title for leaderboard profile settings"
+  },
+  "leaderboardProfileSubtitle": "Edit nama dan bendera negara Anda",
+  "@leaderboardProfileSubtitle": {
+    "description": "Subtitle for leaderboard profile settings"
+  },
+  "name": "Nama",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameRequired": "Nama diperlukan",
+  "@nameRequired": {
+    "description": "Validation message for required name"
+  },
+  "minimumTwoCharacters": "Minimal 2 karakter",
+  "@minimumTwoCharacters": {
+    "description": "Validation message for minimum name length"
+  },
+  "country": "Negara",
+  "@country": {
+    "description": "Country field label"
+  },
+  "searchCountry": "Cari Negara",
+  "@searchCountry": {
+    "description": "Country search field label"
+  },
+  "areYouSure": "Apakah Anda yakin?",
+  "@areYouSure": {
+    "description": "Confirmation dialog title"
+  },
+  "profileChangeWarning": "Kemajuan Anda sejauh ini akan berlanjut dengan nama yang berbeda.",
+  "@profileChangeWarning": {
+    "description": "Warning message about profile change"
+  },
+  "profileChangeDescription": "Anda akan mengubah informasi profil Anda (nama dan negara).",
+  "@profileChangeDescription": {
+    "description": "Description of profile change action"
+  },
+  "cancel": "Batal",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "save": "Simpan",
+  "@save": {
+    "description": "Save button text"
+  },
+  "congratulations": "Selamat!",
+  "@congratulations": {
+    "description": "Congratulations message"
+  },
+  "yourScore": "skor Anda:",
+  "@yourScore": {
+    "description": "Label for user's score"
+  },
+  "registerForLeaderboard": "Daftar untuk papan peringkat",
+  "@registerForLeaderboard": {
+    "description": "Title for leaderboard registration"
+  },
+  "enterInfoForGlobalRanking": "Masukkan informasi Anda untuk menambahkan skor Anda ke peringkat global.",
+  "@enterInfoForGlobalRanking": {
+    "description": "Description for leaderboard registration"
+  },
+  "enterYourName": "Masukkan nama Anda",
+  "@enterYourName": {
+    "description": "Hint text for name field"
+  },
+  "writeCountryName": "Tulis nama negara...",
+  "@writeCountryName": {
+    "description": "Hint text for country search"
+  },
+  "selectYourCountry": "Pilih negara Anda",
+  "@selectYourCountry": {
+    "description": "Hint text for country field"
+  },
+  "giveUp": "Menyerah",
+  "@giveUp": {
+    "description": "Give up button text"
+  },
+  "addToLeaderboard": "Tambahkan ke papan peringkat?",
+  "@addToLeaderboard": {
+    "description": "Title for leaderboard opt-in dialog"
+  },
+  "addToLeaderboardDescription": "Tambahkan skor Anda ke peringkat global untuk bersaing dengan pemain lain.",
+  "@addToLeaderboardDescription": {
+    "description": "Description for leaderboard opt-in dialog"
+  },
+  "yesAdd": "Ya, Tambahkan",
+  "@yesAdd": {
+    "description": "Yes button for adding to leaderboard"
+  },
+  "generatingNumber": "Menghasilkan angka...",
+  "@generatingNumber": {
+    "description": "Message shown while generating a random number"
+  },
+  "calculatingResult": "Menghitung hasil...",
+  "@calculatingResult": {
+    "description": "Message shown while calculating game result"
+  },
+  "premiumFeatures": "Fitur Premium",
+  "@premiumFeatures": {
+    "description": "Title for premium features section"
+  },
+  "getCleanExperience": "Dapatkan pengalaman bersih dan bebas iklan dengan fitur premium.",
+  "@getCleanExperience": {
+    "description": "Description for premium features"
+  },
+  "monthlySubscription": "Langganan bulanan",
+  "@monthlySubscription": {
+    "description": "Monthly subscription text"
+  },
+  "gameInProgress": "Permainan Sedang Berlangsung",
+  "@gameInProgress": {
+    "description": "Game in progress dialog title"
+  },
+  "gameInProgressSubtitle": "Anda memiliki sesi permainan yang aktif",
+  "@gameInProgressSubtitle": {
+    "description": "Subtitle for game in progress dialog"
+  },
+  "gameInProgressTitle": "Sesi Permainan Aktif",
+  "@gameInProgressTitle": {
+    "description": "Title for game in progress dialog content"
+  },
+  "gameCompleted": "Permainan Selesai!",
+  "@gameCompleted": {
+    "description": "Title for game completed dialog content"
+  },
+  "gameCompletedMessage": "Selamat atas menyelesaikan permainan! Anda dapat memulai ulang untuk bermain lagi atau keluar untuk kembali ke menu utama.",
+  "@gameCompletedMessage": {
+    "description": "Message for game completed dialog"
+  },
+  "uninstallWarningTitle": "Peringatan Penting",
+  "@uninstallWarningTitle": {
+    "description": "Title for uninstall warning dialog"
+  },
+  "uninstallWarningMessage": "Jika Anda menghapus aplikasi, semua skor permainan dan hak berlangganan Anda akan dihapus secara permanen.",
+  "@uninstallWarningMessage": {
+    "description": "Message for uninstall warning dialog"
+  },
+  
+  "connectionProblem": "Masalah Koneksi",
+  "@connectionProblem": {"description": "Judul untuk kesalahan koneksi jaringan"},
+  "connectionProblemDescription": "Silakan periksa koneksi internet Anda dan coba lagi. Koneksi yang stabil diperlukan untuk pembelian.",
+  "@connectionProblemDescription": {"description": "Deskripsi untuk kesalahan koneksi jaringan"},
+  
+  "paymentMethodIssue": "Masalah Metode Pembayaran",
+  "@paymentMethodIssue": {"description": "Judul untuk kesalahan metode pembayaran"},
+  "paymentMethodIssueDescription": "Ada masalah dengan metode pembayaran Anda. Silakan periksa detail kartu Anda atau coba metode pembayaran lain.",
+  "@paymentMethodIssueDescription": {"description": "Deskripsi untuk kesalahan metode pembayaran"},
+  
+  "insufficientFunds": "Dana Tidak Cukup",
+  "@insufficientFunds": {"description": "Judul untuk kesalahan dana tidak cukup"},
+  "insufficientFundsDescription": "Metode pembayaran Anda tidak memiliki dana yang cukup. Silakan tambahkan uang ke akun Anda atau gunakan metode pembayaran lain.",
+  "@insufficientFundsDescription": {"description": "Deskripsi untuk kesalahan dana tidak cukup"},
+  
+  "purchaseCancelled": "Pembelian Dibatalkan",
+  "@purchaseCancelled": {"description": "Judul untuk pembelian yang dibatalkan"},
+  "purchaseCancelledDescription": "Anda membatalkan pembelian. Anda dapat mencoba lagi kapan saja.",
+  "@purchaseCancelledDescription": {"description": "Deskripsi untuk pembelian yang dibatalkan"},
+  
+  "productNotAvailable": "Produk Tidak Tersedia",
+  "@productNotAvailable": {"description": "Judul untuk kesalahan produk tidak ditemukan"},
+  "productNotAvailableDescription": "Produk ini tidak tersedia sementara. Silakan coba lagi nanti atau hubungi dukungan jika masalah berlanjut.",
+  "@productNotAvailableDescription": {"description": "Deskripsi untuk kesalahan produk tidak ditemukan"},
+  
+  "alreadyPurchased": "Sudah Dibeli",
+  "@alreadyPurchased": {"description": "Judul untuk kesalahan produk yang sudah dimiliki"},
+  "alreadyPurchasedDescription": "Anda sudah memiliki produk ini. Coba pulihkan pembelian Anda jika Anda tidak melihat manfaatnya.",
+  "@alreadyPurchasedDescription": {"description": "Deskripsi untuk kesalahan produk yang sudah dimiliki"},
+  
+  "storeUnavailable": "Toko Tidak Tersedia",
+  "@storeUnavailable": {"description": "Judul untuk kesalahan toko tidak tersedia"},
+  "storeUnavailableDescription": "Toko aplikasi tidak tersedia sementara. Silakan coba lagi dalam beberapa menit.",
+  "@storeUnavailableDescription": {"description": "Deskripsi untuk kesalahan toko tidak tersedia"},
+  
+  "restoreFailed": "Pemulihan Gagal",
+  "@restoreFailed": {"description": "Judul untuk kegagalan pemulihan"},
+  "restoreFailedDescription": "Kami tidak dapat memulihkan pembelian Anda. Silakan periksa koneksi internet Anda dan coba lagi.",
+  "@restoreFailedDescription": {"description": "Deskripsi untuk kegagalan pemulihan"},
+  
+  "guessTheFlag": "Tebak Bendera",
+  "@guessTheFlag": {
+    "description": "Judul untuk permainan Tebak Bendera"
+  },
+  "guessTheFlagDescription": "Uji pengetahuan Anda tentang bendera dunia! Cocokkan emoji bendera dengan nama negara yang benar.",
+  "@guessTheFlagDescription": {
+    "description": "Deskripsi untuk permainan Tebak Bendera"
+  },
+  "whichCountry": "Negara mana yang memiliki bendera ini?",
+  "@whichCountry": {
+    "description": "Pertanyaan tentang negara yang memiliki bendera"
+  },
+  "timeUp": "Waktu Habis!",
+  "@timeUp": {
+    "description": "Pesan ketika waktu habis"
+  },
+  "timeUpDescription": "Waktu Anda habis! Coba lebih cepat lain kali.",
+  "@timeUpDescription": {
+    "description": "Deskripsi ketika waktu habis"
+  },
+  "wrongAnswer": "Jawaban Salah!",
+  "@wrongAnswer": {
+    "description": "Pesan ketika jawaban salah"
+  },
+  "wrongAnswerDescription": "Itu bukan negara yang benar. Semoga beruntung lain kali!",
+  "@wrongAnswerDescription": {
+    "description": "Deskripsi ketika jawaban salah"
+  },
+  "round": "Ronde",
+  "@round": {
+    "description": "Label ronde"
+  },
+  "readyToStart": "Siap untuk Memulai?",
+  "@readyToStart": {
+    "description": "Pesan ketika siap untuk memulai permainan"
+  },
+  "lives": "Nyawa",
+  "@lives": {
+    "description": "Label untuk nyawa dalam permainan"
+  },
+  "yourScore": "Skor Anda",
+  "@yourScore": {
+    "description": "Label for player's score in TicTacToe game"
+  },
+  "currentRound": "Ronde Saat Ini",
+  "@currentRound": {
+    "description": "Label for current round in TicTacToe game"
+  },
+  "computerWon": "Komputer Menang!",
+  "@computerWon": {
+    "description": "Message when computer wins in TicTacToe game"
+  }
+}

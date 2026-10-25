@@ -1,0 +1,91 @@
+{
+  "@@locale": "pt",
+  "appName": "Quicko"
+  ,
+  "soundSettings": "Configurações de som",
+  "soundSettingsMenuSubtitle": "Sons do app e nível de efeitos",
+  "appSounds": "Sons da aplicação",
+  "appSoundsDescription": "Ativar/desativar sons e ajustar o nível dos efeitos",
+  "sounds": "Sons",
+  "soundsOn": "Ativado",
+  "soundsOff": "Desativado",
+  "effectsVolume": "Volume dos efeitos",
+  "soundTest": "Teste de som",
+  "playSampleSound": "Reproduzir som de exemplo",
+  
+  "connectionProblem": "Problema de Conexão",
+  "@connectionProblem": {"description": "Título para erros de conexão de rede"},
+  "connectionProblemDescription": "Verifique sua conexão com a internet e tente novamente. Uma conexão estável é necessária para compras.",
+  "@connectionProblemDescription": {"description": "Descrição para erros de conexão de rede"},
+  
+  "paymentMethodIssue": "Problema com Método de Pagamento",
+  "@paymentMethodIssue": {"description": "Título para erros de método de pagamento"},
+  "paymentMethodIssueDescription": "Há um problema com seu método de pagamento. Verifique os detalhes do seu cartão ou tente um método de pagamento diferente.",
+  "@paymentMethodIssueDescription": {"description": "Descrição para erros de método de pagamento"},
+  
+  "insufficientFunds": "Fundos Insuficientes",
+  "@insufficientFunds": {"description": "Título para erros de fundos insuficientes"},
+  "insufficientFundsDescription": "Seu método de pagamento não tem fundos suficientes. Adicione dinheiro à sua conta ou use um método de pagamento diferente.",
+  "@insufficientFundsDescription": {"description": "Descrição para erros de fundos insuficientes"},
+  
+  "purchaseCancelled": "Compra Cancelada",
+  "@purchaseCancelled": {"description": "Título para compras canceladas"},
+  "purchaseCancelledDescription": "Você cancelou a compra. Pode tentar novamente a qualquer momento.",
+  "@purchaseCancelledDescription": {"description": "Descrição para compras canceladas"},
+  
+  "productNotAvailable": "Produto Não Disponível",
+  "@productNotAvailable": {"description": "Título para erros de produto não encontrado"},
+  "productNotAvailableDescription": "Este produto não está temporariamente disponível. Tente novamente mais tarde ou entre em contato com o suporte se o problema persistir.",
+  "@productNotAvailableDescription": {"description": "Descrição para erros de produto não encontrado"},
+  
+  "alreadyPurchased": "Já Comprado",
+  "@alreadyPurchased": {"description": "Título para erros de produto já possuído"},
+  "alreadyPurchasedDescription": "Você já possui este produto. Tente restaurar suas compras se não estiver vendo os benefícios.",
+  "@alreadyPurchasedDescription": {"description": "Descrição para erros de produto já possuído"},
+  
+  "storeUnavailable": "Loja Indisponível",
+  "@storeUnavailable": {"description": "Título para erros de loja não disponível"},
+  "storeUnavailableDescription": "A loja de aplicativos está temporariamente indisponível. Tente novamente em alguns minutos.",
+  "@storeUnavailableDescription": {"description": "Descrição para erros de loja não disponível"},
+  
+  "restoreFailed": "Restauração Falhou",
+  "@restoreFailed": {"description": "Título para falhas de restauração"},
+  "restoreFailedDescription": "Não conseguimos restaurar suas compras. Verifique sua conexão com a internet e tente novamente.",
+  "@restoreFailedDescription": {"description": "Descrição para falhas de restauração"},
+  
+  "ticTacToe": "Jogo da Velha",
+  "@ticTacToe": {
+    "description": "Title for the Jogo da Velha game"
+  },
+  "ticTacToeDescription": "Jogue contra o computador! Faça três seguidas para ganhar.",
+  "@ticTacToeDescription": {
+    "description": "Description for the Jogo da Velha game"
+  },
+  
+  "guessTheFlag": "Adivinhe a Bandeira",
+  "@guessTheFlag": {"description": "Título para o jogo Adivinhe a Bandeira"},
+  "guessTheFlagDescription": "Teste seu conhecimento das bandeiras do mundo! Combine o emoji da bandeira com o nome do país correto.",
+  "@guessTheFlagDescription": {"description": "Descrição para o jogo Adivinhe a Bandeira"},
+  "whichCountry": "A qual país pertence esta bandeira?",
+  "@whichCountry": {"description": "Pergunta sobre a qual país pertence a bandeira"},
+  "timeUp": "Tempo Esgotado!",
+  "@timeUp": {"description": "Mensagem quando o tempo esgota"},
+  "timeUpDescription": "Seu tempo esgotou! Tente ser mais rápido da próxima vez.",
+  "@timeUpDescription": {"description": "Descrição quando o tempo esgota"},
+  "wrongAnswer": "Resposta Errada!",
+  "@wrongAnswer": {"description": "Mensagem quando a resposta está errada"},
+  "wrongAnswerDescription": "Não é o país correto. Melhor sorte da próxima vez!",
+  "@wrongAnswerDescription": {"description": "Descrição quando a resposta está errada"},
+  "round": "Rodada",
+  "@round": {"description": "Rótulo de rodada"},
+  "readyToStart": "Pronto para Começar?",
+  "@readyToStart": {"description": "Mensagem quando pronto para começar o jogo"},
+  "lives": "Vidas",
+  "@lives": {"description": "Label para vidas no jogo"},
+  "yourScore": "Sua Pontuação",
+  "@yourScore": {"description": "Label for player's score in TicTacToe game"},
+  "currentRound": "Rodada Atual",
+  "@currentRound": {"description": "Label for current round in TicTacToe game"},
+  "computerWon": "Computador Ganhou!",
+  "@computerWon": {"description": "Message when computer wins in TicTacToe game"}
+}
