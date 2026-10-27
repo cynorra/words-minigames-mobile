@@ -933,7 +933,7 @@ class AppLocalizationsFr extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'Nous n\'avons pas pu envoyer votre retour pour le moment. Veuillez réessayer plus tard ou nous contacter directement à quickogamehelp@gmail.com';
+      'Nous n\'avons pas pu envoyer votre retour pour le moment. Veuillez réessayer plus tard ou nous contacter directement à eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {

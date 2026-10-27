@@ -9,7 +9,7 @@ class AppLocalizationsTr extends AppLocalizations {
   AppLocalizationsTr([String locale = 'tr']) : super(locale);
 
   @override
-  String get appName => 'Quicko';
+  String get appName => 'Kelime & Zeka Mini Oyunları';
 
   @override
   String get blindSort => 'Kör Sıralama';
@@ -926,7 +926,7 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'Geri bildiriminizi şu anda gönderemedik. Lütfen daha sonra tekrar deneyin veya doğrudan quickogamehelp@gmail.com adresinden bize ulaşın.';
+      'Geri bildiriminizi şu anda gönderemedik. Lütfen daha sonra tekrar deneyin veya doğrudan eren.gp54@gmail.com adresinden bize ulaşın.';
 
   @override
   String feedbackSentError(String errorMessage) {

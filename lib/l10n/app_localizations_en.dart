@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appName => 'Quicko';
+  String get appName => 'Words & Brain Mini Games';
 
   @override
   String get blindSort => 'Blind Sort';
@@ -921,7 +921,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'We couldn\'t send your feedback at this time. Please try again later or contact us directly at quickogamehelp@gmail.com';
+      'We couldn\'t send your feedback at this time. Please try again later or contact us directly at eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {

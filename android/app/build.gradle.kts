@@ -68,7 +68,7 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
             isShrinkResources = true
             // Override AdMob App ID for release (production)
-            manifestPlaceholders["ADMOB_APP_ID"] = "ca-app-pub-4674211063760769~5255856711"
+            manifestPlaceholders["ADMOB_APP_ID"] = "ca-app-pub-4674211063760769~4701909672"
         }
         debug {
             isMinifyEnabled = false

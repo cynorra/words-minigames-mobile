@@ -137,7 +137,7 @@ class FeedbackFormWidget extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   Text(
-                    'quickogamehelp@gmail.com',
+                    'eren.gp54@gmail.com',
                     style: TextThemeManager.bodyMedium.copyWith(
                       color: Theme.of(context).colorScheme.primary,
                       fontWeight: FontWeight.w600,
@@ -527,7 +527,7 @@ class FeedbackFormWidget extends StatelessWidget {
 
     final Uri emailUri = Uri(
       scheme: 'mailto',
-      path: 'quickogamehelp@gmail.com',
+      path: 'eren.gp54@gmail.com',
       queryParameters: {
         'subject': l10n.feedbackFrom(feedbackProvider.feedbackData.title),
         'body': feedbackProvider.feedbackData.description,

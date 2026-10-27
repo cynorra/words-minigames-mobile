@@ -31,6 +31,17 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
 
+      - name: Restore Firebase config files
+        env:
+          GOOGLE_SERVICES_JSON_BASE64: ${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}
+          FIREBASE_OPTIONS_DART_BASE64: ${{ secrets.FIREBASE_OPTIONS_DART_BASE64 }}
+        run: |
+          if [ -z "$GOOGLE_SERVICES_JSON_BASE64" ] || [ -z "$FIREBASE_OPTIONS_DART_BASE64" ]; then
+            echo "Missing GOOGLE_SERVICES_JSON_BASE64 or FIREBASE_OPTIONS_DART_BASE64 secret" && exit 1
+          fi
+          echo "$GOOGLE_SERVICES_JSON_BASE64" | base64 --decode > android/app/google-services.json
+          echo "$FIREBASE_OPTIONS_DART_BASE64" | base64 --decode > lib/firebase_options.dart
+
       - name: Decode & Setup Keystore
         env:
           KEYSTORE_BASE64: ${{ secrets.KEYSTORE_BASE64 }}
@@ -54,9 +65,11 @@ jobs:
         run: |
           flutter build appbundle --release \
             --dart-define=ENVIRONMENT=production \
-            --dart-define=ANDROID_APP_ID="ca-app-pub-4674211063760769~5255856711" \
-            --dart-define=ANDROID_BANNER_AD_ID="ca-app-pub-4674211063760769/4625301329" \
-            --dart-define=ANDROID_REWARDED_AD_ID="ca-app-pub-4674211063760769/4046716825"
+            --dart-define=ANDROID_APP_ID="ca-app-pub-4674211063760769~4701909672" \
+            --dart-define=ANDROID_BANNER_AD_ID="ca-app-pub-4674211063760769/8014468725" \
+            --dart-define=ANDROID_LEADERBOARD_BANNER_AD_ID="ca-app-pub-4674211063760769/1863993345" \
+            --dart-define=ANDROID_INTERSTITIAL_AD_ID="ca-app-pub-4674211063760769/2075746330" \
+            --dart-define=ANDROID_REWARDED_AD_ID="ca-app-pub-4674211063760769/7822897035"
 
       - name: Upload AAB Artifact
         uses: actions/upload-artifact@v4

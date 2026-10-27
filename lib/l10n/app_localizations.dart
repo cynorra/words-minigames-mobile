@@ -121,7 +121,7 @@ abstract class AppLocalizations {
   /// The name of the application
   ///
   /// In en, this message translates to:
-  /// **'Quicko'**
+  /// **'Words & Brain Mini Games'**
   String get appName;
 
   /// Title for the Blind Sort game
@@ -1843,7 +1843,7 @@ abstract class AppLocalizations {
   /// Description text shown in feedback error bottom sheet
   ///
   /// In en, this message translates to:
-  /// **'We couldn\'t send your feedback at this time. Please try again later or contact us directly at quickogamehelp@gmail.com'**
+  /// **'We couldn\'t send your feedback at this time. Please try again later or contact us directly at eren.gp54@gmail.com'**
   String get feedbackErrorDescription;
 
   /// Error message when feedback sending fails

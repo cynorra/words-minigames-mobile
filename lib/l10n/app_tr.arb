@@ -641,7 +641,7 @@
   "feedbackSuccessDescription": "Geri bildiriminiz için teşekkürler! Görüşlerinizi değerlendiriyoruz ve dikkatle inceleyeceğiz.",
   "feedbackSuccessGotIt": "Anladım!",
   "feedbackErrorTitle": "E-posta Gönderilemedi",
-  "feedbackErrorDescription": "Geri bildiriminizi şu anda gönderemedik. Lütfen daha sonra tekrar deneyin veya doğrudan quickogamehelp@gmail.com adresinden bize ulaşın.",
+  "feedbackErrorDescription": "Geri bildiriminizi şu anda gönderemedik. Lütfen daha sonra tekrar deneyin veya doğrudan eren.gp54@gmail.com adresinden bize ulaşın.",
   "feedbackSentError": "❌ {errorMessage}. Lütfen tekrar deneyin veya yukarıdaki doğrudan e-posta seçeneğini kullanın.",
   "feedbackCategoryBug": "Hata Bildirimi",
   "feedbackCategoryFeature": "Özellik İsteği",

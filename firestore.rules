@@ -1,0 +1,37 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Global leaderboard: public read, validated create/delete.
+    // The app has no auth, so any client may write; shape and size are validated.
+    match /leaderboards/{gameId}/entries/{entryId} {
+      allow read: if true;
+      allow create: if request.resource.data.keys().hasOnly(['gameId', 'name', 'countryCode', 'score'])
+                    && request.resource.data.gameId == gameId
+                    && request.resource.data.name is string
+                    && request.resource.data.name.size() > 0
+                    && request.resource.data.name.size() <= 30
+                    && request.resource.data.countryCode is string
+                    && request.resource.data.countryCode.size() == 2
+                    && request.resource.data.score is int
+                    && request.resource.data.score > 0
+                    && request.resource.data.score < 100000000;
+      allow delete: if true;
+      allow update: if false;
+    }
+
+    // Anonymous per-game open counter: only increments openCount by 1.
+    match /game_metrics/{gameId} {
+      allow read: if false;
+      allow create: if request.resource.data.keys().hasOnly(['openCount'])
+                    && request.resource.data.openCount == 1;
+      allow update: if request.resource.data.diff(resource.data).affectedKeys().hasOnly(['openCount'])
+                    && request.resource.data.openCount == resource.data.openCount + 1;
+      allow delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

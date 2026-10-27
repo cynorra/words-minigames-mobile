@@ -930,7 +930,7 @@ class AppLocalizationsDe extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'Wir konnten Ihr Feedback derzeit nicht senden. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns direkt unter quickogamehelp@gmail.com';
+      'Wir konnten Ihr Feedback derzeit nicht senden. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns direkt unter eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {

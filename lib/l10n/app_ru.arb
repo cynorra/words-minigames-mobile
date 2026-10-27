@@ -1138,7 +1138,7 @@
   "@feedbackErrorTitle": {
     "description": "Title shown in feedback error bottom sheet"
   },
-  "feedbackErrorDescription": "Мы не смогли отправить вашу обратную связь в данный момент. Попробуйте позже или свяжитесь с нами напрямую: quickogamehelp@gmail.com",
+  "feedbackErrorDescription": "Мы не смогли отправить вашу обратную связь в данный момент. Попробуйте позже или свяжитесь с нами напрямую: eren.gp54@gmail.com",
   "@feedbackErrorDescription": {
     "description": "Description text shown in feedback error bottom sheet"
   },

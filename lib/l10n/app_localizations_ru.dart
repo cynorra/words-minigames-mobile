@@ -931,7 +931,7 @@ class AppLocalizationsRu extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'Мы не смогли отправить вашу обратную связь в данный момент. Попробуйте позже или свяжитесь с нами напрямую: quickogamehelp@gmail.com';
+      'Мы не смогли отправить вашу обратную связь в данный момент. Попробуйте позже или свяжитесь с нами напрямую: eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {

@@ -1208,7 +1208,7 @@
   "@feedbackErrorTitle": {
     "description": "Title shown in feedback error bottom sheet"
   },
-  "feedbackErrorDescription": "We couldn't send your feedback at this time. Please try again later or contact us directly at quickogamehelp@gmail.com",
+  "feedbackErrorDescription": "We couldn't send your feedback at this time. Please try again later or contact us directly at eren.gp54@gmail.com",
   "@feedbackErrorDescription": {
     "description": "Description text shown in feedback error bottom sheet"
   },

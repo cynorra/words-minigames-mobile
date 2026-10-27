@@ -922,7 +922,7 @@ class AppLocalizationsPt extends AppLocalizations {
 
   @override
   String get feedbackErrorDescription =>
-      'We couldn\'t send your feedback at this time. Please try again later or contact us directly at quickogamehelp@gmail.com';
+      'We couldn\'t send your feedback at this time. Please try again later or contact us directly at eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {
@@ -2064,7 +2064,7 @@ class AppLocalizationsPtBr extends AppLocalizationsPt {
 
   @override
   String get feedbackErrorDescription =>
-      'Não conseguimos enviar seu feedback neste momento. Por favor, tente novamente mais tarde ou entre em contato conosco diretamente em quickogamehelp@gmail.com';
+      'Não conseguimos enviar seu feedback neste momento. Por favor, tente novamente mais tarde ou entre em contato conosco diretamente em eren.gp54@gmail.com';
 
   @override
   String feedbackSentError(String errorMessage) {

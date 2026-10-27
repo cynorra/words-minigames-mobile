@@ -155,7 +155,7 @@ SOFTWARE.
 ## 📞 Contact
 
 - **Developer**: Furkan Caglar
-- **Email**: quickogamehelp@gmail.com
+- **Email**: eren.gp54@gmail.com
 
 ## 📈 Roadmap
 
