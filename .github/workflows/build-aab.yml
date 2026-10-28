@@ -56,9 +56,9 @@ jobs:
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
           KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
         run: |
-          echo "storePassword=${KEYSTORE_PASSWORD:-Sakaryam5454.}" > android/key.properties
-          echo "keyPassword=${KEY_PASSWORD:-Sakaryam5454.}" >> android/key.properties
-          echo "keyAlias=${KEY_ALIAS:-words-mini-games}" >> android/key.properties
+          echo "storePassword=${KEYSTORE_PASSWORD}" > android/key.properties
+          echo "keyPassword=${KEY_PASSWORD}" >> android/key.properties
+          echo "keyAlias=${KEY_ALIAS}" >> android/key.properties
           echo "storeFile=upload-keystore.jks" >> android/key.properties
 
       - name: Build Android App Bundle (AAB)
