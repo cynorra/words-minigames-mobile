@@ -10,6 +10,7 @@ class AuthService {
 
   final FirebaseAuth _auth = FirebaseAuth.instance;
   final GoogleSignIn _googleSignIn = GoogleSignIn(
+    serverClientId: '610435629383-bji5dticnpmt2utu9ban9oh71ms8llv8.apps.googleusercontent.com',
     scopes: ['email', 'profile'],
   );
 
@@ -76,3 +77,4 @@ class AuthService {
     }
   }
 }
+

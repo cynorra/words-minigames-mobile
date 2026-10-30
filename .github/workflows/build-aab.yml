@@ -36,11 +36,21 @@ jobs:
           GOOGLE_SERVICES_JSON_BASE64: ${{ secrets.GOOGLE_SERVICES_JSON_BASE64 }}
           FIREBASE_OPTIONS_DART_BASE64: ${{ secrets.FIREBASE_OPTIONS_DART_BASE64 }}
         run: |
-          if [ -z "$GOOGLE_SERVICES_JSON_BASE64" ] || [ -z "$FIREBASE_OPTIONS_DART_BASE64" ]; then
-            echo "Missing GOOGLE_SERVICES_JSON_BASE64 or FIREBASE_OPTIONS_DART_BASE64 secret" && exit 1
+          # Use repository file if present, otherwise restore from secret
+          if [ ! -s "android/app/google-services.json" ]; then
+            if [ -n "$GOOGLE_SERVICES_JSON_BASE64" ]; then
+              echo "$GOOGLE_SERVICES_JSON_BASE64" | base64 --decode > android/app/google-services.json
+            else
+              echo "Missing google-services.json" && exit 1
+            fi
           fi
-          echo "$GOOGLE_SERVICES_JSON_BASE64" | base64 --decode > android/app/google-services.json
-          echo "$FIREBASE_OPTIONS_DART_BASE64" | base64 --decode > lib/firebase_options.dart
+          if [ ! -s "lib/firebase_options.dart" ]; then
+            if [ -n "$FIREBASE_OPTIONS_DART_BASE64" ]; then
+              echo "$FIREBASE_OPTIONS_DART_BASE64" | base64 --decode > lib/firebase_options.dart
+            else
+              echo "Missing firebase_options.dart" && exit 1
+            fi
+          fi
 
       - name: Decode & Setup Keystore
         env:

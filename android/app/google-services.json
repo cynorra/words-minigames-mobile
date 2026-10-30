@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "610435629383",
+    "project_id": "words-brain-mini-games",
+    "storage_bucket": "words-brain-mini-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610435629383:android:539995dd131501ec8e4c62",
+        "android_client_info": {
+          "package_name": "com.cynnora.braingames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610435629383-csk3hhtncn7vejmr3hrttfc4pek02dt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cynnora.braingames",
+            "certificate_hash": "ec89bf702ece2f27c099723d09e9f55c257acfe2"
+          }
+        },
+        {
+          "client_id": "610435629383-q3dvr8nbcv0hs1vmk713lrkvoavnsk1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cynnora.braingames",
+            "certificate_hash": "8de722999ec52e4ca163f368f713a3c9503f7cd9"
+          }
+        },
+        {
+          "client_id": "610435629383-bji5dticnpmt2utu9ban9oh71ms8llv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByd2RbJTVVgSJX__JhRgfm8tQ2EdJNFG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610435629383-bji5dticnpmt2utu9ban9oh71ms8llv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
