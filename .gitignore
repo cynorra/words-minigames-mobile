@@ -224,4 +224,5 @@ coverage/
 
 # Project docs to ignore
 game_standarts.md
+graphify-out/
 

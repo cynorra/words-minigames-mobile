@@ -85,3 +85,7 @@
 -keep class com.google.android.gms.common.api.** { *; }
 -keep class com.google.android.gms.tasks.** { *; }
 -dontwarn com.google.android.gms.**
+
+# Flutter Local Notifications
+-keep class com.dexterous.flutterlocalnotifications.** { *; }
+-dontwarn com.dexterous.flutterlocalnotifications.**
