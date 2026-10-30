@@ -6,7 +6,7 @@ class AppConstants {
   // If you host your Privacy Policy, update this to your live URL.
   // Having this constant allows showing a functional link in-app and in metadata.
   static const String privacyPolicyUrl =
-      'https://github.com/furkanagess/Quicko-Minigames/blob/main/PRIVACY.md';
+      'https://github.com/cynorra/words-minigames-mobile/blob/main/PRIVACY.md';
   // Apple standard EULA URL per App Store guidance
   static const String termsOfUseUrl =
       'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
