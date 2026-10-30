@@ -9,6 +9,7 @@ import '../services/in_app_purchase_service.dart';
 import '../services/interstitial_ad_service.dart';
 import '../services/sound_settings_service.dart';
 import '../services/connectivity_service.dart';
+import '../services/notification_service.dart';
 
 class AppInitializer {
   AppInitializer._();
@@ -29,6 +30,9 @@ class AppInitializer {
 
     // Initialize connectivity service
     await ConnectivityService().initialize();
+
+    // Initialize notification service for daily retention
+    await NotificationService().initialize();
 
     // Firebase last so platform bindings are already in place
     await _initializeFirebase();

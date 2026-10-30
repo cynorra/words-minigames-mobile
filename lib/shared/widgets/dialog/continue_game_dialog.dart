@@ -4,6 +4,7 @@ import '../../../core/services/admob_service.dart';
 import '../../../core/services/in_app_purchase_service.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../core/theme/text_theme_manager.dart';
+import '../../../core/utils/share_utils.dart';
 import '../../../l10n/app_localizations.dart';
 
 enum ContinueGameResult { continued, restarted, exited, dismissed }
@@ -450,6 +451,51 @@ class _ContinueGameDialogState extends State<ContinueGameDialog>
                       ),
                       const SizedBox(height: 16),
                     ],
+
+                    // Share Score Button
+                    Container(
+                      height: 48,
+                      margin: const EdgeInsets.only(bottom: 12),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF6366F1).withValues(alpha: 0.15),
+                        borderRadius: BorderRadius.circular(16),
+                        border: Border.all(
+                          color: const Color(0xFF6366F1).withValues(alpha: 0.4),
+                          width: 1,
+                        ),
+                      ),
+                      child: TextButton(
+                        onPressed: () {
+                          ShareUtils.shareGameScore(
+                            gameName: widget.gameTitle,
+                            score: widget.currentScore,
+                          );
+                        },
+                        style: TextButton.styleFrom(
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(16),
+                          ),
+                        ),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            const Icon(
+                              Icons.share_rounded,
+                              color: Color(0xFF818CF8),
+                              size: 18,
+                            ),
+                            const SizedBox(width: 8),
+                            Text(
+                              localizations.share,
+                              style: TextThemeManager.bodyMedium.copyWith(
+                                color: const Color(0xFF818CF8),
+                                fontWeight: FontWeight.w600,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
 
                     // Action buttons
                     Row(

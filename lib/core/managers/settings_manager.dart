@@ -146,6 +146,13 @@ class SettingsManager {
         emoji: '💬',
         route: '/feedback',
       ),
+      SettingsOptionData(
+        title: AppLocalizations.of(context)!.share,
+        subtitle: 'Arkadaşlarına meydan oku ve oyunu paylaş',
+        icon: Icons.share_rounded,
+        emoji: '🚀',
+        route: 'share-app',
+      ),
     ];
 
     return options;

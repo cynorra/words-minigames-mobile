@@ -11,6 +11,34 @@ class ShareUtils {
   static final ScreenshotController _screenshotController =
       ScreenshotController();
 
+  /// Oyun skorunu sosyal medyada paylaş (WhatsApp, Instagram, TikTok vb.)
+  static Future<void> shareGameScore({
+    required String gameName,
+    required int score,
+  }) async {
+    try {
+      final String message =
+          '🎮 Words & Brain Mini Games oyununda "$gameName" rekorum: $score Puan! 🔥\n\n'
+          'Beni geçebilir misin? Hemen ücretsiz indir ve zihnini sına:\n'
+          'https://play.google.com/store/apps/details?id=com.cynnora.braingames';
+      await Share.share(message, subject: '$gameName Rekorum: $score Puan!');
+    } catch (e) {
+      debugPrint('Share score error: $e');
+    }
+  }
+
+  /// Uygulamayı arkadaşlarına öner
+  static Future<void> shareApp() async {
+    try {
+      const String message =
+          '🧠 Zihnini zinde tutacak harika mini oyunlar! Words & Brain Mini Games ile hafıza, odak ve hızını test et:\n'
+          'https://play.google.com/store/apps/details?id=com.cynnora.braingames';
+      await Share.share(message, subject: 'Words & Brain Mini Games');
+    } catch (e) {
+      debugPrint('Share app error: $e');
+    }
+  }
+
   /// Achievement görüntüsünü paylaş
   static Future<void> shareAchievementImage({
     required List<LeaderboardEntry> entries,
@@ -46,10 +74,9 @@ class ShareUtils {
       // Paylaş
       await Share.shareXFiles([
         XFile(file.path),
-      ], text: 'Check out my gaming achievements! 🎮🏆');
+      ], text: 'Words & Brain Mini Games başarılarıma göz at! 🎮🏆\nhttps://play.google.com/store/apps/details?id=com.cynnora.braingames');
     } catch (e) {
-      // Handle error silently in production
-      rethrow;
+      debugPrint('Share achievement error: $e');
     }
   }
 

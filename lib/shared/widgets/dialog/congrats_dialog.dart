@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../../core/theme/app_theme.dart';
+import '../../../core/utils/share_utils.dart';
 import '../../../l10n/app_localizations.dart';
 import 'modern_dialog_base.dart';
 import 'dialog_config.dart';
@@ -59,6 +60,19 @@ class _CongratsDialogState extends ModernDialogBaseState<CongratsDialog> {
             // Action buttons
             buildActionButtons(
               buttons: [
+                ModernDialogButton(
+                  text: localizations.share,
+                  onPressed: () {
+                    ShareUtils.shareGameScore(
+                      gameName: widget.gameTitle,
+                      score: widget.currentScore,
+                    );
+                  },
+                  style: ModernDialogButtonStyle.secondary(
+                    const Color(0xFF6366F1),
+                  ),
+                  icon: Icons.share_rounded,
+                ),
                 ModernDialogButton(
                   text: localizations.restart,
                   onPressed: () {

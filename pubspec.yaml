@@ -10,6 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Local Notifications
+  flutter_local_notifications: ^17.2.4
+  timezone: ^0.9.4
+
   # State Management
   provider: ^6.1.1
   

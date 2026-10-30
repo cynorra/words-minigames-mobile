@@ -10,6 +10,7 @@ import '../../../shared/widgets/app_bars.dart';
 import '../../../shared/widgets/settings_option_widget.dart';
 import '../../../shared/widgets/animated_screen_widget.dart';
 import '../../../core/services/animation_service.dart';
+import '../../../core/utils/share_utils.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 import 'dart:io';
 import 'package:flutter/gestures.dart';
@@ -125,6 +126,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
         break;
       case '/feedback':
         NavigationService.navigateToFeedback(context);
+        break;
+      case 'share-app':
+        ShareUtils.shareApp();
         break;
     }
   }
