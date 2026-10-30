@@ -1,4 +1,4 @@
-name: Build & Release Android AAB
+name: Build & Release Android (AAB & APK)
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Build Android App Bundle (AAB)
+    name: Build Android App Bundle (AAB) & APK
     runs-on: ubuntu-latest
 
     steps:
@@ -71,9 +71,26 @@ jobs:
             --dart-define=ANDROID_INTERSTITIAL_AD_ID="ca-app-pub-4674211063760769/2075746330" \
             --dart-define=ANDROID_REWARDED_AD_ID="ca-app-pub-4674211063760769/7822897035"
 
+      - name: Build Android APK
+        run: |
+          flutter build apk --release \
+            --dart-define=ENVIRONMENT=production \
+            --dart-define=ANDROID_APP_ID="ca-app-pub-4674211063760769~4701909672" \
+            --dart-define=ANDROID_BANNER_AD_ID="ca-app-pub-4674211063760769/8014468725" \
+            --dart-define=ANDROID_LEADERBOARD_BANNER_AD_ID="ca-app-pub-4674211063760769/1863993345" \
+            --dart-define=ANDROID_INTERSTITIAL_AD_ID="ca-app-pub-4674211063760769/2075746330" \
+            --dart-define=ANDROID_REWARDED_AD_ID="ca-app-pub-4674211063760769/7822897035"
+
       - name: Upload AAB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: words-brain-mini-games-release-aab
           path: build/app/outputs/bundle/release/*.aab
+          retention-days: 14
+
+      - name: Upload APK Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: words-brain-mini-games-release-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
           retention-days: 14
