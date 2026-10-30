@@ -28,8 +28,8 @@ class InterstitialAdService {
   bool _hasShownUpsellThisSession = false;
 
   // Configuration
-  static const int _routeChangeThreshold = 15;
-  static const Duration _minimumAdInterval = Duration(minutes: 1);
+  static const int _routeChangeThreshold = 3;
+  static const Duration _minimumAdInterval = Duration(seconds: 45);
 
   /// Get interstitial ad unit ID
   String get _interstitialAdUnitId => _config.interstitialAdUnitId;

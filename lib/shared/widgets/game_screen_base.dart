@@ -15,6 +15,7 @@ import 'dialog/leaderboard_register_dialog.dart';
 import '../../core/services/leaderboard_profile_service.dart';
 import 'app_bars.dart';
 import 'game_action_button.dart';
+import 'banner_ad_widget.dart';
 
 class GameScreenBase extends StatefulWidget {
   final String title;
@@ -824,6 +825,10 @@ class _GameScreenBaseState extends State<GameScreenBase>
             ),
           ),
         ),
+      ),
+      bottomNavigationBar: const SafeArea(
+        top: false,
+        child: BannerAdWidget(),
       ),
     );
   }
