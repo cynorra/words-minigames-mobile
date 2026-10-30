@@ -8,6 +8,7 @@ import '../../../core/theme/text_theme_manager.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../core/routes/app_router.dart';
 import '../../../core/services/leaderboard_profile_service.dart';
+import '../../../core/services/auth_service.dart';
 import '../../../shared/widgets/app_bars.dart';
 
 class LeaderboardProfileSettingsScreen extends StatefulWidget {
@@ -278,6 +279,7 @@ class _LeaderboardProfileSettingsScreenState
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
+                              _buildGoogleAccountSection(context),
                               TextFormField(
                                 controller: _nameController,
                                 decoration: InputDecoration(
@@ -462,5 +464,185 @@ class _LeaderboardProfileSettingsScreenState
     final int first = base + (upper.codeUnitAt(0) - 65);
     final int second = base + (upper.codeUnitAt(1) - 65);
     return String.fromCharCode(first) + String.fromCharCode(second);
+  }
+
+  Future<void> _handleGoogleSignIn() async {
+    setState(() => _isLoading = true);
+    try {
+      final cred = await AuthService().signInWithGoogle();
+      if (cred?.user != null) {
+        if (cred!.user!.displayName != null && cred.user!.displayName!.isNotEmpty) {
+          _nameController.text = cred.user!.displayName!;
+        }
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Google ile bağlanıldı: ${cred.user!.displayName ?? ""}'),
+              backgroundColor: const Color(0xFF10B981),
+            ),
+          );
+        }
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Giriş başarısız oldu: $e'),
+            backgroundColor: Colors.redAccent,
+          ),
+        );
+      }
+    } finally {
+      if (mounted) {
+        setState(() => _isLoading = false);
+      }
+    }
+  }
+
+  Widget _buildGoogleAccountSection(BuildContext context) {
+    final user = AuthService().currentUser;
+
+    if (user != null) {
+      // Signed-in state
+      return Container(
+        margin: const EdgeInsets.only(bottom: 20),
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: Theme.of(context).colorScheme.surface,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(
+            color: const Color(0xFF10B981).withValues(alpha: 0.4),
+            width: 1.5,
+          ),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFF10B981).withValues(alpha: 0.1),
+              blurRadius: 10,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Row(
+          children: [
+            CircleAvatar(
+              radius: 22,
+              backgroundColor: const Color(0xFF6366F1).withValues(alpha: 0.2),
+              backgroundImage: user.photoURL != null ? NetworkImage(user.photoURL!) : null,
+              child: user.photoURL == null
+                  ? const Icon(Icons.person, color: Colors.white, size: 24)
+                  : null,
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Row(
+                    children: [
+                      Flexible(
+                        child: Text(
+                          user.displayName ?? 'Google Player',
+                          style: TextThemeManager.bodyMedium.copyWith(
+                            fontWeight: FontWeight.bold,
+                          ),
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                      const SizedBox(width: 6),
+                      const Icon(
+                        Icons.verified_rounded,
+                        color: Color(0xFF10B981),
+                        size: 16,
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 2),
+                  Text(
+                    user.email ?? '',
+                    style: TextThemeManager.caption.copyWith(
+                      color: Theme.of(context)
+                          .colorScheme
+                          .onSurface
+                          .withValues(alpha: 0.6),
+                    ),
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ],
+              ),
+            ),
+            IconButton(
+              tooltip: 'Sign Out',
+              icon: const Icon(Icons.logout_rounded, color: Colors.redAccent, size: 20),
+              onPressed: () async {
+                await AuthService().signOut();
+                setState(() {});
+              },
+            ),
+          ],
+        ),
+      );
+    }
+
+    // Not signed-in state: Show Google Sign-In button
+    return Container(
+      margin: const EdgeInsets.only(bottom: 20),
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Theme.of(context).colorScheme.surface,
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(
+          color: Theme.of(context).colorScheme.outline.withValues(alpha: 0.2),
+        ),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.cloud_sync_rounded, color: Color(0xFF6366F1), size: 22),
+              const SizedBox(width: 8),
+              Text(
+                'Bulut Skor Senkronizasyonu',
+                style: TextThemeManager.bodyMedium.copyWith(
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 6),
+          Text(
+            'Google hesabınızı bağlayarak skorlarınızı cihaz değiştirseniz bile koruyun.',
+            style: TextThemeManager.caption.copyWith(
+              color: Theme.of(context)
+                  .colorScheme
+                  .onSurface
+                  .withValues(alpha: 0.7),
+            ),
+          ),
+          const SizedBox(height: 12),
+          SizedBox(
+            width: double.infinity,
+            height: 48,
+            child: ElevatedButton.icon(
+              onPressed: _handleGoogleSignIn,
+              icon: const Icon(Icons.g_mobiledata_rounded, color: Colors.white, size: 28),
+              label: Text(
+                'Google ile Giriş Yap',
+                style: TextThemeManager.bodyMedium.copyWith(
+                  fontWeight: FontWeight.w600,
+                  color: Colors.white,
+                ),
+              ),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF4285F4),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 }
