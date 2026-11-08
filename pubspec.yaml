@@ -1,7 +1,7 @@
 name: quicko_app
 description: "Quicko"
 publish_to: 'none' 
-version: 1.1.2+14
+version: 1.2.0+20
 
 environment:
   sdk: ^3.7.0

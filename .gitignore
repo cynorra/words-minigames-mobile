@@ -200,9 +200,6 @@ debug_config.dart
 
 # Gradle files
 **/android/.gradle/
-**/android/gradle/
-**/android/gradlew
-**/android/gradlew.bat
 **/android/local.properties
 
 # Keystore files
