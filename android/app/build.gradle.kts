@@ -46,8 +46,8 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
 
-        // AdMob manifest placeholder (use Google test App ID for debug builds by default)
-        manifestPlaceholders["ADMOB_APP_ID"] = "ca-app-pub-3940256099942544~3347511713"
+        // Official Live AdMob App ID in all build types
+        manifestPlaceholders["ADMOB_APP_ID"] = "ca-app-pub-4674211063760769~4701909672"
     }
 
       signingConfigs {
